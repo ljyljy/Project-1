@@ -1,4 +1,4 @@
-The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
+﻿The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
 
 Data related to the movie industry. Start with just the United States, (possibly extend to China and India).
 
@@ -26,10 +26,14 @@ c. Average and total revenue by genres
 a. compare vote rating and number of movies
 b. movies with highest vote average (with at least certain amount votes)
 c. time series analysis for time period in one year and different year
+d. voting score vs movie number is normal distribution?
 
 7. Keywords related
 a. Most-used keywords
 b. keywords compared with rating and revenue
+
+Here is a good project we can have a look:
+https://www.kaggle.com/erikbruin/movie-recommendation-systems-based-on-tmdb
 
 Possible source for such data
 
