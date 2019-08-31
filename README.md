@@ -34,7 +34,7 @@ a. Compare number of movies and genre
 
 b. Classify highest rated movies by genre
 
-c. Average and total revenue by genres
+c. Average and total revenue by genres (done)
 
 
 7. vote rating related
@@ -44,7 +44,7 @@ a. compare vote rating and number of movies (normal distribution) (done)
 b. movies with highest vote average (with at least certain amount votes)
 
 
-8. Keywords related
+8. Keywords related (done)
 
 a. Most-used keywords
 
