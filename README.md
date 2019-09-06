@@ -4,20 +4,20 @@ Data related to the movie industry. Start with just the United States, (possibly
 
 The kinds of questions you'll be asking of that data:
 
+What factor can make a financial success?
+revenue - budget for everything
+
 1. Use api to increase the dataset contents 
 
 
-2. Success of big studios vs. small studios (need to define threshold for big and small)
-
-
-3. Time series analysis compared by revenue, voting rating and number of movie
+2. Time series analysis compared by revenue, voting rating and number of movie
 
 a. Analysis most successful season in the year (Month) (done)
 
-b. Analysis releasing time periods, adjusted for inflation (70s, 80s, 90s) (done)
+b. Analysis releasing time periods, adjusted for inflation (70s, 80s, 90s) (not necessary to present)
 
 
-4. Directors and actors (only finish actors part)
+3. Directors and actors (only finish actors part)
 
 a. Most appearances (done for data collect)
 
@@ -26,29 +26,25 @@ b. Revenue and rating (done for data collect)
 c. genres related for famous actors and directors (done for actors)
 
 
-5. Revenue of remakes versus originals
+4. Genres related (done for data collection)
 
-6. Genres related (done for data collection)
-
-a. Compare number of movies and genre
-
-b. Classify highest rated movies by genre
+b. Classify highest rated movies by genre (done)
 
 c. Average and total revenue by genres (done)
 
 
-7. vote rating related
+5. vote rating related
 
 a. compare vote rating and number of movies (normal distribution) (done)
 
-b. movies with highest vote average (with at least certain amount votes)
 
-
-8. Keywords related (done)
+6. Keywords related (done)
 
 a. Most-used keywords
 
 b. keywords compared with rating and revenue
+
+9. correlation between each factor
 
 
 Here is a good project we can have a look:
