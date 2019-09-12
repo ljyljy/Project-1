@@ -16,47 +16,44 @@ What factors can make a financial success?
 (use 2 function to simplifiy the code)
 
 
-1. Use api to increase the dataset contents (not done go through geo map if possible)
+1. Time series analysis compared by revenue, voting rating and number of movie
 
-
-2. Time series analysis compared by revenue, voting rating and number of movie
-
-a. Analysis most successful season in the year (Month) (done)
+a. Analysis most successful season in the year (Month)
 
 b. Analysis releasing time periods, adjusted for inflation (70s, 80s, 90s) (not necessary to present)
 
 
-3. Directors and actors (only finish actors part)
+2. Directors and actors (only finish actors part)
 
-a. Most appearances (done for data collect)
+a. Most appearances
 
-b. Revenue and rating (done for data collect)
+b. Revenue and rating
 
 c. genres related for famous actors and directors (done for actors and deleted stan lee)
 
 
-4. Genres related (done for data collection)
+3. Genres related (done for data collection)
 
-a. Classify highest rated movies by genre (done)
+a. Classify highest rated movies by genre
 
-b. Average and total revenue by genres (done)
-
-
-5. vote rating related
-
-a. compare vote rating and number of movies (normal distribution) (done)
-
-b. linear regression between total voting number and profit (done)
+b. Average and total revenue by genres
 
 
-6. Keywords related (done)
+4. vote rating related
+
+a. compare vote rating and number of movies (normal distribution)
+
+b. linear regression between total voting number and profit
+
+
+5. Keywords related
 
 a. Most-used keywords
 
 b. keywords compared with rating and profit
 
 
-7. correlation between each factors for heatmap (done)
+6. correlation between each factors for heatmap
 
 
 Possible source for such data
