@@ -1,0 +1,4 @@
+budget,genres,homepage,id,keywords,original_language,original_title,overview,popularity,production_companies,production_countries,release_date,revenue,runtime,spoken_languages,status,tagline,title,vote_average,vote_count,country,language,first_actor,second_actor,third_actor,fourth_actor,director
+int64,object,object,int64,object,object,object,object,float64,object,object,object,int64,float64,object,object,object,object,float64,int64,object,object,object,object,object,object,object
+0,0,3091,0,0,0,0,3,0,0,0,1,0,2,0,0,844,0,0,0,174,86,53,63,93,169,30
+0.0,0.0,64.35561107641058,0.0,0.0,0.0,0.0,0.06246096189881324,0.0,0.0,0.0,0.020820320632937747,0.0,0.041640641265875494,0.0,0.0,17.572350614199458,0.0,0.0,0.0,3.622735790131168,1.7905475744326462,1.1034769935457007,1.311680199875078,1.9362898188632107,3.5186341869664792,0.6246096189881324
