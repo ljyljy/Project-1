@@ -1,0 +1,9474 @@
+un_stem list,total numbers
+['woman director'],324
+['independent film'],318
+['duringcreditsstinger'],307
+"['murder', 'murderer']",197
+['based on novel'],197
+['aftercreditsstinger'],170
+"['musical', 'music']",151
+['violence'],150
+['dystopia'],139
+['sport'],126
+['revenge'],118
+['sex'],111
+['friendship'],106
+['biography'],105
+['teenager'],99
+['3d'],98
+['love'],95
+['sequel'],94
+"['suspense', 'suspension']",93
+['new york'],89
+"['prison', 'prisoner']",87
+['police'],84
+"['alcohol', 'alcoholism', 'alcoholic']",82
+['los angeles'],81
+['high school'],80
+"['alien', 'alienation']",80
+"['drug', 'drugs', 'drugged']",72
+['nudity'],71
+"['assassin', 'assassination']",70
+['superhero'],69
+['london england'],69
+['family'],69
+['dying and death'],66
+['father son relationship'],65
+['daughter'],61
+"['suicide', 'suicidal']",59
+"['friends', 'friend']",59
+['world war ii'],58
+['kidnapping'],57
+['wedding'],57
+"['serial killer', 'serial kiler']",57
+['remake'],56
+['magic'],55
+"['explosion', 'explosive', 'explosives']",55
+"['fight', 'fighting']",54
+"['party', 'partying']",53
+"['time travel', 'time traveler']",53
+['corruption'],53
+['escape'],52
+['based on comic book'],52
+['hospital'],52
+['based on true story'],51
+"['investigator', 'investigation']",51
+['martial arts'],51
+['airplane'],50
+"['animation', 'animal', 'anime']",50
+['brother brother relationship'],49
+['female nudity'],49
+['survival'],49
+['fbi'],49
+"['prostitute', 'prostitution']",49
+['money'],48
+"['dance', 'dancing']",48
+['blood'],48
+['future'],47
+['cia'],46
+['best friend'],46
+['gay'],46
+['secret'],46
+['lawyer'],45
+['paris'],45
+['zombie'],45
+"[""love of one's life""]",45
+"['spy', 'spying']",45
+['undercover'],44
+['war'],44
+['flashback'],44
+['small town'],44
+['new love'],43
+['based on young adult novel'],43
+['rescue'],42
+['conspiracy'],42
+['jealousy'],42
+['wife husband relationship'],42
+['vampire'],42
+['rape'],42
+['death'],42
+['witch'],42
+['divorce'],41
+"['dream', 'dreams']",41
+['journalist'],41
+['shootout'],41
+['monster'],40
+['obsession'],40
+['teacher'],40
+['robbery'],40
+['new york city'],39
+['hotel'],39
+['detective'],39
+['england'],39
+['dog'],39
+['soldier'],39
+['gore'],39
+['adultery'],38
+"['terrorism', 'terror']",38
+['hitman'],37
+['ghost'],36
+['christmas'],36
+['1970s'],36
+['hostage'],36
+"['drug dealing', 'drug dealer', 'drug deal']",36
+['relationship'],36
+['sister sister relationship'],36
+['marriage'],36
+"['train', 'training']",36
+['competition'],35
+['holiday'],35
+['island'],35
+['marvel comic'],34
+['brother sister relationship'],34
+['college'],34
+['saving the world'],34
+['secret identity'],34
+['gangster'],34
+['romantic comedy'],34
+['coming of age'],34
+['infidelity'],34
+['slasher'],33
+"['government', 'governance', 'governer']",33
+['usa president'],33
+['helicopter'],33
+"['christian', 'christianity']",33
+"['scientist', 'scientists']",33
+['terrorist'],33
+['blackmail'],32
+['army'],32
+['fbi agent'],32
+['usa'],32
+['doctor'],32
+['parents kids relationship'],31
+['chase'],31
+['battle'],31
+['mother daughter relationship'],30
+['gang'],30
+['ship'],30
+['neighbor'],30
+['psychopath'],30
+['based on video game'],30
+['post-apocalyptic'],30
+['nightmare'],30
+['california'],29
+['mutant'],29
+['rivalry'],29
+['hero'],29
+['found footage'],29
+['black people'],29
+['sheriff'],29
+['extramarital affair'],29
+['faith'],29
+['killer'],28
+['space marine'],28
+"['gun', 'guns']",28
+['writer'],28
+['supernatural'],28
+['single'],28
+['male nudity'],27
+"['author', 'authority']",27
+['space'],27
+['robot'],27
+['loss of father'],27
+"['desert', 'deserter']",27
+"['fire', 'fired']",27
+"['torture', 'torturing']",27
+"['bomb', 'bombing']",27
+['road trip'],27
+['marriage crisis'],26
+['texas'],26
+['secret agent'],26
+['criminal'],26
+['children'],26
+['family relationships'],26
+"['lie', 'lying']",26
+['artificial intelligence'],26
+['deception'],26
+['car chase'],26
+['comedy'],25
+['forest'],25
+"['nazis', 'nazi']",25
+['princess'],25
+['marijuana'],25
+"['horse', 'horses']",25
+['car crash'],25
+"['lovers', 'lover']",25
+['beach'],25
+['mission'],25
+['spoof'],24
+"['politics', 'political']",24
+['mafia'],24
+['san francisco'],24
+['demon'],24
+['father daughter relationship'],24
+['baseball'],24
+['funeral'],23
+"['intelligence', 'intelligent']",23
+['chicago'],23
+"['date', 'dating']",23
+['dark comedy'],23
+['reporter'],23
+"['mountains', 'mountaineering', 'mountaineer', 'mountain']",23
+"['widow', 'widower']",23
+['orphan'],23
+['amnesia'],23
+['imax'],23
+['romance'],23
+"['bank', 'banking']",22
+['alien invasion'],22
+"['drug addiction', 'drug addict']",22
+['dc comics'],22
+['space travel'],22
+['bar'],22
+['american football'],22
+['motorcycle'],22
+['jungle'],22
+['neo-noir'],22
+['space opera'],21
+['kiss'],21
+['hallucination'],21
+['astronaut'],21
+['restaurant'],21
+['historical figure'],21
+['village'],21
+['cancer'],21
+['android'],21
+['falling in love'],21
+['summer'],21
+['19th century'],21
+['secret love'],21
+['priest'],21
+['professor'],21
+"['virgin', 'virginity']",21
+['military'],21
+['suicide attempt'],21
+"['lovesickness', 'lovesick']",21
+['werewolf'],21
+['super powers'],21
+['young adult'],21
+"['celebration', 'celebrity']",21
+['dinosaur'],20
+['youth'],20
+"['boy', 'boys']",20
+['casino'],20
+"['gunfight', 'gunfighter']",20
+['loss of mother'],20
+['crime'],20
+"['student', 'students']",20
+['spaceship'],20
+['street gang'],20
+"['adventurer', 'adventure']",20
+['nightclub'],20
+['winter'],20
+['good vs evil'],20
+['on the run'],20
+['teenage girl'],20
+['curse'],20
+['baby'],20
+['france'],19
+"['individual', 'individuality']",19
+['queen'],19
+['fantasy'],19
+['betrayal'],19
+['loss of family'],19
+['extreme violence'],19
+['cowardliness'],19
+['adoption'],19
+['underdog'],19
+['pilot'],19
+['heist'],19
+['pregnancy'],19
+['lesbian'],19
+['1960s'],19
+['dragon'],19
+['psychiatrist'],19
+['japan'],19
+"['surrealism', 'surreal']",18
+"['immigrant', 'immigration']",18
+['shark'],18
+['computer'],18
+['evil'],18
+['depression'],18
+['satire'],18
+['court'],18
+"['travel', 'traveller']",18
+['nurse'],18
+['racism'],18
+['cold war'],18
+"['retirement', 'retired']",18
+"['clone', 'cloning']",18
+"['snowing', 'snow']",18
+['dysfunctional family'],18
+"['supernatural powers', 'supernatural power']",18
+"['bullying', 'bully']",18
+['becoming an adult'],18
+['fairy tale'],18
+['paranoia'],18
+['politician'],18
+['florida'],18
+['male friendship'],18
+['based on tv series'],18
+['australia'],18
+['hollywood'],17
+['male female relationship'],17
+['success'],17
+"['journalism', 'journal']",17
+"['bear', 'bears']",17
+['fistfight'],17
+['subway'],17
+['motel'],17
+['showdown'],17
+['church'],17
+['british secret service'],17
+['car race'],17
+['hoodlum'],17
+['strip club'],17
+['forbidden love'],17
+['partner'],17
+['female protagonist'],17
+['thief'],17
+['police brutality'],17
+['sister'],17
+['school'],17
+['loss of lover'],17
+['lgbt'],17
+['homosexuality'],17
+['insanity'],17
+['washington d.c.'],17
+"['singer', 'singers']",17
+['traitor'],17
+['mother'],17
+['sniper'],17
+['resistance'],17
+"['transformers', 'transformation']",17
+"['photographer', 'photograph']",16
+['weapon'],16
+['crime fighter'],16
+"['isolation', 'isolated']",16
+"['dangerous', 'danger']",16
+['letter'],16
+['fang vamp'],16
+"['vigilante', 'vigilantism']",16
+['child abuse'],16
+['hip-hop'],16
+['hacker'],16
+['wilderness'],16
+['prince'],16
+['kingdom'],16
+"['spirit', 'spiritism']",16
+['inventor'],16
+['haunted house'],16
+['afterlife'],16
+['road movie'],16
+['anti hero'],16
+['swimming pool'],16
+['ocean'],16
+"['experiment', 'experience']",16
+['taxi'],16
+['exotic island'],16
+['court case'],16
+['mexico'],16
+['egypt'],16
+['death of a friend'],16
+['love triangle'],16
+['police officer'],16
+['halloween'],16
+['submarine'],15
+"['bite', 'biting']",15
+['treasure hunt'],15
+['birthday'],15
+"['memory', 'memories']",15
+['villain'],15
+['1980s'],15
+['seduction'],15
+['mobster'],15
+['drug traffic'],15
+['wheelchair'],15
+['nasa'],15
+"['brother', 'brothers']",15
+['bridge'],15
+"['immortality', 'immortal']",15
+['midlife crisis'],15
+['southern usa'],15
+['waitress'],15
+['las vegas'],15
+['airport'],15
+['wife'],15
+['royalty'],15
+['marriage proposal'],15
+['female friendship'],15
+"['moon', 'mooning']",15
+['general'],14
+['agent'],14
+['river'],14
+['organized crime'],14
+"['fish', 'fishing']",14
+['teen movie'],14
+['mercenary'],14
+['single mother'],14
+['musician'],14
+['gold'],14
+['italy'],14
+['culture clash'],14
+['apocalypse'],14
+"['researcher', 'research']",14
+['child'],14
+['cult film'],14
+['millionaire'],14
+['freedom'],14
+['shipwreck'],14
+['sexuality'],14
+['boxer'],14
+['talking animal'],14
+['car'],14
+['pirate'],14
+['based on play'],14
+['mistaken identity'],14
+['religion'],14
+['bounty hunter'],14
+['cocaine'],14
+['swordplay'],14
+['father'],14
+['loneliness'],14
+['mask'],14
+['bible'],14
+['love at first sight'],14
+['gambling'],14
+"['possession', 'possessed', 'possessiveness']",14
+['mass murder'],14
+['fear'],14
+"['trap', 'trapped']",14
+['cheating'],14
+['vision'],14
+['diner'],14
+['surveillance'],14
+['mother son relationship'],14
+['lake'],13
+['fantasy world'],13
+"['psychology', 'psychological']",13
+['native american'],13
+['castle'],13
+['civil war'],13
+['fugitive'],13
+['unsociability'],13
+['ambush'],13
+['disaster'],13
+['one-night stand'],13
+['virtual reality'],13
+['president'],13
+"['mutation', 'mutations']",13
+['toy comes to life'],13
+['judge'],13
+['jew'],13
+['prophecy'],13
+['painting'],13
+['marvel cinematic universe'],13
+['1950s'],13
+['outer space'],13
+['single parent'],13
+"['brutality', 'brutal']",13
+['corpse'],13
+['race against time'],13
+['capitalism'],13
+['foot chase'],13
+"['cook', 'cooking']",13
+['mockumentary'],13
+"['games', 'game']",13
+['upper class'],13
+['mission of murder'],13
+['tv show'],13
+['christmas party'],13
+['chaos'],13
+['based on true events'],13
+['redemption'],13
+"['film making', 'film maker']",13
+['basketball'],13
+"['plan', 'planning']",13
+['hotel room'],13
+['concert'],13
+['riddle'],13
+['berlin'],13
+['treasure'],13
+['sword'],13
+['sword and sorcery'],13
+['dystopic future'],13
+['olympic games'],13
+['scotland'],13
+['africa'],13
+['cat'],13
+['sea'],13
+"['cop', 'cops']",13
+['archaeologist'],13
+"['senate', 'senator']",13
+['kids and family'],13
+['narration'],13
+['cover-up'],13
+['nanny'],12
+['secret service'],12
+['animal horror'],12
+['fraud'],12
+['roommate'],12
+['age difference'],12
+['china'],12
+"['transporter', 'transport', 'transportation']",12
+['monkey'],12
+['shotgun'],12
+['power'],12
+"['arrest', 'arrested']",12
+"['beauty', 'beautiful']",12
+['espionage'],12
+['underworld'],12
+['pistol'],12
+['coma'],12
+['war crimes'],12
+"['gods', 'god']",12
+['dirty cop'],12
+['based on stage musical'],12
+['xenophobia'],12
+['boston'],12
+['coming out'],12
+['radio'],12
+['farm'],12
+['spacecraft'],12
+['slavery'],12
+['eroticism'],12
+"['camp', 'camping']",12
+"['puppet', 'puppeteer']",12
+['police operation'],12
+['white house'],12
+['hostility'],12
+['psychologist'],12
+['technology'],12
+['diary'],12
+['right and justice'],12
+['russia'],12
+"['community', 'communication', 'commune', 'communism']",12
+['science'],12
+['cyberpunk'],12
+['crush'],12
+['career'],12
+['dual identity'],12
+['water'],12
+['revolution'],12
+['car accident'],12
+['stripper'],12
+['book'],12
+['secret mission'],12
+['cyborg'],12
+['alaska'],12
+"['cannibal', 'cannibalism', 'cannibals']",12
+"['poison', 'poisoning']",12
+['kung fu'],12
+['gunslinger'],12
+['museum'],12
+['newspaper'],12
+['secret organization'],12
+['india'],12
+['soccer'],12
+['rebel'],12
+['television'],12
+['secret intelligence service'],12
+['mexican standoff'],12
+['double life'],12
+['blood splatter'],12
+['extraterrestrial technology'],12
+['house'],11
+['new jersey'],11
+['animal attack'],11
+['rock star'],11
+"['haunting', 'haunted']",11
+['married couple'],11
+['cell phone'],11
+['ex-cop'],11
+['identity'],11
+['graduation'],11
+['photography'],11
+['bank robbery'],11
+['sexual abuse'],11
+['sadness'],11
+['bravery'],11
+['drama'],11
+['ladykiller'],11
+['series of murders'],11
+['u.s. army'],11
+['prosecution'],11
+['hawaii'],11
+['theft'],11
+['false identity'],11
+"['bisexuality', 'bisexual']",11
+['group of friends'],11
+['rage and hate'],11
+['bodyguard'],11
+['vacation'],11
+['prisoners of war'],11
+['rap music'],11
+['knight'],11
+['wolf'],11
+['ensemble cast'],11
+['attack'],11
+['indian lead'],11
+['outlaw'],11
+['alien life-form'],11
+['shakespeare'],11
+"['illegal immigration', 'illegal immigrant']",11
+['loss of brother'],11
+['war on drugs'],11
+['forgiveness'],11
+['liar'],11
+['disfigurement'],11
+['home invasion'],11
+"['arms dealer', 'arms deal']",11
+['horror'],11
+"['woman', 'womanizer']",11
+"['toy', 'toys']",11
+"['heroine', 'heroin']",11
+['interview'],11
+['key'],11
+['tiger'],11
+['wretch'],11
+['parody'],11
+['uncle'],11
+['emperor'],11
+['illegal prostitution'],11
+['bride'],11
+['delusion'],11
+['canada'],11
+"['video gamer', 'video game']",11
+['virus'],11
+['world war i'],11
+['drug abuse'],11
+['self sacrifice'],11
+"['voyeurism', 'voyeur']",11
+['illness'],11
+['atomic bomb'],11
+['incest'],11
+['flying'],11
+['exorcism'],11
+"['dark', 'darkness']",11
+['job'],10
+['new identity'],10
+['iraq'],10
+['religion and supernatural'],10
+['repayment'],10
+['detroit'],10
+['vatican'],10
+['missile'],10
+['british'],10
+['undercover agent'],10
+['stalker'],10
+"['cave', 'caving']",10
+['drug lord'],10
+['police chase'],10
+['security guard'],10
+['loss of husband'],10
+['van'],10
+['bachelor'],10
+"['occultism', 'occult']",10
+['rural setting'],10
+['buddy comedy'],10
+['mayor'],10
+['rain'],10
+['teenage crush'],10
+"['unemployment', 'unemployed']",10
+['hand to hand combat'],10
+['anarchic comedy'],10
+['skeleton'],10
+['undercover cop'],10
+['planet'],10
+['little boy'],10
+['knife'],10
+['interrogation'],10
+['high school student'],10
+['disappearance'],10
+['catholicism'],10
+['philosophy'],10
+['secret society'],10
+['justice'],10
+['therapist'],10
+['pregnancy and birth'],10
+"['corporation', 'corporate']",10
+['lover (female)'],10
+['pop star'],10
+['russian'],10
+['demonic possession'],10
+['survivor'],10
+['pornography'],10
+['homeless person'],10
+"['nun', 'nuns']",10
+['combat'],10
+"['university', 'universe']",10
+"['middle ages', 'middle age']",10
+['murder hunt'],10
+['beautiful woman'],10
+"['colony', 'colonialism']",10
+['death penalty'],10
+['thailand'],10
+"['addicted', 'addiction', 'addict']",10
+['venice'],10
+['wish'],10
+['elves'],10
+['bollywood'],10
+['lion'],10
+['wealth'],10
+"['liberation', 'liberal']",10
+['vietnam veteran'],10
+['rock and roll'],10
+"['presidential election', 'presidential elections']",10
+['teen comedy'],10
+['middle east'],10
+"['hitchhiker', 'hitchhike']",10
+['killing'],10
+['sadism'],10
+"['sex addict', 'sex addiction']",10
+['life and death'],10
+['anthropomorphism'],10
+['car journey'],10
+['epic'],10
+['artist'],10
+"['actor', 'actors']",10
+['film producer'],10
+['duel'],10
+['brothel'],10
+"['drinking', 'drink']",10
+['supermarket'],10
+['telepathy'],9
+['relationship problems'],9
+['loss of child'],9
+['hypnosis'],9
+"['sailing', 'sail']",9
+['penguin'],9
+['lesbian relationship'],9
+['law'],9
+['cuba'],9
+['escapade'],9
+['passion'],9
+['terminal illness'],9
+['loss of son'],9
+['destiny'],9
+['stop motion'],9
+['rifle'],9
+['south africa'],9
+['flying saucer'],9
+['son'],9
+['dna'],9
+['parallel world'],9
+['trial'],9
+['vietnam war'],9
+['amusement park'],9
+['aids'],9
+['space mission'],9
+['boat'],9
+['african american'],9
+['end of the world'],9
+['based on graphic novel'],9
+['trainer'],9
+['nuclear missile'],9
+['fictional place'],9
+['thanksgiving'],9
+['self-discovery'],9
+['muslim'],9
+['stranded'],9
+['vandalism'],9
+['high school sports'],9
+['step father'],9
+['scuba diving'],9
+['germany'],9
+['miami'],9
+['time'],9
+['truck'],9
+['unsimulated sex'],9
+['cemetery'],9
+['journey'],9
+['puberty'],9
+['orphanage'],9
+['film director'],9
+['power outage'],9
+['sabotage'],9
+['black magic'],9
+['man vs machine'],9
+['love letter'],9
+['mother role'],9
+"['flood', 'flooding']",9
+['ancient world'],9
+['sword fight'],9
+['courtroom'],9
+['mumblegore'],9
+['desperation'],9
+"['songs', 'song']",9
+"['hijacking', 'hijack']",9
+['anthology'],9
+"['destroy', 'destroyer']",9
+['futuristic'],9
+['mumblecore'],9
+['japanese'],9
+['gas station'],9
+['multiple storylines'],9
+['killer robot'],9
+['maid'],9
+['movie star'],9
+['planned murder'],9
+['king'],9
+['loser'],9
+"['officer', 'office']",9
+['camcorder'],9
+"['sadistic', 'sadist']",9
+['history'],9
+['scandal'],9
+['decapitation'],9
+['missing person'],9
+['period drama'],9
+['schizophrenia'],9
+['santa claus'],9
+['steampunk'],9
+['ancient rome'],9
+['con man'],9
+['literature'],9
+"['cheerleader', 'cheerleading']",9
+['manipulation'],9
+['ireland'],9
+"['angel', 'angels']",9
+['company'],9
+"['drug smuggle', 'drug smuggling']",9
+['suspicion'],9
+['women'],9
+['psychic'],9
+['slaughter'],9
+['suppressed past'],8
+"['bird', 'birding']",8
+['shyness'],8
+['homicide'],8
+['fish out of water'],8
+['genetics'],8
+['voodoo'],8
+['debt'],8
+['sitting on a toilet'],8
+['sexual obsession'],8
+['arranged marriage'],8
+['ax'],8
+['morgue'],8
+"['orcs', 'orc']",8
+['rock'],8
+['guilt'],8
+['growing up'],8
+['wizard'],8
+['stone age'],8
+['storm'],8
+"['illegal drugs', 'illegal drug']",8
+['humiliation'],8
+['evacuation'],8
+['undead'],8
+['mephisto'],8
+['satellite'],8
+['skyscraper'],8
+['autism'],8
+['theatre milieu'],8
+['telekinesis'],8
+['american abroad'],8
+['tv station'],8
+"['art', 'arts']",8
+['dancer'],8
+['masturbation'],8
+['falsely accused'],8
+['honeymoon'],8
+['internet'],8
+['human animal relationship'],8
+['country music'],8
+['crocodile'],8
+['genius'],8
+['action hero'],8
+['ghetto'],8
+['shark attack'],8
+['post traumatic stress  disorder'],8
+"['mythology', 'mythological']",8
+['twin brother'],8
+['trauma'],8
+['gay relationship'],8
+['child hero'],8
+['dolphin'],8
+['ufo'],8
+['moscow'],8
+['business'],8
+['taxi driver'],8
+['american'],8
+['captain'],8
+['underwater'],8
+['grieving'],8
+"['pet', 'pets']",8
+['soul'],8
+"['popularity', 'popular']",8
+['man-woman relation'],8
+['pregnant'],8
+['loss of parents'],8
+['mouse'],8
+"['confidence', 'confidant']",8
+['highway'],8
+['pig'],8
+['jazz'],8
+['food'],8
+['convict'],8
+['himalaya'],8
+['bank robber'],8
+['nazi germany'],8
+"[""new year's eve""]",8
+['cataclysm'],8
+['singing'],8
+['massacre'],8
+['fame'],8
+['grief'],8
+['very little dialogue'],8
+"['horse race', 'horse racing']",8
+"[""family's daily life""]",8
+['auto'],8
+['poetry'],8
+['star'],8
+['anger'],8
+['adolescence'],8
+['punk'],8
+['shower'],8
+"['patriotism', 'patriot']",8
+"['blindness', 'blind']",8
+['u.s. navy'],8
+['hong kong'],8
+"['protest', 'protestant']",8
+['jesus christ'],8
+"['whale', 'whaling']",8
+['confession'],8
+['ninja'],8
+['devil'],8
+['comedian'],8
+['legend'],8
+['pastor'],8
+['prom'],8
+['ambulance'],8
+"['running', 'run']",8
+['airplane crash'],8
+['existentialism'],8
+['monk'],8
+['execution'],8
+['superhuman strength'],8
+['witness'],8
+"['vomit', 'vomiting']",8
+['sociopath'],8
+['ballet'],8
+['cult'],8
+['accident'],8
+['new mexico'],8
+['ambition'],8
+['1940s'],8
+['cigarette smoking'],8
+['slacker'],8
+['laxative'],8
+['computer virus'],8
+['factory'],8
+['past'],8
+"['spider', 'spiders']",8
+['snake'],8
+"['satanic', 'satan', 'satanism']",8
+['1930s'],8
+"['manager', 'management']",8
+"['woods', 'wood']",8
+['music band'],8
+['chainsaw'],8
+['asylum'],8
+['oscar award'],8
+['smuggling'],8
+['heavy metal'],8
+['superhuman'],8
+['canuxploitation'],7
+['bet'],7
+['caribbean'],7
+['soulmates'],7
+['gangster boss'],7
+['fashion'],7
+['f word'],7
+['opposites attract'],7
+['silent film'],7
+['stalking'],7
+['attempt to escape'],7
+['self-defense'],7
+['laboratory'],7
+['jail'],7
+['homophobia'],7
+"['parent', 'parents', 'parenting']",7
+['surgeon'],7
+['female corpse'],7
+['peasant'],7
+['american football player'],7
+['soviet union'],7
+['buddy cop'],7
+['blonde'],7
+['turtle'],7
+"['innocence', 'innocent']",7
+['mississippi'],7
+['bikini'],7
+['rebellion'],7
+['from rags to riches'],7
+['servant'],7
+['country house'],7
+['private detective'],7
+['catholic'],7
+"['tree', 'trees']",7
+['live action and animation'],7
+"['manhattan, new york city']",7
+['gang war'],7
+['hippie'],7
+['aging'],7
+['invention'],7
+['climbing'],7
+"['fiancée', 'fiancé']",7
+['costume'],7
+['mind control'],7
+"['infection', 'infected']",7
+['trust'],7
+['wall street'],7
+['memory loss'],7
+['yacht'],7
+['bahamas'],7
+['quarantine'],7
+['classroom'],7
+['farewell'],7
+['american civil war'],7
+['stranger'],7
+['guitar'],7
+['workaholic'],7
+['hostage-taking'],7
+['mystery'],7
+['movie in movie'],7
+['teenage sexuality'],7
+['barn'],7
+['basement'],7
+['dictator'],7
+['doppelganger'],7
+['fate'],7
+['heart attack'],7
+['paranormal'],7
+['meteor'],7
+['disabled'],7
+['coffin'],7
+['prayer'],7
+['christmas tree'],7
+['vororte'],7
+['egg'],7
+['tragedy'],7
+"['skateboard', 'skateboarding']",7
+['number in title'],7
+"['witch hunt', 'witch hunter']",7
+['escape from prison'],7
+['sports team'],7
+['loyalty'],7
+['apartheid'],7
+['first time'],7
+['loss'],7
+['cavemen'],7
+['stoner'],7
+['garage'],7
+['medicine'],7
+['afghanistan'],7
+['athlete'],7
+['mentally disabled'],7
+['gay interest'],7
+['job interview'],7
+['mental illness'],7
+['iraq war'],7
+['pop'],7
+['best friends in love'],7
+"['double cross', 'double crossed']",7
+['resurrection'],7
+['reunion'],7
+['masked killer'],7
+['drug use'],7
+['ex-girlfriend'],7
+['elderly'],7
+['plantation'],7
+"['ski', 'skiing']",7
+['unrequited love'],7
+['hidden camera'],7
+['father-in-law'],7
+['horseback riding'],7
+['dishonesty'],7
+['family conflict'],7
+['poker'],7
+['underground'],7
+"['clowning', 'clown']",7
+['pedophilia'],7
+['architect'],7
+['dracula'],7
+['young boy'],7
+['twins'],7
+['snow storm'],7
+['lone wolf'],7
+['death of father'],7
+['submachine gun'],7
+['drunk'],7
+['navy seal'],7
+['war veteran'],7
+['truth'],7
+['kids'],7
+['fortune teller'],7
+['burglar'],7
+['natural disaster'],7
+['hope'],7
+['tattoo'],7
+['assault'],7
+"['whip', 'whipping']",7
+['mirror'],7
+['mermaid'],7
+['star crossed lovers'],7
+['giant robot'],7
+['class differences'],7
+['talent'],7
+['firemen'],7
+['automobile racing'],7
+['kitchen'],7
+['circus'],7
+['gotham city'],7
+"['mine', 'mining']",7
+['archeology\xa0'],7
+['nerd'],7
+['reboot'],7
+['affection'],7
+['map'],7
+['volcano'],7
+['matter of life and death'],7
+['alien planet'],7
+['single father'],7
+['unlikely friendship'],7
+['mars'],7
+['drowning'],7
+['cutting the cord'],7
+['adult animation'],7
+['interspecies romance'],7
+['battlefield'],7
+['18th century'],7
+['machinegun'],7
+['zombie apocalypse'],7
+['asteroid'],7
+['tank'],7
+"['insurgence', 'insurgent']",7
+['child prodigy'],7
+['girlfriend'],7
+['frog'],7
+['rome'],7
+['surfer'],6
+['breaking the fourth wall'],6
+['montana'],6
+['shot to death'],6
+['ape'],6
+['work'],6
+['maze'],6
+['mafia boss'],6
+['wrestling'],6
+['alcohol abuse'],6
+['safe'],6
+['rescue mission'],6
+['documentary'],6
+['nature'],6
+['solar eclipse'],6
+['social outcast'],6
+['arson'],6
+['owl'],6
+['space battle'],6
+['insomnia'],6
+['radio presenter'],6
+['hustler'],6
+['idol'],6
+['paranormal phenomena'],6
+['tournament'],6
+['chosen one'],6
+['independence'],6
+['teachers and students'],6
+['stuntman'],6
+"['emigration', 'emigrant']",6
+['violence in schools'],6
+['xenomorph'],6
+['boyfriend'],6
+['pennsylvania'],6
+"['police state', 'police station']",6
+['miracle'],6
+['greece'],6
+['teenage hero'],6
+['policeman'],6
+['patient'],6
+['light'],6
+['steel helmet'],6
+['rooftop'],6
+['slapstick'],6
+['scam'],6
+['disaster movie'],6
+['spain'],6
+['karate'],6
+['grandfather grandson relationship'],6
+['election campaign'],6
+['claustrophobia'],6
+['panic'],6
+['deaf-mute'],6
+['premonition'],6
+['private school'],6
+['pool'],6
+['concentration camp'],6
+"['medical', 'medication']",6
+"['beheading', 'beheaded']",6
+['transport of prisoners'],6
+['father figure'],6
+['dwarves'],6
+['bridesmaid'],6
+['no opening credits'],6
+['childhood trauma'],6
+['roman empire'],6
+['to shoot dead'],6
+['video'],6
+['radio station'],6
+['mental institution'],6
+['prison cell'],6
+['fraternity'],6
+['domestic violence'],6
+['disguise'],6
+['cairo'],6
+['police corruption'],6
+['police detective'],6
+['despair'],6
+['education'],6
+['tunnel'],6
+['family feud'],6
+['christmas eve'],6
+['sex comedy'],6
+['ancient greece'],6
+['childhood memory'],6
+['intolerance'],6
+['flower'],6
+['hell'],6
+['wizardry'],6
+['broom'],6
+['cow'],6
+['feral child'],6
+['femme fatale'],6
+['candlelight vigil'],6
+['fairy-tale figure'],6
+"['boxing', 'box']",6
+['ex-con'],6
+['playboy'],6
+['arena'],6
+['near future'],6
+['madness'],6
+['arbitrary law'],6
+['painter'],6
+['screenwriter'],6
+['dream sequence'],6
+['commercial'],6
+"['motorcycle gang', 'motorcycle gangs']",6
+['time machine'],6
+['rapper'],6
+['atheist'],6
+['school bus'],6
+['suitor'],6
+['fisherman'],6
+['mutiny'],6
+['loss of wife'],6
+['gun violence'],6
+['mathematics'],6
+['kgb'],6
+['piano'],6
+['unhappiness'],6
+['chimp'],6
+"['scream', 'screaming']",6
+['insane asylum'],6
+"['smoking', 'smoke']",6
+['chases and races'],6
+['ice hockey'],6
+['partnership'],6
+['cabin'],6
+"[""based on children's book""]",6
+['dentist'],6
+['older man younger woman relationship'],6
+['economics'],6
+['beating'],6
+['galaxy'],6
+['violent husband'],6
+['marine corps'],6
+['radio transmission'],6
+['prank'],6
+['junkie'],6
+['warrior'],6
+['sun glasses'],6
+['interracial relationship'],6
+['fighter'],6
+['film noir'],6
+['u.s. soldier'],6
+['cigar smoking'],6
+"['lasers', 'laser']",6
+['one night'],6
+"['superpower', 'superpowers']",6
+['liberation of prisoners'],6
+['language barrier'],6
+['maniac'],6
+['doomsday'],6
+['assistant'],6
+['comic book'],6
+['estate'],6
+['new orleans'],6
+['record producer'],6
+['parents-in-law'],6
+['ranch'],6
+['cowboy'],6
+['misfit'],6
+['poverty'],6
+['war on terror'],6
+['actress'],6
+['witness to murder'],6
+['prehistoric'],6
+['motherly love'],6
+['invisible man'],6
+['yakuza'],6
+['morality'],6
+['beer'],6
+['rock band'],6
+['cannabis'],6
+"[""women's prison""]",6
+['loss of virginity'],6
+['release from prison'],6
+['teenage romance'],6
+['mentor'],6
+['italo-american'],6
+['space colony'],6
+['secret base'],6
+['search'],6
+['society'],6
+['u.s. marine'],6
+['frankenstein'],6
+['victim'],6
+"['backpacker', 'backpack']",6
+['break-up'],6
+['mistake in person'],6
+['imaginary friend'],6
+['hunter'],6
+['co-worker'],6
+['black and white'],6
+['teleportation'],6
+['minister'],6
+['sun'],6
+['dead body'],6
+['great depression'],6
+['attempted murder'],6
+['ex-wife'],6
+['oil'],6
+['family vacation'],6
+['guerrilla'],6
+['art gallery'],6
+['hold-up robbery'],6
+['human trafficking'],6
+['lust'],6
+"['race', 'racing', 'races']",6
+['leader'],6
+['class'],6
+['vietnam'],6
+['boarding school'],6
+['stag night'],6
+['ransom'],6
+"['performance', 'performer']",6
+"['invisibility', 'invisible']",6
+['great britain'],6
+['united states–mexico barrier'],6
+['mad scientist'],6
+['governor'],6
+"['spirituality', 'spiritualism']",6
+"['flirt', 'flirting']",6
+['stupidity'],6
+['tyrannosaurus rex'],6
+['prehistoric times'],6
+['regret'],6
+['conspiracy of murder'],6
+['ex soldier'],5
+['racial segregation'],5
+"['crusade', 'crusader']",5
+['witness protection'],5
+['tradition'],5
+['flight'],5
+['biker'],5
+['u.s. marshal'],5
+['underwear'],5
+"['public', 'publicity']",5
+['victorian england'],5
+['evil spirit'],5
+['the big game'],5
+['lost'],5
+['palace'],5
+['florist'],5
+['troll'],5
+['intern'],5
+['walkie talkie'],5
+['school of witchcraft'],5
+['throat slitting'],5
+['fireworks'],5
+['vegetarian'],5
+['theater'],5
+['apprentice'],5
+['summer camp'],5
+['lighthouse'],5
+['coach'],5
+['austria'],5
+['deadly'],5
+['religious'],5
+['shopping mall'],5
+['psychotherapy'],5
+['drug cartel'],5
+['brainwashing'],5
+['bounty'],5
+['vampire hunter'],5
+"['engineering', 'engineer', 'engine']",5
+['louisiana'],5
+['sorority'],5
+"['transplantation', 'transplant']",5
+['cavalry'],5
+"[""writer's block""]",5
+['real estate'],5
+['gorilla'],5
+"['auction', 'auctioneer']",5
+['ring'],5
+['britain'],5
+"[""children's home""]",5
+['bus'],5
+['evidence'],5
+['surgery'],5
+['gulf war'],5
+['salesclerk'],5
+['yuppie'],5
+['viking'],5
+"['operation', 'operative']",5
+['intrigue'],5
+['hiding place'],5
+['tv ratings'],5
+['firearm'],5
+['courage'],5
+['human being'],5
+['jason vorhees'],5
+['magical object'],5
+['control'],5
+"['testting', 'testing', 'test']",5
+['giant'],5
+['wine'],5
+"['captive', 'captivity']",5
+['aquarium'],5
+"['surprise', 'surprising']",5
+['psychological thriller'],5
+['self-referential'],5
+['killing spree'],5
+['navy'],5
+['settler'],5
+['ambassador'],5
+['earth'],5
+['castration'],5
+['impostor'],5
+['colombia'],5
+['psychopathy'],5
+['on the road'],5
+['apartment'],5
+['billionaire'],5
+['moral conflict'],5
+['honor'],5
+"['toxication', 'toxic']",5
+['stadium'],5
+['commando'],5
+['principal'],5
+['heir to the throne'],5
+['pedophile'],5
+['space station'],5
+['loss of daughter'],5
+['jurors'],5
+['cinderella'],5
+['studies'],5
+['relation'],5
+['role of women'],5
+['crisis'],5
+['human experimentation'],5
+['countryside'],5
+['super villain'],5
+['plastic surgery'],5
+['united nations'],5
+['expedition'],5
+"['wound', 'wounded']",5
+['expensive restaurant'],5
+['sleepwalking'],5
+"[""coup d'etat""]",5
+['maya civilization'],5
+['cynic'],5
+"[""sorcerer's apprentice""]",5
+['high society'],5
+['suspect'],5
+['farmer'],5
+['business man'],5
+['horror spoof'],5
+['brain tumor'],5
+['press conference'],5
+['black hole'],5
+['stolen money'],5
+['ouija board'],5
+"['delinquency', 'delinquent']",5
+"['modeling', 'model', 'models']",5
+['gun in mouth'],5
+['israel'],5
+['hairdresser'],5
+['scholarship'],5
+['evolution'],5
+['gun battle'],5
+['sorcery'],5
+['spectacle'],5
+['siege'],5
+['diving'],5
+['blind date'],5
+['cage'],5
+"['garden', 'gardener']",5
+['starfleet'],5
+"['fetish', 'fetishism']",5
+['stand-up comedy'],5
+['ball'],5
+['one against many'],5
+['giant monster'],5
+['bangkok'],5
+['pimp'],5
+['middle-earth (tolkien)'],5
+['humor'],5
+['groupie'],5
+['porn actor'],5
+['lsd'],5
+['hacking'],5
+['sunlight'],5
+['zoo'],5
+['super computer'],5
+['chicken'],5
+['anti-christ'],5
+['luxury'],5
+['21st century'],5
+['prague'],5
+['epilepsy'],5
+['duke'],5
+['prime minister'],5
+['shield'],5
+['electric chair'],5
+['hobbit'],5
+['attic'],5
+['seattle'],5
+['blindness and impaired vision'],5
+['show business'],5
+['war against terror'],5
+['diamant'],5
+['theatre play'],5
+['family holiday'],5
+['inheritance'],5
+['catholic priest'],5
+['fascism'],5
+['beguilement'],5
+['envy'],5
+['chef'],5
+['socially deprived family'],5
+['romantic drama'],5
+['limousine'],5
+['boxing match'],5
+['alternate history'],5
+['killer toys'],5
+['christian film'],5
+['evil corporation'],5
+['sexism'],5
+['american dream'],5
+['writing'],5
+['racehorse'],5
+['genetic engineering'],5
+['irland'],5
+['prequel'],5
+['wild west'],5
+['young love'],5
+['clerk'],5
+['destruction'],5
+['alternate reality'],5
+['vulcan'],5
+['swat team'],5
+"['new age', 'new ager']",5
+['swastika'],5
+['body horror'],5
+['earthquake'],5
+['anti semitism'],5
+['melancholy'],5
+['loss of sister'],5
+"['gypsy', 'gypsies']",5
+['sunrise'],5
+['strong woman'],5
+['orgasm'],5
+['tragic hero'],5
+['brazilian'],5
+['secret lab'],5
+['dying'],5
+['slum'],5
+['hostage drama'],5
+['pyramid'],5
+['stroke of fate'],5
+['predator'],5
+['europe'],5
+['french'],5
+['sexual identity'],5
+['secretary'],5
+['playwright'],5
+['good and bad'],5
+['sex scene'],5
+['cruelty'],5
+['silencer'],5
+['sandstorm'],5
+['storm at sea'],5
+['jazz musician'],5
+['teenage boy'],5
+['theatre group'],5
+['mathematician'],5
+['stabbing'],5
+['british army'],5
+['department store'],5
+['mind and soul'],5
+['based on film'],5
+['burned alive'],5
+['twenty something'],5
+['medallion'],5
+['spin off'],5
+['laser gun'],5
+['jack ryan'],5
+['cross dressing'],5
+['voice over'],5
+"[""life's dream""]",5
+['prehistoric adventure'],5
+['warehouse'],5
+['miner'],5
+"['coal mine', 'coal mining']",5
+['security camera'],5
+['heartbreak'],5
+['school party'],5
+['distrust'],5
+"['code', 'coding']",5
+['michael myers'],5
+['ku klux klan'],5
+['sports car'],5
+['moses'],5
+['bittersweet'],5
+['cgi'],5
+['teenage pregnancy'],5
+['great white shark'],5
+['jamaica'],5
+['ecstasy'],5
+['first love'],5
+['suburbia'],5
+['slave'],5
+['tourist'],5
+['comet'],5
+['deportation'],5
+['swashbuckler'],5
+['grizzly bear'],5
+['war ship'],5
+['sea monster'],5
+['little girl'],5
+['guard'],5
+['dark fantasy'],5
+['runaway'],5
+['class society'],5
+['scuba'],5
+['invasion'],5
+['mobile phone'],5
+['tornado'],5
+['congress'],5
+['hologram'],5
+['empowerment'],5
+['true'],5
+['grave'],5
+['sunglasses'],5
+['sailor'],5
+['jewish'],5
+['aggression by animal'],5
+['car bomb'],5
+['plague'],5
+['transvestism'],5
+"['hunted', 'hunt', 'hunting']",5
+['minions'],5
+['deja vu'],5
+['ice'],5
+['superhero team'],5
+['pop culture'],5
+['escaped convict'],5
+"['imprisoned', 'imprisonment']",5
+['sin'],5
+['korea'],5
+['snow white'],5
+['balloon'],5
+['night life'],5
+['science fiction'],5
+['diamond'],5
+['misogynist'],5
+['music record'],5
+"['aborigine', 'aboriginal']",5
+['brazil'],5
+['brooklyn new york city'],5
+['naivety'],5
+['audition'],5
+['in the closet'],5
+['free love'],5
+['platonic love'],5
+"['bat', 'bats']",4
+['promise'],4
+['robber'],4
+['advancement'],4
+['prehistoric creature'],4
+['mossad'],4
+['playground'],4
+['village and town'],4
+['cheating wife'],4
+['detroit michigan'],4
+['capture'],4
+['riot'],4
+"['park', 'parking']",4
+['booby trap'],4
+['amsterdam'],4
+['sergeant'],4
+['nelson mandela'],4
+['protection'],4
+['fanatic'],4
+['east india trading company'],4
+['harassment'],4
+['striptease'],4
+['alien contact'],4
+['fashion designer'],4
+['buddhist monk'],4
+['clumsy fellow'],4
+['rampage'],4
+['ancient china'],4
+['denmark'],4
+['bad mother-in-law'],4
+['luck'],4
+['karaoke'],4
+['identity crisis'],4
+['one man army'],4
+"['jock', 'jocks']",4
+['alcatraz'],4
+['mexican american'],4
+['boat chase'],4
+['loss of sense of reality'],4
+['new zealand'],4
+['pearl harbor'],4
+['babysitter'],4
+['totalitarian regime'],4
+['farmhouse'],4
+['moral dilemma'],4
+['praise'],4
+"['daydream', 'daydreaming']",4
+['biological weapon'],4
+['magazine'],4
+"['strange', 'strangeness']",4
+['birth'],4
+['leather jacket'],4
+['quest'],4
+['framed for murder'],4
+['hostage situation'],4
+['philadelphia'],4
+['disorder'],4
+['bureaucracy'],4
+['tsunami'],4
+['colonel'],4
+"['fairies', 'fairy']",4
+['adolf hitler'],4
+['chipmunk'],4
+['survival horror'],4
+['beach house'],4
+['golf'],4
+['holy grail'],4
+['school performance'],4
+['mexico city'],4
+['jurassic park'],4
+['race politics'],4
+['mexican'],4
+['custody battle'],4
+['computer hacker'],4
+['extraterrestrial'],4
+['paraplegic'],4
+['san diego'],4
+['unwillingly pregnant'],4
+['dea agent'],4
+['beverly hills'],4
+['machete'],4
+['alien infection'],4
+['war in afghanistan'],4
+['elephant'],4
+['talking to animals'],4
+['persia'],4
+"['documentary filmmaker', 'documentary filmmaking']",4
+"[""child's point of view""]",4
+['alternate dimension'],4
+['necronomicon'],4
+['deceived wife'],4
+['psychopathic killer'],4
+['difficult childhood'],4
+['patriarch'],4
+['reality tv'],4
+['computer program'],4
+['embassy'],4
+['dark past'],4
+['social satire'],4
+['preacher'],4
+"['sleep', 'sleeping']",4
+['menace'],4
+['crucifixion'],4
+['pakistan'],4
+"['responsability', 'responsibility']",4
+['pope'],4
+['misanthrope'],4
+['revelation'],4
+['pianist'],4
+['mansion'],4
+['victim of murder'],4
+['national security agency (nsa)'],4
+['cryogenics'],4
+['recording contract'],4
+['urination'],4
+['reality'],4
+['special forces'],4
+['spanner'],4
+['handcuffs'],4
+"['homesick', 'homesickness']",4
+['breakdance'],4
+['miniseries'],4
+['strange person'],4
+['advice'],4
+['terror cell'],4
+['transsexuality'],4
+['fatherhood'],4
+['broker'],4
+['fighter pilot'],4
+['teen angst'],4
+['nuclear weapons'],4
+['blow job'],4
+['adaptation'],4
+['document'],4
+['shooting'],4
+['pot smoking'],4
+['inanimate objects coming to life'],4
+['russian mafia'],4
+['church service'],4
+['bad luck'],4
+['street war'],4
+['salesman'],4
+['stolen painting'],4
+['denunciation'],4
+['sperm'],4
+['samurai'],4
+['disease'],4
+['broadway'],4
+['deal'],4
+['blade'],4
+['framed'],4
+['fort'],4
+['chain saw'],4
+['barbarian'],4
+['netherlands'],4
+['sweden'],4
+['janitor'],4
+['gossip'],4
+['meeting'],4
+['indian territory'],4
+['stewardess'],4
+"['vulgarity', 'vulgar']",4
+['dark hero'],4
+['high school reunion'],4
+['battle assignment'],4
+['blackout'],4
+['activist'],4
+['northern ireland'],4
+['langley virginia'],4
+['federation'],4
+['tennessee'],4
+['malibu'],4
+['editor-in-chief'],4
+['strike'],4
+['brawl'],4
+['blog'],4
+['master thief'],4
+['anonymity'],4
+['pain'],4
+['vault'],4
+['binoculars'],4
+['heroism'],4
+['rural'],4
+['anti terror'],4
+['based on cartoon'],4
+['dormitory'],4
+['train crash'],4
+['moving'],4
+['reconciliation'],4
+['propaganda'],4
+"['relativity', 'relatives']",4
+"['musketeer', 'musket']",4
+['argument'],4
+['sorcerer'],4
+['flat'],4
+['deserted island'],4
+['bad boss'],4
+"['shop', 'shopping']",4
+['petrol'],4
+['sacrifice'],4
+['nobility'],4
+['puppy'],4
+['redneck'],4
+['uprising'],4
+"['rancher', 'ranchers']",4
+['cartoon'],4
+['chance'],4
+['overdose'],4
+['injection'],4
+['fall'],4
+['tribe'],4
+['based on short story'],4
+['human subjugation'],4
+"['symbol', 'symbolism']",4
+['immigration law'],4
+['hangover'],4
+['atlantic ocean'],4
+['tap dancing'],4
+['tropical island'],4
+['1910s'],4
+['flower shop'],4
+['music video'],4
+['website'],4
+['webcam'],4
+"['filmmaking', 'filmmaker']",4
+['jedi'],4
+['hitchcockian'],4
+['district attorney'],4
+['sperm bank'],4
+['dysfunctional marriage'],4
+['zeus'],4
+['false history'],4
+['pornographic video'],4
+['insult'],4
+['politically incorrect'],4
+['eccentric'],4
+['twin sister'],4
+"['eye', 'eyes']",4
+"[""children's book""]",4
+['bowling'],4
+['ancient egypt'],4
+['assault rifle'],4
+['loss of friend'],4
+['gnosticism'],4
+['jail guard'],4
+['crime family'],4
+"['totalitarian', 'totalitarianism']",4
+['war correspondent'],4
+['stealing'],4
+['temple'],4
+['car set on fire'],4
+"['gambling debts', 'gambling debt']",4
+"['chains', 'chain', 'chained']",4
+['financial crisis'],4
+['finances'],4
+['music instrument'],4
+['con'],4
+['night'],4
+['wrongful arrest'],4
+['u.s. congress'],4
+['martian'],4
+"['rose', 'roses']",4
+['stock broker'],4
+['trouble'],4
+['surveillance camera'],4
+['zebra'],4
+['exploding building'],4
+['greed'],4
+['drug humor'],4
+['invulnerability'],4
+['penalty'],4
+['death star'],4
+['special unit'],4
+['adoptive father'],4
+['barcelona spain'],4
+['crash'],4
+['underground world'],4
+['roman'],4
+['parole'],4
+"['mountain climber', 'mountain climbing']",4
+"['environmentalism', 'environmental']",4
+['trucker'],4
+['stock market'],4
+['james bond spoof'],4
+['panzer'],4
+['disaster film'],4
+['civil rights'],4
+['team'],4
+['pizza'],4
+['music teacher'],4
+['exercise'],4
+['manipulation of the media'],4
+['blast'],4
+['father murder'],4
+['contract killer'],4
+['card game'],4
+['harvard university'],4
+['suitcase'],4
+['family secrets'],4
+['blizzard'],4
+"['compass', 'compassion']",4
+['home'],4
+['australian outback'],4
+['wildlife'],4
+['prison guard'],4
+['prehistoric man'],4
+['gift'],4
+['extortion'],4
+['night shift'],4
+['return'],4
+['threat'],4
+['flying car'],4
+"['intelligence agency', 'intelligence agent']",4
+['dominatrix'],4
+['mockery'],4
+['sewer'],4
+['wyoming'],4
+['volcanic eruption'],4
+['art thief'],4
+['crying'],4
+"['market', 'marketing']",4
+['game show'],4
+['bomber'],4
+['guru'],4
+['money laundering'],4
+['banker'],4
+['leap in time'],4
+['make a match'],4
+['pregnant wife'],4
+['catastrophe'],4
+['pretty woman'],4
+['desire'],4
+['shot in the shoulder'],4
+['cowardice'],4
+['gothic'],4
+['scar'],4
+['support'],4
+['budapest'],4
+['buddhism'],4
+['affair'],4
+['housewife'],4
+['lethal virus'],4
+['rescue team'],4
+['world champion'],4
+['drag'],4
+['chocolate'],4
+['based on fairy tale'],4
+['sniper rifle'],4
+['lightning'],4
+['summer vacation'],4
+"[""leaving one's family""]",4
+['pandemic'],4
+['boredom'],4
+['holocaust'],4
+['bdsm'],4
+"['text messaging', 'text message']",4
+"['paranormal investigation', 'paranormal investigator']",4
+['impersonation'],4
+['panda'],4
+"['blue', 'blues']",4
+['north pole'],4
+"['skinheads', 'skinhead']",4
+['trailer park'],4
+['vienna'],4
+['husband'],4
+['cohabitant'],4
+['peru'],4
+['indiana jones'],4
+['hurricane'],4
+['unfaithfulness'],4
+['sexual humor'],4
+['carnival'],4
+['climate change'],4
+['jewry'],4
+['medical research'],4
+['journey round the world'],4
+['national socialism'],4
+['ice age'],4
+['country life'],4
+['islam'],4
+['hood'],4
+['video camera'],4
+['fictitious marriage'],4
+['nypd'],4
+['factory worker'],4
+['punk band'],4
+['product placement'],4
+['tragic love'],4
+['paparazzi'],4
+['dialogue'],4
+['city'],4
+['crab'],4
+['indiana'],4
+['fake identity'],4
+['utopia'],4
+['prejudice'],4
+['private investigator'],4
+['robin hood'],4
+['euthanasia'],4
+['ghost world'],4
+['human sacrifice'],4
+['epidemic'],4
+['juvenile delinquent'],4
+['orchestra'],4
+['stunts'],4
+['erotic movie'],4
+['john f. kennedy'],4
+['doll'],4
+['notebook'],4
+['love and romance'],4
+['trick or treating'],4
+['girl'],4
+['hunger'],4
+['train station'],4
+['cargo ship'],4
+['childhood friends'],4
+['provence'],4
+['oregon'],4
+['pub'],4
+['blacksmith'],4
+['rejection'],4
+['alone'],4
+['arctic'],4
+['physical abuse'],4
+"['freezing', 'freeze']",4
+"['heal', 'healing']",4
+['corrupt cop'],4
+['ant'],4
+['steam locomotive'],4
+['scarecrow'],4
+['wager'],4
+['held captive'],4
+['medieval'],4
+['sadomasochism'],4
+['based on article'],4
+['loner'],4
+['heterosexual'],3
+['spaceman'],3
+['arab'],3
+['medical examiner'],3
+['hiking'],3
+['christmas carol'],3
+['deceived husband'],3
+['western'],3
+['central and south america'],3
+['scrooge'],3
+['north carolina'],3
+['wallet'],3
+['television producer'],3
+['colorado'],3
+['criminal mastermind'],3
+['evil stepmother'],3
+['changing the past or future'],3
+['man child'],3
+['female vampire'],3
+['tv star'],3
+['vampire slayer'],3
+['lottery'],3
+['saudi arabia'],3
+['child labour'],3
+['freedom fighter'],3
+['dogfight'],3
+['imagination'],3
+['political activism'],3
+['warlock'],3
+['female assassin'],3
+['railroad'],3
+['death of wife'],3
+['voice'],3
+['internet chat'],3
+['ex-husband ex-wife relationship'],3
+['mourning'],3
+['stuffed animal'],3
+['speech'],3
+['cia agent'],3
+['liberation of hostage'],3
+['recovering drug addict'],3
+['yoga'],3
+['hybrid'],3
+['assignment'],3
+['worker'],3
+['tv news'],3
+['caper'],3
+['military officer'],3
+['kindergarten'],3
+"['human', 'humanity']",3
+['reality show'],3
+['baby-snatching'],3
+['just married'],3
+['media'],3
+['adversary'],3
+['hanging'],3
+['armored car'],3
+['nuclear power plant'],3
+['disembowelment'],3
+['flamethrower'],3
+['band'],3
+['business start-up'],3
+['modern society'],3
+['body exchange'],3
+['heroic mission'],3
+['art theft'],3
+['informant'],3
+['major'],3
+['alien phenomenons'],3
+['leukemia'],3
+['medium'],3
+['head injury'],3
+['vlad'],3
+['daily life'],3
+['career woman'],3
+['tibet'],3
+['nuclear radiation'],3
+['runner'],3
+['chauffeur'],3
+['big family'],3
+['videotape'],3
+['gang rape'],3
+['niece'],3
+['route 66'],3
+['rebellious daughter'],3
+['coast guard'],3
+['stagecoach'],3
+['archery'],3
+['library'],3
+"['donuts', 'donut']",3
+['cello'],3
+['julius caesar'],3
+['normandy'],3
+['american flag'],3
+['pollution'],3
+['street race'],3
+['overweight man'],3
+['belgium'],3
+['hatred'],3
+['nose'],3
+['advertising executive'],3
+['in love with enemy'],3
+['animal protection'],3
+['death row'],3
+['clock'],3
+['plot twist'],3
+['tomboy'],3
+"['nation', 'nationalism']",3
+['rugby'],3
+['multiple identities'],3
+['dancing scene'],3
+['enchantment'],3
+['thriller'],3
+['wife murder'],3
+['search party'],3
+['mentally handicapped man'],3
+['homicide detective'],3
+['awkwardness'],3
+['cambodia'],3
+"['buddy', 'buddies']",3
+['hiding'],3
+['racing car'],3
+['warhead'],3
+['disco'],3
+['anti-communism'],3
+['kangaroo'],3
+['scooter'],3
+['pact with the devil'],3
+['overprotective father'],3
+['mascot'],3
+['racial slur'],3
+['killer doll'],3
+['pop music'],3
+['little people'],3
+['grocery store'],3
+['fake documentary'],3
+['monte carlo'],3
+['16th century'],3
+['grandfather granddaughter relationship'],3
+['neo-western'],3
+"['bathing', 'bath']",3
+['teen drama'],3
+['chief'],3
+['compulsive gambling'],3
+['brother-in-law'],3
+['alternative reality'],3
+['minnesota'],3
+['lecture'],3
+"['classmate', 'classmates']",3
+['police raid'],3
+"['fingerprints', 'fingerprinting']",3
+['opera'],3
+['refugee'],3
+['employer employee relationship'],3
+['pet shop'],3
+['missing daughter'],3
+['apostle'],3
+['boyfriend girlfriend relationship'],3
+['bourgeoisie'],3
+['rumor'],3
+['billy the kid'],3
+['feel-good ending'],3
+['time bomb'],3
+['poet'],3
+['gambler'],3
+['toronto'],3
+['one day'],3
+"['conservative', 'conservation']",3
+['villainess'],3
+['talk show'],3
+['paternity'],3
+['condom'],3
+['kansas'],3
+['person on fire'],3
+['lingerie'],3
+['batman'],3
+['tech noir'],3
+['ceremony'],3
+['ex-boyfriend'],3
+['swearing'],3
+"['allied', 'allies']",3
+['teaching'],3
+['animal sidekick'],3
+"['recording', 'record']",3
+['richard nixon'],3
+['billard'],3
+['porn actress'],3
+['irish'],3
+['farm worker'],3
+['composer'],3
+['phone sex'],3
+['aunt'],3
+['wisconsin'],3
+['wedding dress'],3
+['looking for  birth parents'],3
+['ozploitation'],3
+['drug crime'],3
+"['shadowing', 'shadow']",3
+['guantanamo bay'],3
+['suspicion of murder'],3
+"['cliff', 'cliffs']",3
+['benito mussolini'],3
+['wine garden'],3
+['gross out comedy'],3
+['butler'],3
+['diet'],3
+['gymnasium'],3
+['cult classic'],3
+['eclipse'],3
+['plants'],3
+['cabin in the woods'],3
+['insurance salesman'],3
+['rabbit'],3
+['contest'],3
+['uss enterprise-a'],3
+['anonymous letter'],3
+['midnight'],3
+['german shepherd'],3
+['disgust'],3
+['downsizing'],3
+['tears'],3
+['dementia'],3
+"['shenanigan', 'shenanigans']",3
+['grandmother granddaughter relationship'],3
+['loan shark'],3
+['macabre'],3
+['black humor'],3
+['mail order bride'],3
+['murder investigation'],3
+['telecaster'],3
+['catholic church'],3
+['holy water'],3
+['charity'],3
+['police investigation'],3
+['funeral home'],3
+['waiter'],3
+['gondola'],3
+['siblings relations'],3
+['absurdism'],3
+['college student'],3
+['family clan'],3
+['convenience store'],3
+['mall'],3
+['evil mother'],3
+['arizona'],3
+['cross'],3
+['crucifix'],3
+['pill'],3
+['young woman'],3
+['nonlinear timeline'],3
+['disc jockey'],3
+['menage a trois'],3
+['alligator'],3
+['judaism'],3
+['smoking marijuana'],3
+"['exhibition', 'exhibit']",3
+['bar fight'],3
+['lunatic asylum'],3
+['pizzeria'],3
+['punishment'],3
+['telescope'],3
+['blaxploitation'],3
+['dysfunctional'],3
+"['skepticism', 'skeptic']",3
+['fraternity house'],3
+['jewish life'],3
+['wales'],3
+['biology'],3
+['hidden identity'],3
+['brain'],3
+['track and field'],3
+['clock tower'],3
+['machine'],3
+['meta film'],3
+['modern fairy tale'],3
+['interpreter'],3
+['held at gunpoint'],3
+['warrior woman'],3
+['gallows'],3
+['surfing'],3
+['election'],3
+['leatherface'],3
+['ghost ship'],3
+['global warming'],3
+['person running amok'],3
+['dance teacher'],3
+['virtual fight'],3
+['gallery'],3
+['french revolution'],3
+['aspiring singer'],3
+['dude'],3
+['carpet'],3
+['parent child relationship'],3
+['thirty something'],3
+['reincarnation'],3
+['seance'],3
+['utah'],3
+['mixed martial arts'],3
+['union'],3
+['delirium'],3
+['decision'],3
+['bathtub'],3
+['imperial japan'],3
+['evil doll'],3
+['choir'],3
+['mutilation'],3
+['tension'],3
+['mechanic'],3
+['gay lead character'],3
+['housekeeper'],3
+['hit and run'],3
+['caretaker'],3
+['scissors'],3
+['tv movie'],3
+['working class'],3
+['police chief'],3
+['marine'],3
+['new french extremism'],3
+"['club', 'clubbing']",3
+['love affair'],3
+['perfection'],3
+['power relations'],3
+['bronx'],3
+['oxford'],3
+['foster parents'],3
+['mahatma gandhi'],3
+['hinduism'],3
+['iowa'],3
+['british empire'],3
+['ohio'],3
+['internal affairs'],3
+['mentor protégé relationship'],3
+['dc extended universe'],3
+['crooked lawyer'],3
+['tony stark'],3
+['famous score'],3
+['fashion model'],3
+['attempted rape'],3
+['reluctant hero'],3
+['heart'],3
+['military service'],3
+['rich'],3
+['mannequin'],3
+['electric shock'],3
+['roller coaster'],3
+['family reunion'],3
+['satanic cult'],3
+['ghost town'],3
+['creature'],3
+['suffering'],3
+['fog'],3
+['psychotronic'],3
+['poem'],3
+['victory'],3
+['transgender'],3
+['strategy'],3
+['moderator'],3
+['premarital sex'],3
+['theme park'],3
+['telephone'],3
+['coronation'],3
+['filmed killing'],3
+['lesbian interest'],3
+['generations confilct'],3
+['bars and restaurants'],3
+['autoritian education'],3
+['dark secrets'],3
+['machine gun'],3
+['cholo'],3
+['gang member'],3
+['safari'],3
+['beauty contest'],3
+['velociraptor'],3
+['bag over head'],3
+['1990s'],3
+['taser'],3
+['step mother'],3
+['little red riding hood'],3
+['bedroom'],3
+['stetson'],3
+['saloon'],3
+['bunker'],3
+['makeover'],3
+['numbers'],3
+['financial transactions'],3
+['sondheim'],3
+['teddy bear'],3
+['missing'],3
+['championship'],3
+['freak'],3
+['manhunt'],3
+['teenage daughter'],3
+['new mexican cinema'],3
+['rottweiler'],3
+['shaolin'],3
+['night vision goggles'],3
+['movie studio'],3
+['employee'],3
+['beast'],3
+"['homelessness', 'homeless']",3
+['personification'],3
+['battle for power'],3
+['mysterious past'],3
+['supernatural ability'],3
+['spaghetti western'],3
+"['shrimping', 'shrimp']",3
+['speed'],3
+['ethics'],3
+['temptation'],3
+['disfigured face'],3
+['union soldier'],3
+['confederate soldier'],3
+['the muppets'],3
+['mustache'],3
+['artifact'],3
+['the force'],3
+['body-swap'],3
+['change'],3
+['pacific island'],3
+"['commander', 'command', 'commandant']",3
+"[""valentine's day""]",3
+['valentine'],3
+['ex-boyfriend ex-girlfriend relationship'],3
+['tour guide'],3
+['area 51'],3
+['raid'],3
+['car dealer'],3
+['exploitation'],3
+"['pacific', 'pacifism']",3
+['aristocrat'],3
+['illusion'],3
+['razor blade'],3
+['professor for literature'],3
+['adopted child'],3
+['locker room'],3
+['jihad'],3
+['death of a child'],3
+['abusive husband'],3
+['swimming'],3
+['superstition'],3
+['hot tub'],3
+['midnight movie'],3
+['wedding reception'],3
+['police everyday life'],3
+['polaroid'],3
+['gym'],3
+['miscarriage'],3
+['drifter'],3
+['violence against women'],3
+['pigeon'],3
+['alzheimer'],3
+['population control'],3
+['hijacking of train'],3
+['industry'],3
+['boss'],3
+['sexual fantasy'],3
+['teen spy'],3
+['remake of french film'],3
+['narnia'],3
+['silver'],3
+['bias'],3
+['elevator'],3
+['fictional war'],3
+['bondage'],3
+['peeping tom'],3
+['royal family'],3
+['jesse james'],3
+['cult favorite'],3
+['lightsaber'],3
+['death of lover'],3
+['obedience'],3
+['shelter'],3
+['times square'],3
+['porno star'],3
+['classical music'],3
+['klingon'],3
+"['engaged', 'engagement']",3
+['artificial insemination'],3
+['church choir'],3
+['poltergeist'],3
+['iran'],3
+['video store'],3
+['bridegroom'],3
+['bathroom humor'],3
+['child murderer'],3
+['texas ranger'],3
+['dublin'],3
+['hiv'],3
+['tv reporter'],3
+['breast'],3
+['racial tension'],3
+['screenplay'],3
+['spanking'],3
+"['perversion', 'perversity']",3
+['drug mule'],3
+['delorean'],3
+['sailboat'],3
+['ethnic stereotype'],3
+['indigenous'],3
+['north korea'],3
+['telephone call'],3
+['fictional government agency'],3
+['urban legend'],3
+['ocean liner'],3
+['marshal'],3
+['satanic ritual'],3
+['asia'],3
+['teacher student relationship'],3
+['phantom'],3
+['producer'],3
+['gay man'],3
+['socialite'],3
+['arrogance'],3
+['embezzlement'],3
+['film business'],3
+['sled dogs'],3
+['school life'],3
+['campus'],3
+['death by accident'],3
+['joint'],3
+['alps'],3
+['cure'],3
+['serum'],3
+['masked vigilante'],3
+['pipeline'],3
+['hit by a car'],3
+['sex tape'],3
+['napoleon bonaparte'],3
+['dancing master'],3
+['archer'],3
+['stress'],3
+['bow and arrow'],3
+"['attractiveness', 'attraction']",3
+['record label'],3
+['bus ride'],3
+['lordship'],3
+['black men'],3
+"[""ladies' man""]",3
+['audio tape'],3
+['candy'],3
+['auto-tuning'],3
+['curiosity'],3
+['katana'],3
+['self esteem'],3
+['virginia'],3
+['semi autobiographical'],3
+['cinema'],3
+['climate'],3
+['rainstorm'],3
+['loss of job'],3
+['squirrel'],3
+['antarctic'],3
+['moral ambiguity'],3
+"['news report', 'news reporter']",3
+['alien abduction'],3
+['space suit'],3
+['action'],3
+['evil witch'],3
+['cockroach'],3
+['florida keys'],3
+['tied up'],3
+['trapped in space'],3
+['lava'],3
+['pinocchio'],3
+['golden gate bridge'],3
+['terrorist plot'],3
+['paleontology'],3
+['advertising expert'],3
+['interpol'],3
+"['shaman', 'shamanism']",3
+['estate agent'],3
+['death of husband'],3
+['hammer'],3
+['rise and fall'],3
+['portal'],3
+['animal lead'],3
+['falcon'],3
+['support group'],3
+['gladiator'],3
+['research laboratory'],3
+['kenia'],3
+['new england'],3
+['central park'],3
+['stakeout'],3
+['romulans'],3
+['news broadcast'],3
+['social commentary'],3
+['countdown'],3
+['missing child'],3
+['teen superheroes'],3
+['dismemberment'],3
+['talking pig'],3
+['special car'],3
+['broken engagement'],3
+['pokies'],3
+['terrier'],3
+['medal'],3
+['rio de janeiro'],3
+['stand-up comedian'],3
+['tv show in film'],3
+['entrapment'],3
+['conciliation'],3
+['giant snake'],3
+"['dead parents', 'dead parent']",3
+['garbage'],3
+['greek mythology'],3
+['self-fulfilling prophecy'],3
+['men'],3
+['car explosion'],3
+['the white house'],3
+['alien attack'],3
+['science experiment'],3
+"[""alzheimer's disease""]",3
+['taskmaster'],3
+['heaven'],3
+['fool'],3
+['teamwork'],3
+['lapd'],3
+['collector'],3
+['ticket'],3
+['metropolis'],3
+['spear'],3
+"['ugliness', 'ugly']",3
+['woman in jeopardy'],3
+['father son conflict'],3
+['abuse'],3
+['odd couple'],3
+['cattle drive'],3
+['world religion'],3
+['weather'],3
+['police car'],3
+['supermodel'],3
+['kaiju'],3
+['beard'],3
+['u.s. air force'],3
+['buried alive'],3
+['goblin'],3
+['mythical creature'],3
+['city ruin'],3
+['nevada'],3
+['lasergun'],3
+['wisecrack humor'],3
+['film industry'],3
+['campaign'],3
+['enemy'],3
+['energy supply'],3
+['racist'],3
+['godzilla'],3
+['time paradox'],3
+['heart-throb'],3
+['madagascar'],3
+['kuwait'],3
+['treason'],3
+['rogue'],3
+['convoy'],3
+"['carjacking', 'carjacker']",3
+['broken neck'],3
+['rogue agent'],3
+['courthouse'],3
+['unconsciousness'],3
+['viagra'],3
+['canoe'],3
+['sense of guilt'],3
+['massachusetts'],3
+['israeli'],3
+['assassination attempt'],3
+"['scalp', 'scalping']",3
+['lawsuit'],3
+['threat to death'],3
+['postman'],3
+['dean'],3
+['wild boar'],3
+['alter ego'],3
+['norse mythology'],3
+['prodigy'],3
+['night watchman'],3
+['piglet'],3
+['genocide in rwanda'],3
+['subconsciousness'],3
+['missionary'],3
+['peter pan'],3
+['chimpanzee'],3
+['inspector'],3
+['master villain'],3
+['online dating'],3
+"[""devil's son""]",3
+['passport'],3
+['tennis'],3
+['traffic jam'],3
+['bullet wound'],3
+['overweight child'],3
+['future war'],3
+['revolt'],3
+['pickpocket'],3
+['class prejudice'],3
+['cruise'],3
+['volleyball'],3
+['samurai sword'],3
+['irish-american'],3
+['giant wave'],3
+"['parrots', 'parrot']",3
+"['part animation', 'part animated']",3
+['secret service agent'],3
+['bunny'],3
+['convertible'],3
+['aunt niece relationship'],3
+['japanese army'],3
+['exploding house'],3
+"['swing', 'swinging']",3
+['talking'],3
+['quantum mechanics'],3
+['baseball bat'],3
+['overweight'],3
+['wolfman'],3
+['mummy'],3
+['17th century'],3
+['nuclear threat'],3
+['green'],3
+['refugee camp'],3
+['wave'],3
+['ultimatum'],3
+['dollar'],3
+['surfboard'],3
+['veterinarian'],3
+['imaginary'],3
+['baltimore maryland'],3
+['shanghai'],3
+['ogre'],3
+['con artist'],3
+['antarctica'],3
+['hindu'],3
+['pentagon'],3
+['window'],3
+['order of the templars'],3
+['sea battle'],3
+['istanbul'],3
+['golden gun'],3
+['eastern europe'],3
+['cockney accent'],3
+['covered investigation'],3
+['ex husband'],3
+['homeland'],3
+['pentagram'],3
+['conspiracy theory'],3
+"['negotiation', 'negotiator']",3
+['recording studio'],3
+['teenage love'],3
+['overweight woman'],3
+['mormon'],3
+['safecracker'],3
+['wormhole'],3
+['oklahoma'],3
+['tea'],3
+"['stage', 'staging']",3
+"['recruiting', 'recruitment', 'recruit']",3
+['heist movie'],3
+['based on comic strip'],3
+['comeback'],3
+['botanist'],3
+['famine'],3
+['mischief'],3
+['cat and mouse'],3
+['boy genius'],3
+['night club'],3
+['another dimension'],3
+['amazon'],3
+['psychiatric hospital'],3
+['folk hero'],3
+['legs'],3
+['deer'],3
+['violin'],3
+['wuxia'],3
+['fire engine'],3
+['narcotics cop'],3
+['forcefield'],2
+['u.s. embassy'],2
+['group'],2
+['morocco'],2
+['classified'],2
+['albanian'],2
+['archeologist'],2
+['commitment'],2
+['river boat'],2
+['studio'],2
+['west virginia'],2
+['woodstock'],2
+['neurotic'],2
+['catwoman'],2
+['stealing a car'],2
+['turkey'],2
+['dead soldier'],2
+['nostalgic'],2
+['marseille'],2
+"['iceland', 'icelandic']",2
+['fired from the job'],2
+['opera singer'],2
+['english'],2
+['interracial marriage'],2
+['pot'],2
+['barrio'],2
+['fantastic four'],2
+['oil tycoon'],2
+['greenhouse effect'],2
+['twister'],2
+['dogsitter'],2
+['in vitro fertilisation'],2
+['ira'],2
+['hypodermic needle'],2
+['bucket list'],2
+['estranged father'],2
+['diva'],2
+['microscope'],2
+['sense of life'],2
+['parenthood'],2
+['little brother'],2
+['santa hat'],2
+['principal witness '],2
+['high school teacher'],2
+['master warrior'],2
+['duty'],2
+['alexander the great'],2
+['garage sale'],2
+['ancient astronaut'],2
+['social experiment'],2
+['apple'],2
+['defense'],2
+['last supper'],2
+['play'],2
+['metal detector'],2
+['confederate'],2
+['watergate scandal'],2
+['modern day adaptation'],2
+['one armed man'],2
+['rich snob'],2
+['juvenile prison'],2
+['childhood sexual abuse'],2
+['wrong accusal'],2
+['campfire'],2
+['social worker'],2
+['ex-lover'],2
+['longing'],2
+['bankrupt'],2
+['severed head'],2
+['chaos theory'],2
+['conscience'],2
+['rocket'],2
+['auto accident'],2
+['eiffel tower paris'],2
+"['sneezing', 'sneeze']",2
+['grandparents'],2
+['slow motion'],2
+['toscana'],2
+['titanic'],2
+['movie poster'],2
+['great barrier reef'],2
+['grocery'],2
+['cholera'],2
+['computer animation'],2
+['hanged man'],2
+['consciousness'],2
+['killer clown'],2
+['subtitled scene'],2
+['gunshot'],2
+['half-brother'],2
+['lethal injection'],2
+['sweatshop'],2
+['appalachia'],2
+['death sentence'],2
+['video surveillance'],2
+['book store'],2
+['doomed man'],2
+['protective father'],2
+['tang dynasty'],2
+['partisan'],2
+['idealist'],2
+"[""frankenstein's monster""]",2
+['exodus'],2
+['sister-in-law'],2
+['national socialist party'],2
+['crude humor'],2
+['southern california'],2
+['barrier ice'],2
+['bookshop'],2
+['torture by the police'],2
+['incompetence'],2
+['weightlifting'],2
+['male camaraderie'],2
+['investment'],2
+['pledge'],2
+['mi6'],2
+['soccer coach'],2
+['amateur soccer'],2
+['male stripper'],2
+['sibling'],2
+['long island'],2
+['ancient evil'],2
+['ghost hunting'],2
+['ant-hill'],2
+"['bandits', 'bandit']",2
+['dignity'],2
+['dea'],2
+['ice melting'],2
+['drawing'],2
+['intellectually gifted'],2
+['plagiarism'],2
+['kingpin'],2
+['child of divorce'],2
+['united kingdom'],2
+['film'],2
+['niagara falls'],2
+['doing the right thing'],2
+['male bonding'],2
+['march'],2
+['tarot cards'],2
+['prison visit'],2
+['fantasy sequence'],2
+['cultural difference'],2
+['mind transfer'],2
+['music competition'],2
+['pop singer'],2
+['queen elisabeth ii'],2
+['british soldier'],2
+['libya'],2
+['facial scar'],2
+['defeat'],2
+['erotic thriller'],2
+['flush'],2
+['witchcraft'],2
+['girl next door'],2
+['north atlantic'],2
+['irish catholic'],2
+['boarding house'],2
+['historical'],2
+['donkey'],2
+['chile'],2
+['michigan'],2
+['despot'],2
+['alliance'],2
+['lebanon'],2
+['law school'],2
+['evil child'],2
+['bath tub'],2
+['pretend relationship'],2
+['thesis'],2
+['news'],2
+['metereologist'],2
+['prediction'],2
+['pressure'],2
+['grieving widower'],2
+['machismo'],2
+['alice in wonderland'],2
+['pride and vanity'],2
+['globalization'],2
+['destruction of a civilization'],2
+['unlikely lovers'],2
+['bowling team'],2
+['hair loss'],2
+['dictatorship'],2
+['poseidon'],2
+['demigod'],2
+['false memory'],2
+['pension'],2
+['black'],2
+['sole survivor'],2
+['scythe'],2
+['iron man'],2
+['heavy rain'],2
+['religious fanatic'],2
+['having fun'],2
+"['lancaster, pa']",2
+['southern'],2
+['burning of witches'],2
+['birthday party'],2
+['begnadigung'],2
+['reconnaissance'],2
+['army base'],2
+['u.s. military'],2
+['amateur theater'],2
+['long take'],2
+"['pen pals', 'pen pal']",2
+['energy policy'],2
+['nazi background'],2
+['bank manager'],2
+['red riding hood'],2
+['over-the-hill fighter'],2
+['awol'],2
+['junk food'],2
+['atlantic city'],2
+['explosives expert'],2
+['black and white scene'],2
+['ragtime'],2
+['typewriter'],2
+['\xa0nosferatu'],2
+['post 9/11'],2
+['tombstone'],2
+['grifter'],2
+['internet porn'],2
+['missed opportunity'],2
+['photo shoot'],2
+['man hunt'],2
+['food industry'],2
+['sex doll'],2
+['bank fraud'],2
+"['piano lesson', 'piano lessons']",2
+['gun rampage'],2
+['hook'],2
+['iwo jima'],2
+['high rise'],2
+['female agent'],2
+['economy'],2
+['bomb squad'],2
+['tomb'],2
+['music school'],2
+"['drug trafficking', 'drug trafficker']",2
+['political prisoner'],2
+['eye specialist'],2
+['schutzstaffel'],2
+['accountant'],2
+['reference to facebook'],2
+['bungee-jump'],2
+['cyclops'],2
+['entertainer'],2
+['self-abandonment'],2
+"['mimes', 'mime']",2
+['farmland'],2
+"['carnies', 'carny']",2
+['fan'],2
+['new hampshire'],2
+['news spoof'],2
+['gang warfare'],2
+['newsroom'],2
+['motorboat'],2
+['sect'],2
+['organic food'],2
+['though guy'],2
+['political campaign'],2
+['hat'],2
+['pleasure'],2
+['ashes'],2
+['fighter plane'],2
+['resistance fighter'],2
+['research station'],2
+['based on toy'],2
+['aqueduct'],2
+['child murder'],2
+['mine field'],2
+['gold theft'],2
+['fiancé fiancée relationship'],2
+['three kings'],2
+['housebreaking'],2
+['antisocial personality disorder'],2
+['tragic death'],2
+['outsider'],2
+['swinging 60s'],2
+['environment'],2
+['howling'],2
+['street fighter'],2
+['government conspiracy'],2
+['spit in the face'],2
+['school dance'],2
+['finger gun'],2
+"[""driver's license""]",2
+['anarchist'],2
+['erection'],2
+['noises'],2
+['sherlock holmes'],2
+['elmore leonard'],2
+['prohibition'],2
+['atlantis'],2
+['waterfall'],2
+['walking dead'],2
+['gold miner'],2
+['fur'],2
+['art house'],2
+['jekyll and hyde'],2
+"['mystic', 'mysticism']",2
+['video nasty'],2
+['mole'],2
+['gi'],2
+['national guard'],2
+['tramp'],2
+['crash landing'],2
+['marriage problems'],2
+['police training'],2
+['white suit'],2
+['raised middle finger'],2
+['berlin wall'],2
+['mental'],2
+['realtor'],2
+['german democratic republic'],2
+['socialism'],2
+['war of independence'],2
+['cigarette'],2
+['chambers of a barrister'],2
+['parents and children'],2
+['student of medicine'],2
+['coffee shop'],2
+['based on board game'],2
+['argentina'],2
+['asian'],2
+"[""shakespeare's romeo and juliet""]",2
+['screwball'],2
+['male model'],2
+['ninja fighter'],2
+['supreme court'],2
+['ranger'],2
+['panama'],2
+['military court'],2
+['bagdad'],2
+['genocide'],2
+['prime number'],2
+['forensic'],2
+['arabian'],2
+['pizza boy'],2
+['couple'],2
+['implanted memory'],2
+['mechanical engineering'],2
+['reckless driving'],2
+['parole board'],2
+['world of fasion'],2
+['tentacle'],2
+['group dynamics'],2
+['outcast'],2
+['inuit'],2
+['double murder'],2
+['to drop brick'],2
+['gremlin'],2
+['cleverness'],2
+['current'],2
+['tricks'],2
+['tenderness'],2
+['music lover'],2
+['maryland'],2
+['secret passage'],2
+['laughing'],2
+['shakespeare in modern dress'],2
+['puerto rican'],2
+['palestinian'],2
+['wrongful imprisonment'],2
+['obsessive love'],2
+['middle east conflict'],2
+['calypso'],2
+['beijing'],2
+['house fire'],2
+['minotaur'],2
+['time loop'],2
+['way of life'],2
+['self-destruction'],2
+['province'],2
+['sexual awakening'],2
+['uzi'],2
+['disguised voice'],2
+['female homosexuality'],2
+['barbed wire'],2
+['impersonating a police officer'],2
+['gigolo'],2
+['orchid'],2
+['wrestler'],2
+['harmonica'],2
+['scotland yard'],2
+['facebook'],2
+['floatplane'],2
+['ghostbuster'],2
+['zeppelin'],2
+['snowboarding'],2
+['pet dog'],2
+['microchip'],2
+['vegetable'],2
+['ten commandments'],2
+['pilgrimage'],2
+['civil rights movement '],2
+['police academy'],2
+['martin luther king'],2
+['koran'],2
+['receiving of stolen goods'],2
+['outback'],2
+['alcoholic drink'],2
+['undressing'],2
+['japanese mafia'],2
+['sexual attraction'],2
+['hamster'],2
+['wedding ring'],2
+['axe murder'],2
+['switchblade'],2
+['abandoned mine'],2
+['exploding boat'],2
+['night vision'],2
+['poacher'],2
+['hearing'],2
+"['burn', 'burning']",2
+['stealing money'],2
+['hades'],2
+['hamburg germany'],2
+['explicit sex'],2
+['sheep'],2
+['separation'],2
+['fairy godmother'],2
+"['spell', 'spelling']",2
+['trade union'],2
+['policy and organisations'],2
+['drag queen'],2
+['car movie'],2
+['kryptonite'],2
+['stolen cars'],2
+['snuff'],2
+['fatal attraction'],2
+['spontaneous combustion'],2
+['adoptive mother'],2
+['ayn rand'],2
+['surrogate mother'],2
+['chariot'],2
+"['philosopher', 'philosophical']",2
+['archangel gabriel'],2
+['rescue operation'],2
+['child as an adult'],2
+['lesbian sex'],2
+['bed and breakfast place'],2
+['nervous breakdown'],2
+['nostalgia'],2
+['genghis khan'],2
+['bong'],2
+['lone ranger'],2
+['engagement ring'],2
+['banishment'],2
+['law enforcement'],2
+['sword and planet'],2
+['sewerage'],2
+['heart disease'],2
+['coward'],2
+['rock music'],2
+['drummer'],2
+['autobiography'],2
+['political satire'],2
+['hip hop culture'],2
+['expecting twins'],2
+['corporate crime'],2
+['expectant father'],2
+['t shirt'],2
+['motivational speaker'],2
+['underground fighting'],2
+['syracuse university'],2
+['offer'],2
+['cult leader'],2
+['asgard'],2
+['postwar period'],2
+['tavern'],2
+['puzzle'],2
+['proposal'],2
+['player'],2
+['existence'],2
+['emergency room'],2
+['masked man'],2
+['hard to kill'],2
+['homeschooling'],2
+['car breakdown'],2
+['chapel'],2
+['uss enterprise'],2
+['veteran'],2
+['summer job'],2
+['acid'],2
+['criminal heroes'],2
+['rowboat'],2
+['half sister'],2
+['scene'],2
+['volcanologist'],2
+['inner city'],2
+['the lone ranger'],2
+['chemical'],2
+['photographic memory'],2
+['illuminati'],2
+['blood sample'],2
+['limp'],2
+['aggression by plant'],2
+['carnivorous plant'],2
+['exorcist'],2
+['bum'],2
+['washington state'],2
+['toilet'],2
+['role reversal'],2
+['jackhammer'],2
+['new york subway'],2
+['subway train'],2
+['professional sports'],2
+['shocking'],2
+['parkour'],2
+['password'],2
+['audio cassette'],2
+['casual sex'],2
+['jules verne'],2
+['maid of honor'],2
+['wedding party'],2
+['fear of commitment'],2
+['sponge bath'],2
+['old woman'],2
+['log cabin'],2
+['hot air balloon'],2
+['ghost child'],2
+['nudism'],2
+['older woman younger man relationship'],2
+['pit'],2
+['school presentation'],2
+['bipolar disorder'],2
+['air controller'],2
+['royal court'],2
+['pier'],2
+"['plane', 'planes']",2
+['wetting pants'],2
+['immaturity'],2
+['phobia'],2
+['aviation'],2
+['new toy'],2
+['bomb planting'],2
+['selfishness'],2
+['plane wreck'],2
+['wrong number'],2
+['rent'],2
+['cyber terrorism'],2
+['narcissist'],2
+['butterfly'],2
+"['deafness', 'deaf']",2
+['european'],2
+['moon base'],2
+['smurf'],2
+['syringe'],2
+['australian aborigine'],2
+['psychic power'],2
+['lingerie slip'],2
+['skype'],2
+['record company'],2
+['legalized murder'],2
+['father son reunion'],2
+['vietcong'],2
+['mysterious stranger'],2
+['woman crying'],2
+['brighton'],2
+['south korea'],2
+['dagger'],2
+['marooned'],2
+['repo man'],2
+['columbine'],2
+"['tripping', 'trip']",2
+"['clairvoyant', 'clairvoyance']",2
+['attempted robbery'],2
+['kentucky'],2
+['fencing'],2
+['divergent'],2
+['pretended murder'],2
+['russian revolution 1917'],2
+['firefly'],2
+"[""workers' quarter""]",2
+['repentance'],2
+['boxing trainer'],2
+['tarkovskyesque'],2
+['old house'],2
+['telegram'],2
+['red hair'],2
+['e-mail'],2
+['candle'],2
+['deep space explorer'],2
+['cole younger'],2
+['battle for survival'],2
+['newfoundland'],2
+['wedding planer'],2
+['struggling actor'],2
+['political negotiations'],2
+['externally controlled action'],2
+['turk'],2
+['australian'],2
+"['real estate developer', 'real estate development']",2
+['based on greek myth'],2
+['hometown'],2
+['cross country'],2
+['perseus'],2
+['drug overdose'],2
+['spelling bee'],2
+['reference to god'],2
+['dallas texas'],2
+['solidarity'],2
+['copenhagen'],2
+['field'],2
+['injury'],2
+['police fake'],2
+['countess'],2
+['decoy'],2
+['stamp'],2
+['low-budget'],2
+['italian'],2
+['matchmaking'],2
+['king richard'],2
+['catfishing'],2
+['step brother'],2
+['golden egg'],2
+"[""girls' boarding school""]",2
+['police shootout'],2
+['tower'],2
+['phone booth'],2
+['s.w.a.t.'],2
+['angry mob'],2
+['vineyard'],2
+['johannesburg'],2
+['world trade center'],2
+['arkansas'],2
+['metamorphosis'],2
+['vanity'],2
+['cocktail'],2
+['antiquary'],2
+['southern france'],2
+['fast food'],2
+['burn victim'],2
+['defense industry'],2
+['labor'],2
+['atrocity'],2
+['bosnian war of 1992-1995'],2
+['manufacturing'],2
+['unfaithful husband'],2
+['unfaithful boyfriend'],2
+['adult as a child'],2
+['mortgage'],2
+['music festival'],2
+['evil doctor'],2
+['fat woman'],2
+['fat suit'],2
+['rat'],2
+['press'],2
+['camera'],2
+"['stasis', 'stasi']",2
+['divorcee'],2
+['mysterious killer'],2
+['black and white to color'],2
+['lost at sea'],2
+['air raid'],2
+['gospel'],2
+['king of england'],2
+['starvation'],2
+['georgia'],2
+['vulkan'],2
+['storytelling'],2
+['troubled teen'],2
+['cons and scams'],2
+['briefcase'],2
+['spider bite'],2
+['freedom of speech'],2
+['feud'],2
+['manchester city'],2
+['drill instructor'],2
+['death of brother'],2
+['mysterious letter'],2
+['architecture'],2
+['milwaukee wisconsin'],2
+['unfulfilled love'],2
+['white russian'],2
+['irony'],2
+['military life'],2
+['gangster rap'],2
+['hunting human beings'],2
+['bratislava'],2
+['intergalactic travel'],2
+['mad doctor'],2
+['country estate'],2
+['smuggling of arms'],2
+['rope bridge'],2
+['central america'],2
+['radiation'],2
+['switzerland'],2
+['unfulfillment'],2
+['treasure map'],2
+['stolen identity'],2
+['emergency surgery'],2
+['coral reef'],2
+['french noir'],2
+['brother-in-law brother-in-law relationship'],2
+['sorority house'],2
+['walking cane'],2
+['school teacher'],2
+['jinx'],2
+['zookeeper'],2
+['masquerade'],2
+['world cup'],2
+['probation'],2
+['sailing trip'],2
+['fake boyfriend'],2
+['book editor'],2
+['dissection'],2
+['roof'],2
+['somalia'],2
+['health'],2
+['penis'],2
+['garden shears'],2
+['south america'],2
+['psycho'],2
+['surprise ending'],2
+['bail jumper'],2
+['conductor'],2
+['moped'],2
+['failure'],2
+['iceberg'],2
+['political corruption'],2
+['ex-detainee'],2
+['atlanta'],2
+['criminal underworld'],2
+['human brain'],2
+['realism'],2
+['ski jump'],2
+"['creation', 'creationism']",2
+['polar bear'],2
+['machinist'],2
+['figure skating'],2
+"['publishing', 'publisher']",2
+['fashion show'],2
+['eyesight'],2
+['eye operation'],2
+['wake'],2
+['cookbook'],2
+['perfectionist'],2
+['spice'],2
+['butcher'],2
+['drug trade'],2
+['intellectual property'],2
+['face slap'],2
+['frat party'],2
+['annabelle'],2
+['pride'],2
+['baseball player'],2
+['dangerous mission'],2
+['aspiring actor'],2
+['racial issues'],2
+['restaurant critic'],2
+['gang of thieves'],2
+['near-death experience'],2
+['iraq veteran'],2
+['false accusations'],2
+['salesperson'],2
+['megacity'],2
+['young people'],2
+['infant'],2
+['fortune'],2
+['alternate timeline'],2
+['leave'],2
+['look-alike'],2
+['homepage'],2
+['teenage rebellion'],2
+['horror anthology'],2
+['geek'],2
+['border'],2
+['montmartre'],2
+['radio broadcast'],2
+['sex-shop'],2
+['controversial'],2
+['discovery'],2
+['loop'],2
+['galactic war'],2
+['alien race'],2
+['tidal wave'],2
+['grave robbing'],2
+['ritual'],2
+['marijuana joint'],2
+"['shoe', 'shoes']",2
+['overachiever'],2
+['crime lord'],2
+['war victim'],2
+['physicist'],2
+['biological experiment'],2
+['cathedral'],2
+['talking dog'],2
+['solar system'],2
+['nebraska'],2
+['military spoof'],2
+['alabama'],2
+['chinatown'],2
+['taxes'],2
+['pflegen'],2
+['carrier pigeon'],2
+['flaming arrow'],2
+['loss of powers'],2
+['hockey mask'],2
+['aunt nephew relationship'],2
+['15th century'],2
+['straight razor'],2
+['profession'],2
+['free spirit'],2
+['glam rock'],2
+['conveyor belt'],2
+"['duplicity', 'duplicate']",2
+['dam'],2
+['hijinks'],2
+['allegory'],2
+['dynasty'],2
+['cemetary'],2
+['roulette'],2
+['massage therapist'],2
+['meat'],2
+['epic battle'],2
+['protection money'],2
+['smithsonian'],2
+['female musician'],2
+['singing contest'],2
+['acapella'],2
+['organ'],2
+['oppression'],2
+['rabbi'],2
+['theodore roosevelt'],2
+['stockbroker'],2
+['wall'],2
+['classic'],2
+['robin'],2
+['song writing'],2
+['governess'],2
+['unexpected happiness'],2
+['convent'],2
+['gluttony'],2
+['novice'],2
+['business woman'],2
+['life raft'],2
+"[""boys' school""]",2
+['triangle'],2
+['hippopotamus'],2
+['rainforest'],2
+['pyre'],2
+['beauty pageant'],2
+['sentence'],2
+['bootlegger'],2
+['singing competition'],2
+['rope'],2
+['missouri'],2
+['expectant mother'],2
+['henry viii'],2
+['power takeover'],2
+['cult figure'],2
+['misfortune'],2
+['ersatz'],2
+['lower east side'],2
+"['dove', 'doves']",2
+['mugging'],2
+['peace'],2
+['rural ireland'],2
+['machine town'],2
+['tv morning show'],2
+['drone'],2
+['massage'],2
+['crime boss'],2
+['dance contest'],2
+['precognition'],2
+['seeing the future'],2
+['scavenger hunt'],2
+['junkyard'],2
+['diamond mine'],2
+['ambiguous ending'],2
+['fenway park'],2
+['milan'],2
+['sausage'],2
+['louvre'],2
+"['finger', 'fingers']",2
+['heat'],2
+['twilight'],2
+['s.a.t.'],2
+['iranian'],2
+['evisceration'],2
+['whispering'],2
+['ice skating'],2
+['sensei'],2
+['reference to superman'],2
+['chorus girl'],2
+['proto-slasher'],2
+['veterinary clinic'],2
+['behind the scenes'],2
+['spiritualist'],2
+['harpoon'],2
+['turns into animal'],2
+['audience'],2
+['pubic hair'],2
+['wildlife conservation'],2
+['small person'],2
+['infantry'],2
+['theory'],2
+['occult ritual'],2
+['dark carnival'],2
+['wyatt earp'],2
+['deputy sheriff'],2
+['orderly'],2
+['sex therapy'],2
+['bad father-in-law'],2
+['illegitimate son'],2
+['nanotechnology'],2
+['record store'],2
+['logbook'],2
+['gay sex'],2
+['record collection'],2
+"['hebrew', 'hebrews']",2
+['answering machine'],2
+['asthma'],2
+['basketball team'],2
+['military law'],2
+['male virgin'],2
+['ejection seat'],2
+['st. petersburg russia'],2
+['teen sex comedy'],2
+['idaho'],2
+['trilogy'],2
+['slow motion scene'],2
+['supernova'],2
+['cheating husband'],2
+['texan'],2
+['dare'],2
+['clumsiness'],2
+['stage show'],2
+['ruins'],2
+['blood spurting'],2
+['family history'],2
+['red army'],2
+['musical segments'],2
+['fast motion scene'],2
+['martial arts master'],2
+['paradox'],2
+['underage drinking'],2
+['hammer horror'],2
+['charles dickens'],2
+['jupiter'],2
+['masked ball'],2
+['orgy'],2
+['videoband'],2
+['cupboard'],2
+['tango'],2
+"['rowing', 'row']",2
+['grandfather'],2
+['total destruction'],2
+['alarm clock'],2
+['pest'],2
+['jogging'],2
+['urban setting'],2
+['emergency landing'],2
+['park ranger'],2
+['canyon'],2
+['saigon'],2
+['lesson'],2
+['sumo ringer'],2
+['karma'],2
+['picnic'],2
+['perfume'],2
+['baltimore'],2
+['misunderstanding'],2
+['mustang'],2
+['police sergeant'],2
+['german accent'],2
+['criticism and blame'],2
+['soviet'],2
+['past relationship'],2
+['post nuclear'],2
+['wettermann'],2
+['weather forecast'],2
+['leonardo da vinci'],2
+['implant'],2
+['nihilism'],2
+['ex cia agent'],2
+['street shootout'],2
+['timebomb'],2
+['madrid'],2
+['only child'],2
+['rebellious youth'],2
+['george w. bush'],2
+['walking'],2
+['uniform'],2
+"['b-girl', 'b-girling']",2
+['walrus'],2
+['levitation'],2
+['enterprise-e'],2
+['plot'],2
+['macho'],2
+['skunk'],2
+['crossdressing'],2
+['grass'],2
+['gay couple'],2
+['beautiful girl'],2
+['succubus'],2
+['slumber party'],2
+['sexual murder'],2
+['white trash'],2
+['theatre audience'],2
+['hired killer'],2
+['slave owner'],2
+['creativity'],2
+['exploding airplane'],2
+['\xa0'],2
+['action heroine'],2
+['gene manipulation'],2
+['smuggler'],2
+['cruise ship'],2
+['impalement'],2
+['tycoon'],2
+['dog dirt'],2
+['discrimination'],2
+['boat accident'],2
+['splatter'],2
+['teen suicide'],2
+['coup'],2
+['garfield'],2
+['aspiring writer'],2
+['knife fight'],2
+['armageddon'],2
+['promiscuity'],2
+['testicles'],2
+['savannah'],2
+"['psychedelic', 'psychedelics']",2
+['nazism'],2
+['fictional tv show'],2
+['northern france'],2
+['ark of the covenant'],2
+['b horror'],2
+['intensive care'],2
+['pile of dead bodies'],2
+['death of daughter'],2
+['oil field'],2
+['poland'],2
+['motel room'],2
+"['simulation', 'simulator']",2
+['caregiver'],2
+['russian spy'],2
+['freshman'],2
+['small town sheriff'],2
+['eye patch'],2
+['barricade'],2
+['prospector'],2
+['flapper'],2
+['war hero'],2
+['motorcycle chase'],2
+['jerusalem'],2
+['guardian angel'],2
+['crying woman'],2
+['indonesia'],2
+['bromance'],2
+['antidote'],2
+['wedding vows'],2
+['fan culture'],2
+['dinner'],2
+['stock-car-race'],2
+['parachute'],2
+['tahiti'],2
+['bone'],2
+['poster'],2
+['rocket launcher'],2
+['child labor'],2
+['environmental law'],2
+['peer pressure'],2
+['nuclear explosion'],2
+['chivalry'],2
+['foreign legion'],2
+['hitwoman'],2
+['labyrinth'],2
+['prison escape'],2
+['severed foot'],2
+['slaughterhouse'],2
+['wishes come true'],2
+['reanimated corpse'],2
+['troubled marriage'],2
+['september 11 2001'],2
+['double agent'],2
+['pipe smoking'],2
+['house party'],2
+['life turned upside down'],2
+['metal'],2
+['elopement'],2
+['secret door'],2
+['new home'],2
+['button'],2
+['automobile industry'],2
+['money delivery'],2
+"['clique', 'cliques']",2
+['mountain village'],2
+['outbreak'],2
+['unwanted kiss'],2
+['jumping rope'],2
+['female hero'],2
+['rodeo'],2
+['sloth'],2
+['burglary'],2
+['saber-toothed tiger'],2
+['hate'],2
+['monopoly'],2
+['jew persecution'],2
+['dynamite'],2
+['equality'],2
+['integration'],2
+['spongebob'],2
+['corrupt politician'],2
+['horror movie remade'],2
+['rogue cop'],2
+['disembodied head'],2
+"['paganism', 'pagan']",2
+['relic'],2
+['crisis of faith'],2
+['drug scene'],2
+['crop circle'],2
+['romantic'],2
+['human nature'],2
+['courtship'],2
+['travelling circus'],2
+['callboy'],2
+['hand grenade'],2
+['militia'],2
+['mammoth'],2
+['commando unit'],2
+['supervillain'],2
+['native peoples'],2
+['apartment building'],2
+['escaped killer'],2
+['tent'],2
+['ottoman empire'],2
+['diving suit'],2
+['captain nemo'],2
+['farm life'],2
+['based on supposedly true story'],2
+['chaos and mayham'],2
+['tutor'],2
+['bakery'],2
+['space invasion'],2
+['retribution'],2
+['terrorist attack'],2
+['vietnamese'],2
+['neighbor neighbor relationship'],2
+['childlessness'],2
+['gas attack'],2
+['time warp'],2
+['restart'],2
+['celibacy'],2
+['arrow'],2
+['cobra'],2
+['fast food restaurant'],2
+['lobotomy'],2
+['cattle'],2
+['inmate'],2
+['evil queen'],2
+['cult director'],2
+['brood'],2
+['organ donation'],2
+['biohazard'],2
+['sorceress'],2
+['sleeping beauty'],2
+['heiress'],2
+['retelling'],2
+['knights of the round table'],2
+"[""women's sexual identity""]",2
+['king arthur'],2
+['camelot'],2
+['ballet dancer'],2
+['pawnshop'],2
+['estrangement'],2
+['faithlessness'],2
+['plo'],2
+['jealous husband'],2
+['sidekick'],2
+['american spy'],2
+['half breed'],2
+['captain america'],2
+['group therapy'],2
+['deepsea'],2
+['ecology'],2
+['saxophonist'],2
+['autograph'],2
+['heir'],2
+['pitbull'],2
+['east germany'],2
+['tyranny'],2
+['idealism'],2
+['animal lover'],2
+['middle school'],2
+['vienna austria'],2
+['blood on shirt'],2
+['pursuit'],2
+['nascar'],2
+['advertising'],2
+['family dinner'],2
+['dreamer'],2
+['military unit'],2
+['emotions'],2
+['henchmen'],2
+['munition'],2
+['jet ski'],2
+['panther'],2
+['repressed memory'],2
+['dalai lama'],2
+['police officer killed'],2
+['bowling ball'],2
+['iron'],2
+['medieval times'],2
+['village people'],2
+['abraham lincoln'],2
+['idiot'],2
+['flogging'],2
+['repossession'],2
+['sunset'],2
+['revolver'],2
+['tobacco industry'],2
+['tobacco'],2
+['space war'],2
+['lhasa'],2
+['dark horse comics'],2
+['superhero spoof'],2
+['industrial revolution'],2
+['shovel'],2
+['skull'],2
+['casanova'],2
+['tools'],2
+['town in panic'],2
+['sphinx'],2
+['money problems'],2
+['lens flare'],2
+['excavation'],2
+"['briefing', 'briefs']",2
+['beatnik'],2
+['music style'],2
+['joker'],2
+['scientology'],2
+['autonomy'],2
+['duck'],2
+['bell'],2
+['baby geniuses'],2
+['shot in the stomach'],2
+['american president'],2
+['racer'],2
+['messiah'],2
+['catholic school'],2
+"['fast', 'fasting']",2
+['secession'],2
+['psychoanalysis'],2
+['sigmund freud'],2
+['dock'],2
+['exam'],2
+['tour bus'],2
+['b movie'],2
+['super speed'],2
+['man slaps a woman'],2
+['deserted town'],2
+['troops'],2
+['death of son'],2
+['political unrest'],2
+['bear attack'],2
+['bickering'],2
+['bartender'],2
+['dorm room'],2
+['hazing'],2
+['journey in the past'],2
+['doberman'],2
+['crook'],2
+['reality spoof'],2
+['teenage life'],2
+['motorcycle racing'],2
+['military tribunal'],2
+['old man'],2
+['rocker'],2
+['pig mask'],2
+['child vampire'],2
+['crazy'],2
+['story'],2
+"['pervertion', 'pervert']",2
+['public humiliation'],2
+['tricycle'],2
+['contamination'],2
+['hulk'],2
+['cheating on partner'],2
+['neo-nazi'],2
+['hotelier'],2
+['phone'],2
+['fall in love'],2
+['based on short film'],2
+['animal death'],2
+['married'],2
+['martial arts tournament'],2
+['strangulation'],2
+['lgbt elderly'],2
+['tape recorder'],2
+"['kickboxer', 'kickboxing']",2
+['princeton university'],2
+['cigarette lighter'],2
+['hazmat suit'],2
+['m.i.t.'],2
+['one last job'],2
+['carefree'],2
+['blueprint'],2
+['book of the dead'],2
+['fellatio'],2
+"['jewel', 'jeweler']",2
+['quebec'],2
+['shot through a wall'],2
+['hyena'],2
+['frontier'],2
+['leg brace'],2
+['dj'],2
+['crew'],2
+['railway station'],2
+['taboo'],2
+['insecurity'],2
+['essay'],2
+['social services'],2
+['gothic horror'],2
+['black ops'],2
+['remote control'],2
+['call girl'],2
+['faked death'],2
+['game of death'],2
+['training camp'],2
+['balkan war'],2
+['privacy'],2
+['business ethics'],2
+['descendant'],2
+['blunt'],2
+['young heroes'],2
+['abortion'],2
+['new job'],2
+['agriculture'],2
+['crossword puzzle'],2
+['bodily disabled person'],2
+['low self esteem'],2
+['car mechanic'],2
+['stormtrooper'],2
+['survivalist'],2
+['ship captain'],2
+['monarchy'],2
+['harley davidson'],2
+['woman reporter'],2
+['gala'],2
+['polio'],2
+['bonfire'],2
+['comb'],2
+['one-sided love'],2
+['door'],2
+['living dead'],2
+['subjective camera'],2
+['group sex'],2
+['instructor'],2
+['ouija'],2
+['mental hospital'],2
+['travel agent'],2
+['animated sequence'],2
+['soviet troops'],2
+"['obese', 'obesity']",2
+['record player'],2
+['second chance'],2
+['fountain'],2
+['fascination'],2
+['provocation'],2
+['aircraft carrier'],2
+['suburb'],2
+['wiretap'],2
+['lolita'],2
+['lgbt child'],2
+['medical experiment'],2
+['soap opera'],2
+"['black panthers', 'black panther']",2
+['hipster'],2
+['parts of dead body'],2
+['wig'],2
+['supernatural horror'],2
+['italian american'],2
+['suspended animation'],2
+['stuck in elevator'],2
+['girl fight'],2
+['bigotry'],2
+['natural history'],2
+['therapy'],2
+['disfigurement mask'],2
+['anti war'],2
+['jay and silent bob'],2
+['headline'],2
+['canon'],2
+['indiana jones spoof scene'],2
+['violent father'],2
+['easter bunny'],2
+['tragic villain'],2
+['man between two women'],2
+['docudrama'],2
+['swimmer'],2
+['sports agent'],2
+['approach'],2
+"['criticism', 'critic']",2
+"['messages', 'message']",2
+['wartime'],2
+['culture'],2
+['child custody'],2
+['meat cleaver'],2
+"['punk rock', 'punk rocker']",2
+['latino'],2
+['bicycle'],2
+['greek'],2
+['rookie'],2
+['great soundtrack'],2
+['child bride'],2
+['instinct'],2
+['getaway'],2
+['dark humor'],2
+['cartoon cat'],2
+['world war iii'],2
+['law firm'],2
+['northern england'],2
+['historical fiction'],2
+['sperm donor'],2
+['bank heist'],2
+"['aggression', 'aggressive']",2
+['brother sister incest'],2
+['desolate'],2
+"['conversation', 'conversion']",2
+['water park'],2
+['midwest'],2
+['tooth fairy'],2
+['nuclear war'],2
+['pregnant minor'],2
+"['brumby', 'brumbies']",2
+['bullet'],2
+['resort'],2
+['torso cut in half'],2
+['torpedo'],2
+['covert operation'],2
+['attempted suicide'],2
+['origin'],2
+['brother against brother'],2
+['bad cop'],2
+['simulated reality '],2
+['dragonfly'],2
+['country club'],2
+['impregnation'],2
+['shot through a door'],2
+['moon landing'],2
+['foot race'],2
+['landmine'],2
+['valet'],2
+['staff'],2
+['electrocution'],2
+['computer expert'],2
+['foreign aid'],2
+['case'],2
+"['gnomes', 'gnome']",2
+['damsel in distress'],2
+['rise to power'],2
+['deceit'],2
+['eavesdropping'],2
+"['mob', 'mobbing']",2
+['gang violence'],2
+['broken arm'],2
+['maverick cop'],2
+['tempel'],2
+['drug trip'],2
+['arm ripped off'],2
+['prom queen'],2
+['kitten'],2
+['magic trick'],2
+['monkey king'],2
+['remorse'],2
+['world supremacy'],2
+['dream girl'],2
+['social climbing'],2
+['ventriloquist dummy'],2
+['bomb attack'],2
+['man eaten by monster'],2
+['elementary school'],2
+['starships'],2
+['chinese'],2
+['parasite'],2
+['surrey'],2
+['fireplace'],2
+['lobby'],2
+['fictionalized history'],2
+['rape and revenge'],2
+['champion'],2
+['pre-code'],2
+['inspired by true events'],2
+['sexual harassment'],2
+['reputation'],2
+['spring break'],2
+['gun fight'],2
+['crimea'],1
+['adrenalin'],1
+['sweepstakes'],1
+['health inspector'],1
+['film score'],1
+['bullet proof vest'],1
+['shot point blank'],1
+['als'],1
+['boundary violations'],1
+['twin synchronization'],1
+['defibrillation'],1
+['punter'],1
+['starting over'],1
+['confronting the past'],1
+['crypt keeper'],1
+['pharmacy'],1
+['slow cinema'],1
+['hungary'],1
+['uncover truth'],1
+['contraception'],1
+['priestess'],1
+['arrested development'],1
+['bass guitarist'],1
+['british lancers'],1
+['trowel'],1
+['bare knuckle boxing'],1
+['blind tutor'],1
+['jumping off a bridge'],1
+['attempted strangulation'],1
+['angel costume'],1
+['laundromat'],1
+['purgatory'],1
+['crawling hand'],1
+['third reich'],1
+['slang'],1
+['damascus'],1
+['electrical torture'],1
+['mold'],1
+['pikey'],1
+['nazi hunter'],1
+['daywalker'],1
+['noise complaint'],1
+['economic crisis'],1
+['ganja'],1
+['base'],1
+['fraternal twins'],1
+['axe in the head'],1
+['sexual torture'],1
+['reference to gregory hines'],1
+['mysterious character'],1
+['sino japanese war'],1
+['lincoln nebraska'],1
+['sexual disorder'],1
+['inn'],1
+['casting'],1
+['pickup truck'],1
+['romanian new wave'],1
+['sex slave'],1
+['baby born'],1
+['trail of blood'],1
+['georgia europe'],1
+['gurney'],1
+['war zone'],1
+['gold watch'],1
+['camel'],1
+['police badge'],1
+['singapur'],1
+['food intoxication'],1
+['german submarine'],1
+['arms'],1
+['life'],1
+['downtrodden'],1
+['confession booth'],1
+['thoughts of retirement'],1
+['stephen hawking'],1
+['naval battle'],1
+['brothers love same woman'],1
+['prosthetic arm'],1
+['working in the nude'],1
+['fictionalized biography'],1
+['hail mary'],1
+['police officer shot'],1
+['saviour'],1
+['drive by shooting'],1
+['confessional'],1
+['loft'],1
+['tower of babel'],1
+['last will and testament'],1
+['apathy'],1
+['based on memoir'],1
+['exzentrik'],1
+['u.s. senator'],1
+['prophet'],1
+['depravity'],1
+['sorority girl'],1
+['kumbh mela'],1
+['the light brigade'],1
+['masterpiece'],1
+['ivy league'],1
+['chase scene'],1
+['yearbook'],1
+['family man'],1
+['suicidal mission'],1
+['bmw'],1
+['periscope'],1
+['dining hall'],1
+['roofie'],1
+['hedge fund'],1
+['formaldehyde'],1
+['snack bar'],1
+['bedtime prayer'],1
+['bag of money'],1
+['jewish man'],1
+['trans-siberian railway'],1
+['punched in the face'],1
+['epinephrine'],1
+['riding a bicycle'],1
+['shot in the back'],1
+['siberia'],1
+['motor neuron disease'],1
+['cheetah'],1
+['casa encantada'],1
+['rollerblade'],1
+['godmother'],1
+['wild animal'],1
+['hospital gown'],1
+['fishing net'],1
+['selkie'],1
+['true life character'],1
+['sake'],1
+['medal of valor'],1
+['ironing money'],1
+['drug raid'],1
+['felon'],1
+['society ball'],1
+['comrade'],1
+['rice'],1
+['american mexican war'],1
+['sex surrogate'],1
+['depth charge'],1
+['wendigo'],1
+['longshoreman'],1
+['u boat'],1
+['gibraltar'],1
+['military outpost'],1
+['vomiting blood'],1
+['polio victim'],1
+['neanderthal'],1
+['brooklyn bridge'],1
+['pay phone'],1
+['denver'],1
+['overturning car'],1
+['newswoman'],1
+['new neighbor'],1
+['wild party'],1
+['ski resort'],1
+['cheat on husband'],1
+['eating contest'],1
+['gold digger'],1
+['rose garden'],1
+['goggles'],1
+['psychosis'],1
+['gloves'],1
+['forced to kill'],1
+['heist gone wrong'],1
+['con game'],1
+['told in flashback'],1
+['religious sect'],1
+['indiana university'],1
+['child kidnapping'],1
+['big con'],1
+['sexologist'],1
+['catapult'],1
+['time frame'],1
+['naked woman'],1
+['windmill'],1
+['incantation'],1
+['employer'],1
+['porn industry'],1
+['roller derby'],1
+['norway'],1
+['muse'],1
+['red'],1
+['sexual exploration'],1
+['budweiser'],1
+['anarchy'],1
+['distillery'],1
+['judgment call'],1
+['handicap sex'],1
+['love spell'],1
+['river thames'],1
+['roller skates'],1
+['drag racing'],1
+['rape of a male'],1
+['foreshadowing'],1
+['vigil'],1
+['hamburger'],1
+['feudality'],1
+['mercy petition'],1
+['crossbow'],1
+['dual life'],1
+['umerziehung'],1
+['irish immigrant'],1
+['east elbia'],1
+['small village'],1
+['personality disorder'],1
+['young'],1
+['seven years war'],1
+['prussia'],1
+['estranged son'],1
+['electronic music score'],1
+['gang leader'],1
+['dead fish'],1
+['jigsaw'],1
+['stolen pet'],1
+['swastika tattoo'],1
+['combat drone'],1
+['song and dance'],1
+['tied to chair'],1
+['designer drug'],1
+['rage'],1
+['working mom'],1
+['griculture'],1
+['german soldier'],1
+['folk horror'],1
+['mortician'],1
+['security'],1
+['movie reference'],1
+['all male cast'],1
+['wealthy'],1
+['hit'],1
+['video tape'],1
+['army sergeant'],1
+['body armor'],1
+['plan gone wrong'],1
+['monolith'],1
+['yell'],1
+['sustainable'],1
+['towel'],1
+['monsanto'],1
+['gallery owner'],1
+['theremin'],1
+['mongolia'],1
+['depressed mom'],1
+['transvestite'],1
+['thrift store'],1
+['repairman'],1
+['sermon on the mount'],1
+['tailor'],1
+['unwanted pregnancy'],1
+['close-up'],1
+['handgun'],1
+['cuban refugees'],1
+['morphine'],1
+['beethoven'],1
+['oddball'],1
+['folk music'],1
+['wintry'],1
+['landslide'],1
+['air force base'],1
+['talking to the dead'],1
+['merchant marine'],1
+['ardennen'],1
+['amulet'],1
+['fisticuffs'],1
+['pennsylvania coal miner'],1
+['unorthodox'],1
+['newcomer'],1
+['rendezvous'],1
+['nativity'],1
+['smoking pot'],1
+['verbal abuse'],1
+['fracking'],1
+['psychotic'],1
+['corporatism'],1
+['day in a life'],1
+['oktoberfest'],1
+['reference to socrates'],1
+['loss of loved one'],1
+['documentary crew'],1
+['pageant'],1
+['guttersnipe'],1
+['street'],1
+['linguist'],1
+['reference to plato'],1
+['lowell massachusetts'],1
+['natural gas'],1
+['flower girl'],1
+['head stomp'],1
+['vacuum'],1
+['blue collar worker'],1
+['church bells'],1
+['photosensitivity'],1
+['boxer shorts'],1
+['graduation speech'],1
+['institution'],1
+['photo studio'],1
+['step parents'],1
+['gay brother'],1
+['pet cemetery'],1
+['dead cat'],1
+['death of patient'],1
+['loss of pet'],1
+['white horse'],1
+['dead lover'],1
+['child abandonment'],1
+['knitting needle'],1
+['self help guru'],1
+['religious conversion'],1
+['hit by truck'],1
+['jewish ghetto'],1
+['army general'],1
+['phantom jam'],1
+['indian burial ground'],1
+['burial ground'],1
+['ymca'],1
+['hermit'],1
+['border patrol'],1
+['best man'],1
+['corn'],1
+['escort'],1
+['empire'],1
+['evil prince'],1
+['channel islands'],1
+['based on the bible'],1
+['turbo intercepter'],1
+['secret formula'],1
+['canadian stereotype'],1
+['town square'],1
+['bruges belgium'],1
+['comic strip'],1
+['pity sex'],1
+['barber'],1
+['uneasy alliance'],1
+['babes'],1
+['hot dog'],1
+['weeds'],1
+['set in one room'],1
+['revolutionary'],1
+['short sighted'],1
+['opec'],1
+['voodoo ritual'],1
+['landlord'],1
+['jewish convert'],1
+['iconic'],1
+['intersecting lives'],1
+['reward'],1
+['hedonism'],1
+['slice of life'],1
+['live concert'],1
+['mine shaft'],1
+['quiz show'],1
+['talisman'],1
+['marital separation'],1
+['dirty joke'],1
+['out of body experience'],1
+['breast cancer'],1
+['caribbean islands'],1
+['headbanging'],1
+['drums'],1
+['gruuthuse museum bruges'],1
+['shadow boxing'],1
+['practice'],1
+['bulle'],1
+['sexual pleasure'],1
+['cousin'],1
+['african'],1
+['silent protagonist'],1
+['gay man straight woman relationship'],1
+['rag tag group'],1
+['sombrero'],1
+['baseball field'],1
+['rwanda'],1
+['gunplay'],1
+['skinned alive'],1
+['spotlight'],1
+['gang initiation'],1
+['hard hat'],1
+['innuendo'],1
+['latino lgbt'],1
+['irish american'],1
+['invite'],1
+['mengele'],1
+['sand dancing'],1
+['wedding anniversary'],1
+['falklands'],1
+['staatsanwältin'],1
+['pele'],1
+['guyana'],1
+['boy scouts'],1
+['right wing'],1
+['air force'],1
+['female prime minister'],1
+['saturn'],1
+['struggling career'],1
+['the color blue'],1
+['lgbt teen'],1
+['pilot school'],1
+['the color red'],1
+['aunt nephew incest'],1
+['shoulder holster'],1
+['political leader'],1
+['cenobites'],1
+['shootout at a train station'],1
+['falklands war'],1
+['desert thief'],1
+['female politician'],1
+['guitar case'],1
+['female martial artist'],1
+['playing piano'],1
+['meet cute'],1
+['spinner'],1
+['animal actor'],1
+['amateur'],1
+['convicted felon'],1
+['passive aggression'],1
+['shed'],1
+['apology'],1
+['franco regime'],1
+['skylight'],1
+['watergate'],1
+['biblical'],1
+['bank clerk'],1
+['greenhouse'],1
+['debauchery'],1
+['city portrait'],1
+['admissions'],1
+['money bag'],1
+['severed hand'],1
+['biotope'],1
+['live television'],1
+['suspicious wife'],1
+['female doctor'],1
+['cupcake'],1
+['puzzle box'],1
+['hand on crotch'],1
+['music store'],1
+['boy scouts leader'],1
+['melodrama'],1
+['child smoking'],1
+['handkerchief'],1
+['devastation'],1
+['twins separated at birth'],1
+['klondike'],1
+['jungle cat'],1
+['artist colony'],1
+['casablanca'],1
+['same habits'],1
+['rich man - poor woman'],1
+['axe'],1
+['opposites'],1
+['sardinien'],1
+['tea kettle'],1
+['hollywoodland'],1
+['mad cow disease'],1
+['film history'],1
+['identity swap'],1
+['tanker'],1
+['monarch'],1
+['catholic orphanage'],1
+['bobsleighing'],1
+['benji'],1
+['conga line'],1
+['lookalikes'],1
+['red sea'],1
+['beautiful princess'],1
+['american football star'],1
+['footage'],1
+['shaving'],1
+['marquee'],1
+['autocide'],1
+['naive children'],1
+['sarajevo'],1
+['television director'],1
+['british prime minister'],1
+['multiple stabbings'],1
+['visa'],1
+['silent film star'],1
+['british politics'],1
+['generation gap'],1
+"['operation ""trudy jackson""']",1
+['general douglas macarthur'],1
+['war propaganda'],1
+['yukon'],1
+['operation x-ray'],1
+['incheon'],1
+['white collar criminal'],1
+['british overseas territory'],1
+['the beatles song'],1
+['margaret thatcher'],1
+['delivery'],1
+['low intelligence'],1
+['rolling a cigarette'],1
+['boy dog relationship'],1
+['jet engine'],1
+['south central l.a.'],1
+['pacific theater'],1
+['castingshow'],1
+['struggling'],1
+['ideology'],1
+['family dog'],1
+['testament'],1
+['newspaper reporter'],1
+['capitulation'],1
+['arm in cast'],1
+['dmt'],1
+['slug'],1
+['ultimate victory'],1
+['toast'],1
+['galicia'],1
+['bathing accident'],1
+['dialect'],1
+['edinburgh'],1
+['bodily dismemberment'],1
+['head in oven'],1
+['job transfer'],1
+['local speciality'],1
+['justin bieber'],1
+['swan lake'],1
+['ballerina'],1
+"[""mama's boy""]",1
+['champagne'],1
+['atomic reactor'],1
+['missing pet'],1
+['steven king'],1
+['shih tzu'],1
+['pinhead'],1
+['straßenkids'],1
+['golf club'],1
+['blender'],1
+['stay-at-home dad'],1
+['computer screen'],1
+['places and planets'],1
+['baccarat'],1
+['the star spangled banner'],1
+['hit in crotch'],1
+['buffalo skin'],1
+['lost in the desert'],1
+['prison wagon'],1
+['refused services'],1
+['brutal cop'],1
+['african national congress'],1
+['abusive marriage'],1
+['whiskey'],1
+['experimental film'],1
+['driven insane'],1
+['vengeful ghost'],1
+['waiting'],1
+['first crush'],1
+['adolescent boy'],1
+['spoiled child'],1
+['urban'],1
+['conflict'],1
+['bloody body of child'],1
+['hypnotism'],1
+['autopsy room'],1
+['man punches woman'],1
+"[""children's services""]",1
+['bad mother'],1
+['student movie'],1
+['model student'],1
+['lockdown'],1
+['torture chamber'],1
+['robot human relationship'],1
+['half vampire'],1
+['beauty salon'],1
+['cowboy costume'],1
+['turing test'],1
+['police force'],1
+['serenade'],1
+['meteorite'],1
+['resentment'],1
+['design'],1
+['storem'],1
+['cybernetics'],1
+['family estate'],1
+['secluded'],1
+['appropriation of another human being'],1
+['young couple'],1
+['hit in the crotch'],1
+['sidewalk'],1
+['beckenbauer'],1
+['bloodthirstiness'],1
+['examination'],1
+['unemployed actor'],1
+['suburban chicago'],1
+['cut-off head'],1
+['squire'],1
+['creative crisis'],1
+['ukraine'],1
+['shrew'],1
+['judiciary'],1
+['ganga'],1
+['pripyat'],1
+['home alone'],1
+['play adaptation'],1
+['radio plays'],1
+['prey'],1
+['thunderstorm'],1
+['cigarette girl'],1
+['mischievous child'],1
+['windeln'],1
+['locust'],1
+['toddler'],1
+['listening to music'],1
+['solteros'],1
+['molecular biologist'],1
+['kosher'],1
+['coney island'],1
+['suitcase full of money'],1
+['reggae'],1
+['horniness'],1
+['vanity project'],1
+['chemical leak'],1
+['split personality'],1
+['pesticide'],1
+['metaphysics'],1
+['drug stealing'],1
+['iron lung'],1
+['pittsburgh steelers'],1
+['flash grenade'],1
+['d-day'],1
+['intelligence test'],1
+['anti conformity'],1
+['naked'],1
+"[""children's rights""]",1
+['photo lab'],1
+['marxism'],1
+['telephone conversation'],1
+['albania'],1
+['sex scandal'],1
+['columbia'],1
+['wildlife reserve'],1
+['exploitation film'],1
+['mind bender'],1
+['media adviser'],1
+['weed+'],1
+['librarian'],1
+['leopard'],1
+['bouncy castle'],1
+['underwater photography'],1
+['tearjerker'],1
+['big corporation'],1
+['art school'],1
+['dance crew'],1
+['makeup artist'],1
+['writing class'],1
+['chick flick'],1
+['b-boying'],1
+['migration'],1
+['human rights'],1
+['child killed by animal'],1
+['\xa0nightgown'],1
+['scorpion'],1
+['wwe'],1
+['mother daughter estrangement'],1
+['santa monica california'],1
+['louisa may alcott'],1
+['fourth dimension'],1
+['street dance'],1
+['birth of twins'],1
+['environmental issue'],1
+['call'],1
+['implied rape'],1
+['viet cong'],1
+['freak show'],1
+['lime'],1
+['government corruption'],1
+['analingus'],1
+['paper knife'],1
+['child hitman'],1
+['number stations'],1
+['head blown off'],1
+['oxygen tank'],1
+['gross out'],1
+['trainee'],1
+['tina turner'],1
+['experimental drug'],1
+['black woman'],1
+['quick draw'],1
+['stepping'],1
+['cameo appearance by real life subject'],1
+['african american music'],1
+['great wall of china'],1
+['gain'],1
+['disarmament'],1
+['newspaper editor'],1
+['looting'],1
+['black family'],1
+['sleeper agent'],1
+['hostess'],1
+['behind enemy lines'],1
+['neighborhood'],1
+['hearing voices'],1
+['paraguay'],1
+['speedo'],1
+['image campaign'],1
+['mk ultra'],1
+['speaking german'],1
+['pistol whip'],1
+['groupthink'],1
+['bad kids'],1
+['krampus'],1
+['pot head'],1
+['smoke ring'],1
+['pill bottle'],1
+['lovecraftian'],1
+['baby powder'],1
+['anti authority'],1
+['childhood sweetheart'],1
+['necrophilia'],1
+['khumba'],1
+['corpse in coffin'],1
+['child uses gun'],1
+['lucid dreaming'],1
+['psychological stress'],1
+['migrant farmworker'],1
+['duchess'],1
+['crown prince'],1
+['breaking finger'],1
+['home movie footage'],1
+['ankle holster'],1
+['glass pipe'],1
+['pillbox'],1
+['price of fame'],1
+['bee sting'],1
+['camper'],1
+['chalkboard'],1
+['pie'],1
+['defecation'],1
+['parakeet'],1
+['korean war'],1
+['aspen colorado'],1
+['guest'],1
+['profanity'],1
+['stepmother stepdaughter relationship'],1
+['sexual arousal'],1
+['rapier'],1
+['nashville tennessee'],1
+['male prostitute'],1
+['englishman'],1
+['swat'],1
+['strong language'],1
+['jakarta indonesia'],1
+['elvis presley'],1
+['disturbed child'],1
+['sfx'],1
+['filmes focados em um professor'],1
+['tower block'],1
+['intimate'],1
+['ferry boat'],1
+['dolly zoom'],1
+['counter-culture'],1
+['monitor'],1
+['hotel suite'],1
+['fire escape'],1
+['primitive time'],1
+['czech'],1
+['gas chamber'],1
+['drunkenness'],1
+['logician'],1
+['concentration camp prisoner'],1
+['losing money'],1
+['primal fear'],1
+['rolling stones'],1
+['tarantula'],1
+['hereditary disease'],1
+['behavior'],1
+['loss of eyesight'],1
+['cryptography'],1
+['grand ole opry'],1
+['defense attorney'],1
+['convenience store robbery'],1
+['malpractice'],1
+['large knife'],1
+['family drama'],1
+['rosh hashanah'],1
+['loretta lynn'],1
+['foolish'],1
+['endangered species'],1
+['brutal death'],1
+['still'],1
+['gangster grip'],1
+['honkytonk'],1
+['counter plot'],1
+['tenement'],1
+['groundhog day'],1
+['buckingham palace'],1
+['lady diana spencer'],1
+['hypertrichosis'],1
+['remote island'],1
+['hair'],1
+['accepting death'],1
+['bee attack'],1
+['groundhog'],1
+['taiwanese'],1
+['ballroom dancing'],1
+['motor home'],1
+['tuba'],1
+['valor'],1
+['navy life'],1
+['national security'],1
+['criminal syndicate'],1
+['shinjuku'],1
+['yakluza'],1
+['ecw'],1
+['crack'],1
+['death in childbirth'],1
+['tree climbing'],1
+['silver star'],1
+['cosmetologist'],1
+['secret plot'],1
+['strip tease'],1
+['barn raising'],1
+['african american comedy'],1
+['exchange student'],1
+['invasion of privacy'],1
+['coal'],1
+['journey shown on map'],1
+['friendship drama'],1
+['line drawing'],1
+['intimidation'],1
+['prom night'],1
+['turning the tables'],1
+['melbourne'],1
+['reading a book'],1
+['decorum'],1
+['amish'],1
+['horse and carriage'],1
+['prince charles'],1
+['genesis'],1
+['terraforming'],1
+['cadet'],1
+['jane austen'],1
+['uss reliant'],1
+['ceti alpha v'],1
+['viral video'],1
+['strip'],1
+['norad'],1
+['cafeteria'],1
+['kamikaze'],1
+['flowerpot'],1
+['body in chipper'],1
+['lodge'],1
+['exclusion'],1
+['defence'],1
+['hillbilly'],1
+['alcoholic father'],1
+['detention camp'],1
+['laundry room'],1
+['boomerang'],1
+['giant plant'],1
+['to make music'],1
+['partially lost film'],1
+['mic stand'],1
+['wasteland'],1
+['feedback'],1
+['box cutter'],1
+['mauling'],1
+['killer dog'],1
+['fire extinguisher'],1
+['neo nazi'],1
+['tree house'],1
+['cut off jeans'],1
+['newspaper headline'],1
+['four-wheelers'],1
+['mina'],1
+['new york yankees'],1
+['followed'],1
+['grieving father'],1
+['balzen'],1
+['chloroform'],1
+['sodomy'],1
+['sexology'],1
+['aphrodisiac'],1
+['peep hole'],1
+['concierge'],1
+['diaper'],1
+['hide and seek'],1
+['oven'],1
+['giant ice cream cone'],1
+['beer bong'],1
+['unofficial remake'],1
+['soda'],1
+['ego'],1
+['bitten in the neck'],1
+['duct tape'],1
+['man man relationship'],1
+['car seat'],1
+['nomad'],1
+['nursing school'],1
+['game tester'],1
+['grandmother grandson relationship'],1
+['music spoof'],1
+['keith mallory'],1
+['small town murder'],1
+['transphobia'],1
+['gender identity'],1
+['task force'],1
+['traffic violation'],1
+['beer bottle'],1
+['love sickness'],1
+['real time'],1
+['candelabra'],1
+['blood sucking'],1
+['playing chicken'],1
+['padlock'],1
+['house search'],1
+['bar mitvah'],1
+['underwater scene'],1
+['short'],1
+['torment'],1
+['parking lot'],1
+['dostoevsky'],1
+['old photograph'],1
+['oil refinery'],1
+['losing weight'],1
+['music box'],1
+"[""mother's day""]",1
+['department of motor vehicles'],1
+['oil tanker'],1
+['paralysis'],1
+['manhole'],1
+['taunting'],1
+['osha'],1
+['cleaning bathroom tile'],1
+['post it'],1
+['wanderer'],1
+['winzer'],1
+['vehicular accident'],1
+['cyrogenics'],1
+['crop duster'],1
+['mission to mars'],1
+['snob'],1
+['side effects'],1
+['porn magazine'],1
+['boy toy'],1
+['junky cop'],1
+['speed freak'],1
+['narcotic abuse'],1
+['law and ethics'],1
+['el salvador'],1
+['picture journalist'],1
+['state fair'],1
+['surfer dude'],1
+['irreverence'],1
+"[""rock 'n' roll""]",1
+['hibernation'],1
+['mass media'],1
+['riverboat'],1
+['showboat'],1
+['miscegenation'],1
+['paddlewheel boat'],1
+['dope selling'],1
+['crank'],1
+['handcuffed to a bed'],1
+['sundance kid'],1
+['basic rights and human rights'],1
+['lily'],1
+['comic book shop'],1
+['comic book collector'],1
+['cosplay'],1
+['casket'],1
+['disturbing'],1
+['butch cassidy'],1
+['treachery'],1
+['cctv'],1
+['harpsichord'],1
+['giant insect'],1
+['overbearing father'],1
+['telephone sex'],1
+['older woman younger woman relationship'],1
+['new species of human'],1
+['needle'],1
+['needlepoint'],1
+['sultriness'],1
+['toaster'],1
+['investigative reporter'],1
+['parental advisor'],1
+['hate crime'],1
+['cinematographer'],1
+['film in a film'],1
+['elite club'],1
+['cosmology'],1
+['hostel'],1
+['business card'],1
+['slovakia'],1
+['lodger'],1
+['live-reportage'],1
+['orient express'],1
+['bathroom'],1
+['religious art'],1
+['death threat'],1
+['repair shop'],1
+['zagreb'],1
+['sudetendeutsch'],1
+['baton rouge'],1
+['launchpad'],1
+['sanity'],1
+['new york state'],1
+['the sixties'],1
+['arthouse'],1
+['self acceptance'],1
+['synchronized swimming'],1
+['sex trafficking'],1
+['child psychologist'],1
+['troubled childhood'],1
+['voting results'],1
+['urbanisierung'],1
+['emasculation'],1
+['pat garrett'],1
+['murder plot'],1
+['jason voorhees'],1
+['one by one'],1
+['old friends'],1
+['lawlessness'],1
+['anthropology'],1
+['friday the thirteenth'],1
+['paralympics'],1
+['rehabilitation'],1
+['film canister'],1
+['homoeroticism'],1
+['mill'],1
+['nunchaku'],1
+['bail'],1
+['glacier'],1
+['cordillera huayhuash'],1
+['blues music'],1
+['personal ad'],1
+['plaster'],1
+['record collector'],1
+['art class'],1
+['concert tour'],1
+['high school friends'],1
+['sex talk'],1
+['self mutilation'],1
+['shoe salesman'],1
+['male masturbation'],1
+['breakdown'],1
+['concert hall'],1
+['jumping'],1
+['olympian sports team'],1
+['20th century'],1
+['glue sniffing'],1
+['prank telephone call'],1
+['full moon'],1
+['retiree'],1
+['reference to jack black'],1
+['fan convention'],1
+"[""rubik's cube""]",1
+['parachutist'],1
+['radiation sickness'],1
+['brain scan'],1
+['sabbath'],1
+"[""students' movement""]",1
+['flunking out of school'],1
+['new delhi india'],1
+['promiscuous mother'],1
+['underpass'],1
+['shoe shiner'],1
+"[""boys' boarding school""]",1
+"[""boy's choir""]",1
+['cryonics'],1
+['motorbike'],1
+['force field'],1
+['short-term memory'],1
+['alley'],1
+['sting operation'],1
+['off track betting'],1
+['chat session'],1
+['murderous pair'],1
+['crime gone awry'],1
+['haitian'],1
+['homecoming'],1
+['cottage'],1
+['connected'],1
+['mayor elections'],1
+['time portal'],1
+['beastmaster'],1
+['sword and sandal'],1
+['opening action scene'],1
+['horse carriage'],1
+['piano playing'],1
+['cd player'],1
+['historic figure'],1
+['british history'],1
+['strongbox'],1
+['public hanging'],1
+['reformer'],1
+['rainbow'],1
+['pittsburgh'],1
+['ex-fugitive'],1
+['sikh'],1
+['reference to mutt and jeff'],1
+['female artist'],1
+['hand clapping game'],1
+['freezer'],1
+['meeting on the internet'],1
+['gas mask'],1
+"[""women's soccer""]",1
+['jesus'],1
+['hope chest'],1
+['freaky'],1
+['global economy'],1
+['sydney'],1
+['hagakure'],1
+['saved from hanging'],1
+['french resistance'],1
+['train ride'],1
+['artwork'],1
+['ice cream'],1
+['goa'],1
+['drug bust'],1
+['rave party'],1
+['escape agent'],1
+['early sound film'],1
+['barbecue'],1
+['killing a dog'],1
+['fake accident'],1
+['college friends'],1
+['elimination derby'],1
+['holiday horror'],1
+"[""april fool's day""]",1
+['october'],1
+['twist'],1
+"[""you've got red on you""]",1
+['english pub'],1
+['british pub'],1
+['broken bottle'],1
+['cricket bat'],1
+['cheese'],1
+['halloween night'],1
+['junk sale'],1
+['jellybean'],1
+['cleaning lady'],1
+['family business '],1
+['crime scene'],1
+['loss of energy'],1
+['superhero kids'],1
+['animal trainer'],1
+['giant egg'],1
+"[""artists' life""]",1
+['minister for education'],1
+['mfs'],1
+['wildcatter'],1
+['tour de france'],1
+['triplet'],1
+['foreign'],1
+['band singer'],1
+['v.a. hospital'],1
+['match'],1
+['air attack'],1
+['charles willeford'],1
+['used car salesman'],1
+['battle of the isonzo'],1
+['ambulance driver'],1
+['psychiatric'],1
+['greeting card'],1
+['bride in black'],1
+['file clerk'],1
+['clancy of the overflow'],1
+['ping pong'],1
+['stockman'],1
+['colt'],1
+['shoe store'],1
+['dancing class'],1
+['insulin'],1
+['possesion'],1
+['physical deformity'],1
+['sideshow'],1
+['giant  squid'],1
+['deep sea'],1
+['halfway house'],1
+"[""côte d'azur""]",1
+['laptop computer'],1
+['corporate greed'],1
+['vespa'],1
+['psychotherapist'],1
+['fear of the dark'],1
+['tattoo shop'],1
+['movie theater'],1
+['bmx'],1
+['french accent'],1
+['coal shed'],1
+['son-in-law'],1
+['mother-in-law'],1
+['all black cast'],1
+['menstruation'],1
+['faithful husband'],1
+['hipersexualidad'],1
+['rapping in a car'],1
+['comic book art'],1
+['cat fight'],1
+['street life'],1
+['fandom'],1
+"[""philosopher's stone""]",1
+['burning car'],1
+['female archeologist'],1
+['thick accent'],1
+['singing in a car'],1
+['catacombs'],1
+['water shortage'],1
+['redhead girl'],1
+['leisure'],1
+['heritage'],1
+['comic-strip artist'],1
+['spy spoof'],1
+['french girl'],1
+['german girl'],1
+['plaid'],1
+['infra red'],1
+['dealer'],1
+['lip synching'],1
+['schoolgirl uniform'],1
+['subversion'],1
+['metrosexual'],1
+['hunting trip'],1
+['secret government organization'],1
+['aztec indian'],1
+['belt'],1
+['tarmac'],1
+['eyeball'],1
+['evil dead'],1
+['shot in the arm'],1
+['tax inspector'],1
+['industrialist'],1
+['medical school'],1
+['vertigo'],1
+['life competition'],1
+['fake commercial'],1
+['battle of the sexes'],1
+['gender'],1
+['chance meeting'],1
+['november'],1
+['mall santa'],1
+['christmas tree dealer'],1
+['curious'],1
+['bb gun'],1
+['jazz band'],1
+['septic tank'],1
+['incubus'],1
+['welding'],1
+['montage'],1
+['trance'],1
+['conservatory'],1
+['stock market crash'],1
+['brokerage'],1
+['over the top'],1
+['punching bag'],1
+['horror comedy'],1
+['cage fighting'],1
+['steel worker'],1
+['air guitar'],1
+['cambridge'],1
+['british farce'],1
+['genital mutilation'],1
+['sharpshooter'],1
+['helping animals'],1
+['annie oakley'],1
+['missing father'],1
+['long lost relative'],1
+['apache'],1
+['tehran iran'],1
+['dowager'],1
+['bound and gagged'],1
+['ban from profession'],1
+['fire fighting'],1
+['circular saw'],1
+['typhus'],1
+['spats'],1
+['lamborghini'],1
+['special ops'],1
+['passenger'],1
+['boring'],1
+['lew harper'],1
+['lgbt athlete'],1
+['denial of death'],1
+['private eye'],1
+['thinness'],1
+['congo'],1
+['tuberculosis'],1
+['sanitarium'],1
+['true crime'],1
+['saxophone'],1
+['beefcake'],1
+['martial arts training'],1
+['way station'],1
+['reverend'],1
+['blob'],1
+['autopilot'],1
+['landing'],1
+['fear of flying'],1
+['love crime'],1
+['republicanism'],1
+['rules'],1
+['body mutilation'],1
+['nuremberg trials'],1
+['revivalism'],1
+['evangelist'],1
+['trust fund baby'],1
+['dominican'],1
+['late coming of age'],1
+['experimental surgery'],1
+['shot in the heart'],1
+['brass band'],1
+['megaphone'],1
+['block party'],1
+['student visa'],1
+['abduction'],1
+['sushi restaurant'],1
+['madman'],1
+['tennis racket'],1
+['spaghetti'],1
+['greedy developer'],1
+['south hypnosis'],1
+['blogger'],1
+['vernissage'],1
+['cattle empire'],1
+['goth girls'],1
+['polaroid camera'],1
+['prank gone wrong'],1
+['back stabbing'],1
+['head'],1
+['dead teenager'],1
+['tv addicted person'],1
+['mind games'],1
+['pakistani'],1
+['religious education'],1
+['street art'],1
+['varanasi'],1
+['snooping'],1
+['threesome'],1
+['site of pilgrimage'],1
+['sentinals'],1
+['tall man'],1
+['undertaker'],1
+['graffiti'],1
+['spitting blood'],1
+['extreme sadism'],1
+['billion dollars'],1
+['pikachu'],1
+['monologue'],1
+['cold turkey'],1
+['aston martin'],1
+['fort knox'],1
+['college freshman'],1
+['chair'],1
+['essex'],1
+['candidate'],1
+['bachelorette party'],1
+['maquiladora'],1
+"[""asperger's""]",1
+['electrical engineer'],1
+['bitch'],1
+"[""asperger's syndrome""]",1
+['eating disorder'],1
+['lucky charm'],1
+['laundry'],1
+['contemporary setting'],1
+['diversity'],1
+['shot repeatedly'],1
+['drug rehabilitation'],1
+['drug culture'],1
+['customs'],1
+['pokémon'],1
+['dog actor'],1
+['golden retriever'],1
+['worship'],1
+['crime novelist'],1
+['super-8'],1
+['child killer'],1
+['sawed off shotgun'],1
+['social allegory'],1
+['antihero'],1
+['room'],1
+['constitutional convention'],1
+['florence'],1
+['labor camp'],1
+['oklahoma city bombing'],1
+['checks and balances'],1
+['intestines'],1
+['jackpot'],1
+['rant'],1
+['all girl band'],1
+"[""st. valentine's day massacre""]",1
+['urban life'],1
+['vegetable juice'],1
+['telephone joke'],1
+['australian man'],1
+['reno'],1
+['caller id'],1
+['curfew'],1
+['stonehenge'],1
+['low rider'],1
+['tease'],1
+['disgruntled worker'],1
+['cashier'],1
+['madison square garden'],1
+['portland'],1
+['black american stereotype'],1
+['magic show'],1
+['divorced parents'],1
+['domestic abuse'],1
+['german'],1
+['narkolepsy'],1
+['bosque'],1
+['episode film'],1
+['kinky'],1
+['chinese restaurant'],1
+['thumb'],1
+['home education'],1
+['isolated house'],1
+['art imitates life'],1
+['planetarium'],1
+['spa'],1
+['hidden character'],1
+['product licensing'],1
+['wagon train'],1
+['pearl necklace'],1
+['city council'],1
+['diction coach'],1
+['dairy queen'],1
+['improvisation'],1
+['workplace romance'],1
+['pantyhose'],1
+['cutting'],1
+['reference to the big bad wolf'],1
+['pink bathrobe'],1
+['fantasy docudrama'],1
+['thumb sucking'],1
+['quantum mysticism'],1
+['bitten'],1
+['magic mushroom'],1
+['cellar'],1
+['misadventure'],1
+['todfeind'],1
+['heroin addict'],1
+['religious fundamentalist'],1
+['bangladesh'],1
+['senior citizen'],1
+['cat thief'],1
+['consumption'],1
+['town'],1
+['loneliness in space'],1
+['patriarchy'],1
+['stick fighting'],1
+['call center'],1
+['scalpel'],1
+['maori tradition'],1
+['consignment'],1
+['jet lag'],1
+['neurosis'],1
+['talking to the audience'],1
+['lgbt family'],1
+['lethargy'],1
+['theology'],1
+['grave digger'],1
+['pseudoscience'],1
+['danube'],1
+['motorcycle jump'],1
+['solitary confinement'],1
+['optimism'],1
+['vegetable garden'],1
+['volkswagen beetle'],1
+['control freak'],1
+['biological father'],1
+['trapeze artist'],1
+['hopital'],1
+['muscular'],1
+['critically bashed'],1
+['newspaper man'],1
+['power company'],1
+['talkie'],1
+['grove'],1
+['rhedosaurus'],1
+['orlando florida'],1
+['beekeeper'],1
+['leere'],1
+['portugal'],1
+['peseta'],1
+['shipyard'],1
+['yorkshire'],1
+['benzine'],1
+['scalper'],1
+['toupee'],1
+['online predator'],1
+['exploding car'],1
+['online hookup'],1
+['online chat'],1
+['counselor'],1
+['hairstylist'],1
+['gallon of water'],1
+['assaulting an officer'],1
+['dirt road'],1
+['search for dog'],1
+['father-in-law daughter-in-law relationship'],1
+['sepia color'],1
+['imaginary land'],1
+['dressing'],1
+['sugar'],1
+['structure'],1
+['anchor'],1
+['network'],1
+['profit'],1
+['oath'],1
+['thomas cromwell'],1
+['protestant church'],1
+['thomas more'],1
+['schoolboy'],1
+['female killer'],1
+['airship'],1
+['royal flying corps'],1
+['royal air force'],1
+['perm'],1
+['kama'],1
+['crow'],1
+['geography'],1
+['menschheit'],1
+['swinger'],1
+['attention deficit hyperactivity disorder (adhd)'],1
+['sister sister incest'],1
+['western spoof'],1
+['frontier town'],1
+['looking at the camera'],1
+['saloon girl'],1
+['movie reality crossover'],1
+['skyline'],1
+['balance'],1
+['country'],1
+['around the world'],1
+['nietzsche'],1
+['eating'],1
+['coot'],1
+['female singer'],1
+['religious fundamentalism'],1
+['lifestyle'],1
+['extremsport'],1
+['morning'],1
+['sign'],1
+['elocution'],1
+['western town'],1
+['abandoned house'],1
+['night club owner'],1
+['navy veterans'],1
+['shot'],1
+['stallion'],1
+['multiple roles'],1
+['traveling through a sewer'],1
+['mission clinic'],1
+['sewer of paris'],1
+['polynesia'],1
+['bar brawl'],1
+['tiki culture'],1
+['modern life'],1
+['talking car'],1
+['sketching'],1
+['calamity'],1
+['marching band'],1
+['moonrise'],1
+['interrupted hanging'],1
+['following someone'],1
+['name calling'],1
+['righteous rage'],1
+['mexican revolution'],1
+['insects'],1
+['beggar'],1
+['car siren'],1
+['rich parents'],1
+['show must go on'],1
+['home detention'],1
+['munchies'],1
+['middle class'],1
+['relocation'],1
+['gatling gun'],1
+['health care'],1
+['assurance'],1
+['big business'],1
+['ginger'],1
+['last chance'],1
+['sanatorium'],1
+['russian soldier'],1
+['constable'],1
+['plaster cast'],1
+['russian orthodox church'],1
+['milkman'],1
+['investment firm'],1
+['commodities'],1
+['pushing a car'],1
+['investor'],1
+['dentures'],1
+['music journalism'],1
+['sock on the jaw'],1
+['sweat'],1
+['latina'],1
+['sci-fi comedy'],1
+['inheritance fight'],1
+['stage diving'],1
+['fund raiser'],1
+['funky music'],1
+['ultimate frisbee'],1
+['political correctness'],1
+['beer keg'],1
+['patenonkel'],1
+['pflegeheim'],1
+['gritty'],1
+['best selling author'],1
+['christmas horror'],1
+['big shot'],1
+['pogrom'],1
+['retail trade'],1
+['consumerism'],1
+['female rocker'],1
+['puppy mill'],1
+['animal rescues'],1
+['college intern'],1
+['funny'],1
+['cash'],1
+['national park'],1
+['old couple'],1
+['octogenarian'],1
+['stroke'],1
+['sauna'],1
+['boy gang'],1
+['che guevara'],1
+['fidel castro'],1
+['reference to jack ruby'],1
+['eviction'],1
+['drugged cookie'],1
+['leaving home'],1
+['job seeking'],1
+['ticket booth'],1
+['animal rights organization'],1
+['animal welfare'],1
+['abusive father'],1
+['h. r. giger'],1
+['hospital bed'],1
+['girl band'],1
+['talent contest'],1
+['broken glass'],1
+['grandmother'],1
+['guitarist'],1
+['microphone'],1
+['shock in the end'],1
+['chorine'],1
+['hunting party'],1
+['dog missing'],1
+['walmart'],1
+['politics of scarcity'],1
+['wedding toast'],1
+['appearance'],1
+['destruction of planet'],1
+['show producer'],1
+['spanish movie'],1
+['school uniform'],1
+['\xa0begins with text'],1
+['imaginary band'],1
+['coin'],1
+['nun in love'],1
+['puppet show'],1
+['music contest'],1
+['salzburg'],1
+['visual storytelling'],1
+['stringer'],1
+['studebaker'],1
+['miss piggy'],1
+['dr teeth'],1
+['austin texas'],1
+['floyd'],1
+['synagogue'],1
+['kermit the frog'],1
+['fozzie bear'],1
+['kermit'],1
+['muppet'],1
+['gonzo'],1
+['reference to al green'],1
+['pulp fiction'],1
+['nazi occupation'],1
+['female sexuality'],1
+['beauty queen contest'],1
+['dance performance'],1
+['chemotherapy'],1
+['nude fight'],1
+['shin bet'],1
+['dummy'],1
+['escapee convict'],1
+['prison warden'],1
+['diabetic'],1
+['sarcasm'],1
+['love interest'],1
+['railroad track'],1
+['normandy beach'],1
+['campfire story'],1
+['\xa0flipping coin'],1
+['lifeguard'],1
+['list'],1
+['pap smear'],1
+['public pool'],1
+['story within the story'],1
+['heirloom'],1
+['harvest'],1
+['exploding head'],1
+['asbestos'],1
+['ontario canada'],1
+['treatment'],1
+['gestapo'],1
+['talk radio'],1
+['trapped in building'],1
+['americana'],1
+['live performance'],1
+['traffic'],1
+['divination'],1
+['coven'],1
+['korean'],1
+['shrine'],1
+['down feather'],1
+['fictional band'],1
+['choirmaster'],1
+['debutante'],1
+['salem massachusetts'],1
+['house arrest'],1
+['baby left on doorstep'],1
+['clone troopers'],1
+['muay thai'],1
+['sex slavery'],1
+['pardon'],1
+['multiple personality'],1
+['kaiser nero'],1
+['character study'],1
+['irish republican army'],1
+['irish civil war'],1
+['chat'],1
+['opression'],1
+['swampf'],1
+['distress'],1
+['boardwalk'],1
+['emergency'],1
+['container'],1
+['talent show'],1
+['cabin boy'],1
+['female mercenary'],1
+['distant future'],1
+['biscuit'],1
+['guilty'],1
+['marijuana pipe'],1
+"[""picking one's nose""]",1
+['theatrical manager'],1
+['nome alaska'],1
+['soong sisters'],1
+['revenge plot'],1
+['washed up star'],1
+['infatuation'],1
+['hobo'],1
+['business consultant'],1
+['prenzlauer berg'],1
+['palm sunday'],1
+['rausschmeißer'],1
+['twilight zone'],1
+['secret location'],1
+['lemonade'],1
+['trapped in an elevator'],1
+['loss of a child'],1
+['broken mirror'],1
+['secret passageway'],1
+['car run over'],1
+['oasis'],1
+['recess'],1
+['nuclear waste'],1
+['faked footage'],1
+['baldness'],1
+['anchorage alaska'],1
+['software engineer'],1
+['hit man'],1
+['marilyn monroe'],1
+['triad'],1
+['weekend'],1
+['china town'],1
+['shock humor'],1
+['giant worm'],1
+['suicidal thoughts'],1
+['anti romantic comedy'],1
+['seismologist'],1
+['graboids'],1
+['tractor'],1
+['cincinnati'],1
+['retirement home'],1
+['theatre director'],1
+['backstage'],1
+['bühnenauftritt'],1
+['paranoid'],1
+['strong man'],1
+['excrements '],1
+['outsourcing'],1
+['personal growth'],1
+['self expression'],1
+['health club'],1
+['beatboxing'],1
+['performance art'],1
+['clown makeup'],1
+['pygmalion'],1
+['broken lizard'],1
+['avant-garde'],1
+['jeep'],1
+['wedding arranger'],1
+['cheering crowd'],1
+['workout'],1
+['shot in the face'],1
+['famous theme'],1
+['class system'],1
+['suffocation'],1
+['jewelry'],1
+['sign language'],1
+['insectarium'],1
+['bludgeoning'],1
+['safe sex'],1
+['adultress'],1
+['catatonia'],1
+['jaipur india'],1
+['world peace'],1
+['rhinoceros'],1
+['adult humor'],1
+['socrates'],1
+['rabid anger'],1
+['remake of japanese film'],1
+['jerusalem judah'],1
+['winning'],1
+['pool cleaner'],1
+['hockey game'],1
+['widerstand'],1
+['bedridden'],1
+['near miss'],1
+['electronic voice phenomena'],1
+['bethlehem judah'],1
+['waterfront'],1
+['lifting person in air'],1
+['burnout'],1
+['beach resort'],1
+['brisbane queensland'],1
+['serial murder'],1
+['defence company'],1
+['forced retirement'],1
+['will to survive'],1
+['chorus line'],1
+['suicide mission'],1
+['vote'],1
+['ghost story'],1
+['flag'],1
+['shark repelent'],1
+['truce'],1
+['broken ankle'],1
+['director'],1
+['kaffeehaus'],1
+['pizza shop'],1
+['burial'],1
+['sexual humiliation'],1
+['blindfold'],1
+['crime syndicate'],1
+['black cat'],1
+['jump the shark'],1
+['team building'],1
+['murder trial'],1
+['slot machine'],1
+['theatrical backer'],1
+['dairy queen restaurant'],1
+['sadistic laughter'],1
+['camoflage uniform'],1
+['headshot'],1
+['bandana'],1
+['duct tape gag'],1
+['riot police'],1
+['sporting event'],1
+['alan smithee'],1
+['death in family'],1
+['crutch'],1
+['opening night'],1
+['mass child killing'],1
+['fainting'],1
+['skirt'],1
+['rubber mask'],1
+['police interrogation'],1
+['ice cream man \xa0'],1
+['hatchet'],1
+['second wife'],1
+['stolen truck'],1
+['anger issues'],1
+['lawnmower'],1
+['prison rape'],1
+['interracial friendship'],1
+['neo nazism'],1
+['naive'],1
+['moving on'],1
+['art teacher'],1
+['cornwall'],1
+['devotion'],1
+['transplanted organ'],1
+['dialogue driven'],1
+['mocumentary'],1
+['hicktown'],1
+['girl from the province'],1
+['costume party'],1
+['business rivalry'],1
+['laziness'],1
+['coworker relationship'],1
+['marathon'],1
+['laotian soldier'],1
+['rice paddy'],1
+['narcotics'],1
+['psychedelic drug'],1
+['generation-z'],1
+['antique'],1
+['cardsharp'],1
+['generation-x'],1
+['egyptologist'],1
+['collision'],1
+['installer'],1
+['moon walk'],1
+['letter from home'],1
+['textile industry'],1
+['strip show'],1
+['high stakes'],1
+['glue'],1
+['dogme 95'],1
+['dragging someone'],1
+['net fishing'],1
+"[""ant's nest""]",1
+['therapist patient relationship'],1
+['road accident'],1
+['rare stamps'],1
+['soccer team'],1
+['derby county'],1
+['french canadian'],1
+['cup'],1
+['cut-off arm'],1
+['revitalization'],1
+['leeds united'],1
+['filmes contra o comunismo'],1
+['count'],1
+['lenin'],1
+['helix'],1
+['tantrum'],1
+['multiple felonies'],1
+['eco-terrorists'],1
+['vanity film'],1
+['exit'],1
+['boy eaten'],1
+['headache'],1
+['migraine'],1
+"[""mcdonald's restaurant""]",1
+['programmers'],1
+['crematorium'],1
+['magazine editor'],1
+['suit of armor'],1
+['animated credits'],1
+['wolf whistle'],1
+['frank sinatra'],1
+['romantic rivalry'],1
+['insurance fraud'],1
+['greaser'],1
+['classic noir'],1
+['dire'],1
+['bandleader'],1
+['grim'],1
+['coke'],1
+['grim reaper'],1
+['silent man'],1
+['louisville'],1
+['birth defect'],1
+['exploding gasoline station'],1
+['night of the living dead'],1
+['stairs'],1
+['paramedic'],1
+['based on real events'],1
+['bat attack'],1
+['film editing'],1
+['declared dead'],1
+['exhibitionism'],1
+['aspiring musician'],1
+['middle aged woman'],1
+['brother-in-law sister-in-law relationship'],1
+['marital rape'],1
+['rising star'],1
+['dying young'],1
+['light bulb'],1
+['will'],1
+['political assassination'],1
+['youtube'],1
+['off screen rape'],1
+['strategic air command'],1
+['h.p. lovecraft'],1
+['checkpoint'],1
+['war room'],1
+['bűnös utakon'],1
+['borrow'],1
+['gold mining town'],1
+['new brighton england'],1
+['white gloves'],1
+['southern accent'],1
+['confined'],1
+['closed mine'],1
+['chemistry'],1
+['bisexual man'],1
+['high'],1
+['reference to family circus'],1
+['electro shock'],1
+['grave digging'],1
+['returned alive'],1
+['fake accent'],1
+['wanted man'],1
+['true love'],1
+['juggler'],1
+['bloodhound'],1
+['street artist'],1
+['nosebleed'],1
+['supervivencia'],1
+['reflection in water'],1
+['lynch mob'],1
+['entrails'],1
+['pep rally'],1
+['wrong side of the tracks'],1
+['salt lake city'],1
+['confession of crime'],1
+['corpse in freezer'],1
+['vinegar'],1
+['pencil'],1
+['auto theft'],1
+['swinger club'],1
+['eraser'],1
+['hick'],1
+['jury trial'],1
+['estranged family member'],1
+['hidden corpse'],1
+['missing persons case'],1
+['funeral director'],1
+['palestine'],1
+['occupying power'],1
+['irak'],1
+['warfare'],1
+['pitchfork'],1
+['apollo s'],1
+['playing pool'],1
+['watching a movie'],1
+['killer whale'],1
+['self identity'],1
+['child molestation'],1
+['lgbt in the military'],1
+['restaurant chain'],1
+['military brat'],1
+['reference to kant'],1
+['godard'],1
+['stage production'],1
+['rock odyssey'],1
+['rouge'],1
+['manatee'],1
+['irresistible'],1
+['dry humour'],1
+['chubby woman'],1
+['padre'],1
+['plagiarized novel'],1
+['stolen novel'],1
+['arm sling'],1
+['plagiarized book'],1
+['thirst'],1
+['pioneer'],1
+['school principal'],1
+['sexual revolution'],1
+['learning disability'],1
+['bon bon'],1
+['mental asylum'],1
+['pug'],1
+['exposé'],1
+['doggystyle'],1
+['womb'],1
+['fetus'],1
+['hungarian'],1
+['gopher'],1
+['golf course'],1
+['lifting female in air'],1
+['chimney sweeper'],1
+['supernatural being'],1
+['revenge killing'],1
+['mental patient'],1
+['legendary perfomer'],1
+['loot sharing'],1
+['classic hollywood'],1
+['alibi'],1
+['fraternity pledge'],1
+['greek letter'],1
+['charisma'],1
+['boogeyman'],1
+['ibiza'],1
+['uganda'],1
+['nottingham'],1
+['stonewall riot'],1
+['heist mafia internet'],1
+['polygamy'],1
+['no memory'],1
+['in flagranti'],1
+['steroids'],1
+['portuguese american'],1
+['teenage killer'],1
+['lobster'],1
+['folk singer'],1
+['kimono'],1
+['poodle'],1
+['illinois'],1
+['cool hair'],1
+['murder mystery'],1
+['edgar allen poe'],1
+['cthulhu'],1
+['san fernando valley'],1
+['confidence man'],1
+['disabled child'],1
+['unity'],1
+['old age'],1
+['innkeeper'],1
+['macau'],1
+['montreal canadiens'],1
+['hockey player'],1
+['rolling eyes'],1
+['gallop'],1
+['landfill'],1
+['small town thieves'],1
+['san remo'],1
+['baja california'],1
+['tdrug lord'],1
+['healer'],1
+['perfect murder'],1
+['cadaver'],1
+['pathology'],1
+['algeria'],1
+['ruse'],1
+['algerian war'],1
+['sexless marriage'],1
+['learning and teaching'],1
+['squatter'],1
+['hole'],1
+['wolves'],1
+['alaskan malamute'],1
+"['dove ""family-approved""']",1
+['insurrection'],1
+['bomb alarm'],1
+['fondling'],1
+['bribe'],1
+['industrial accident'],1
+['assertion'],1
+['teaching the ways of the world'],1
+['torture porn'],1
+['female writer'],1
+['nicotine'],1
+['lobbyist'],1
+['lung cancer'],1
+['gender stereotypes'],1
+['highwayman'],1
+['salmon'],1
+['stenographer'],1
+['harvard business school'],1
+['round table'],1
+['white collar'],1
+['cafe'],1
+['private'],1
+['tryst'],1
+['bisexual woman'],1
+['ice fishing'],1
+['rube'],1
+['middle america'],1
+['next door neighbor'],1
+['cameos'],1
+['thai boxing'],1
+['title of nobility'],1
+['entity'],1
+['kilt'],1
+['house warming'],1
+['smoking weed'],1
+['swindle'],1
+['unreliable narrator'],1
+['voice imitation'],1
+['store'],1
+['psychiatric ward'],1
+['old girlfriend'],1
+['confrontation'],1
+['sewing machine'],1
+['government minister'],1
+['equal pay'],1
+['dressmaker'],1
+['cosmetics and hygiene'],1
+['strafzettel'],1
+['red wine'],1
+['uruguay'],1
+['season'],1
+['edwardian england'],1
+['flesh eating'],1
+['usa politics'],1
+['turn of the century'],1
+['political drama'],1
+['music fan'],1
+['masseuse'],1
+['northern canada'],1
+['biblical code'],1
+['pager'],1
+['comic book artist'],1
+['set up'],1
+['life relationship'],1
+['nightstick'],1
+['secret laboratory'],1
+['levee'],1
+['jujitsu'],1
+['lost mother'],1
+['kashmir conflict'],1
+['perth'],1
+['tracker'],1
+['approved school '],1
+['pride & prejudice'],1
+['mary magdalene'],1
+['blasphemy'],1
+['monty python'],1
+['melting ice caps'],1
+['salt water'],1
+['sadistic horror'],1
+['homicidal maniac'],1
+['window smashing'],1
+['defrost'],1
+['tough love'],1
+['ex nazi'],1
+['prologue'],1
+['getting lost'],1
+['bomber pilot'],1
+['loss of relative'],1
+['flop'],1
+['man in towel\xa0'],1
+['luxury hotel'],1
+['nymphomaniac'],1
+['convent school'],1
+['auroch'],1
+['doomsday device'],1
+['mother superior'],1
+['potty training'],1
+['guinea pig'],1
+['mexican province'],1
+['grayscale'],1
+['warhol'],1
+['bayou'],1
+['evil clown'],1
+['painted face'],1
+['revelation (book)'],1
+['roadkill'],1
+['weaver'],1
+['law man'],1
+['lynching'],1
+['maori'],1
+['heartache'],1
+['psychoterror'],1
+['year'],1
+['ikea'],1
+['welder'],1
+['locksmith'],1
+['mob boss'],1
+['gender disguise'],1
+['high dive'],1
+['old woman murdered'],1
+['casino owner'],1
+['woman drowned'],1
+['dirt bike'],1
+['artificial'],1
+['precocity'],1
+['sex education'],1
+"[""martha's vineyard""]",1
+['comic book industry'],1
+['wild man'],1
+['crawfish'],1
+['bestie'],1
+['megalomaniac'],1
+['image comics'],1
+['submerged'],1
+['chapter'],1
+['grits'],1
+['african american child'],1
+['domed city'],1
+['communist'],1
+['bookstore'],1
+['evangelical christianity'],1
+['uncle nephew relationship'],1
+['bhutan'],1
+['concealed weapon'],1
+['story in story'],1
+['mariachi'],1
+['literature research'],1
+['ritual sacrifice'],1
+['fox'],1
+['buffalo bill'],1
+['chastity'],1
+['javelin'],1
+['easter'],1
+['post civil war'],1
+['hangman'],1
+['reference to elvis presley'],1
+['elvis'],1
+['expert'],1
+['ashram'],1
+['stanley cup'],1
+['anti-authoritarian upbringing'],1
+['self-help'],1
+['broken heart'],1
+['political cover-up'],1
+['doc holliday'],1
+['electric fence'],1
+['brontosaurus'],1
+['triceratops'],1
+['dutch'],1
+['fall from height'],1
+['columnist'],1
+['parish hall'],1
+['cossack'],1
+['television repair'],1
+['hollywood sign'],1
+['fast cars'],1
+['allergy'],1
+['pharaoh'],1
+['pretend'],1
+['make believe'],1
+['electromagnetic pulse'],1
+['safe deposit box'],1
+['magic realism'],1
+['fishing boat'],1
+['missing wife'],1
+['murder suspect'],1
+['criminal lawyer'],1
+['middle aged man'],1
+['travel writer'],1
+['biker film'],1
+['death row inmate'],1
+['fish market'],1
+['lavender'],1
+['bad smell'],1
+['saving christmas'],1
+['stealth aircraft'],1
+['nuclear device'],1
+['rocky mountains'],1
+['olympic athlete'],1
+['waffle'],1
+['vicodin'],1
+['rest stop'],1
+['girl disguised as boy'],1
+['spacecraft accident'],1
+['mount everest'],1
+['lunar mission'],1
+['cape kennedy'],1
+['apollo program'],1
+['hypothermia'],1
+['saturn v rocket'],1
+['houston'],1
+['emancipation'],1
+['ethical dilemma'],1
+['humvee'],1
+['self-awareness'],1
+['rubble'],1
+['faculty'],1
+['gargoyles'],1
+['christmas parade'],1
+['vehicle combat'],1
+['mega corporation'],1
+['tokyo japan'],1
+['katana sword'],1
+['dog shelter'],1
+['karate class'],1
+['stable'],1
+['sushi bar'],1
+['foster child'],1
+['kurdish'],1
+['womens issues'],1
+['teacher hero'],1
+['femininity'],1
+['school nurse'],1
+['art history'],1
+['mini cooper'],1
+['couples therapy'],1
+['gettysburg address'],1
+['dragonslayer'],1
+['home run'],1
+['pitcher'],1
+['romulus'],1
+['circumcision'],1
+['iodine'],1
+['drilling'],1
+['fire repellent'],1
+['tunnel construction'],1
+['animated map'],1
+['poor eyesight'],1
+['fire chief'],1
+['miss america'],1
+['lego'],1
+['different worlds'],1
+['part live action'],1
+['family curse'],1
+['swimming underwater'],1
+['explosive decompression'],1
+['talent-scout'],1
+['boston red sox'],1
+['tropical'],1
+['caddy'],1
+['potus'],1
+['secretary of defense'],1
+['military prison'],1
+['bus trip'],1
+['innocence lost'],1
+['domineering mother'],1
+['black sabbath'],1
+['music journalist'],1
+['autistic savant'],1
+['draft'],1
+['child in peril'],1
+['amazon jungle'],1
+['indian tribe'],1
+['anthropologist'],1
+['blurred sight'],1
+['blurry vision'],1
+['failing eyesight'],1
+['baseball scout'],1
+['alien queen'],1
+['regeneration'],1
+['breeding'],1
+['alarm'],1
+['quarry'],1
+['practical joke'],1
+['ledge'],1
+['horse whisperer'],1
+['riding accident'],1
+['attachment to nature'],1
+['american football stadium'],1
+['american football coach'],1
+['female spy'],1
+['man in wheelchair'],1
+['life reprioritizing'],1
+['career vs family'],1
+['bali'],1
+['immunity'],1
+['labor pain'],1
+['daytona'],1
+['polynésie française'],1
+['french polynesia'],1
+['killer shark'],1
+['vaccine'],1
+['strange behavior'],1
+['grenade launcher'],1
+['stolen patent'],1
+['analyst'],1
+['rehab'],1
+['vitamin b'],1
+['empathy'],1
+['child witch'],1
+['witch trial'],1
+['dealing with the past'],1
+['communicating with the dead'],1
+['combat photography'],1
+['narration from grave'],1
+['navidad'],1
+['turboman'],1
+['surveillance footage'],1
+['jumping from a rooftop'],1
+['swim meet'],1
+['bloodshed'],1
+['conflagration'],1
+['presidential cabinet'],1
+['post'],1
+['evil mastermind'],1
+['psychosomatic illness'],1
+['sport competition'],1
+['dog trainer'],1
+['motor'],1
+['anger management'],1
+['ocean floor'],1
+['raumschiffabsturz'],1
+['alternative'],1
+['train accident'],1
+['golf war'],1
+['struggle for survival'],1
+['gobi desert'],1
+['horniness agent'],1
+['hostage negotiator'],1
+['burma'],1
+['excalibur'],1
+['language course'],1
+['hysteria'],1
+['french stereotype'],1
+['springfield'],1
+['knife in hand'],1
+['alien encounter'],1
+['masochism'],1
+['yellow press'],1
+['sponge'],1
+['thrill seeker'],1
+['adrenaline junkie'],1
+['nsa agent'],1
+['porsche'],1
+['wrecker'],1
+['loss of faith'],1
+['the simpsons'],1
+['rural farm'],1
+['rural america'],1
+['rural pennsylvania'],1
+['village council'],1
+['aura'],1
+['saving lives'],1
+['environmental protection agency'],1
+['duff beer'],1
+['milieu'],1
+['nigeria'],1
+['olympian village'],1
+['social differences'],1
+['first date'],1
+['venezia'],1
+['allan quatermain'],1
+['mongrel'],1
+['rodent'],1
+['celebrity cameo'],1
+['talking to the camera'],1
+['siren'],1
+['mysterious island'],1
+['baader-meinhof group'],1
+['meerkat'],1
+['mathematical theorem'],1
+['nobel prize'],1
+['economic theory'],1
+['market economy'],1
+['pompeii'],1
+['gladiator fight'],1
+['shortage of money'],1
+['giraffe'],1
+['deluge'],1
+['coloured'],1
+['archaeological dig'],1
+['bomb constructor'],1
+['ailul al aswad'],1
+['beirut'],1
+['munich'],1
+['music business'],1
+['the supremes'],1
+['motown'],1
+['background singer'],1
+['karakoram'],1
+['k2'],1
+['beagle'],1
+['foster home'],1
+['jfk international airport'],1
+['craftsman'],1
+['translation'],1
+['foot'],1
+['gadget'],1
+['winston churchill'],1
+['blood bath'],1
+['battle of gettysburg'],1
+['assumed identity'],1
+['library of alexandria'],1
+['persecution'],1
+['misogyny'],1
+['hypatia'],1
+['train robbery'],1
+['cattivissimo'],1
+['despicable'],1
+['schematic'],1
+['jewelry heist'],1
+['master and servant'],1
+['customs house'],1
+['scepter'],1
+['mistaken parentage'],1
+['city of argos'],1
+['jacuzzi'],1
+['playing god'],1
+['soho london'],1
+['computer war'],1
+['impossible love'],1
+['rajah'],1
+['german occupation of france'],1
+['kuala lumpur malaysia'],1
+['cultural conflict'],1
+['human evolution'],1
+['super cars'],1
+['war memorial'],1
+['omaha beach'],1
+['waffen ss'],1
+['western roman empire'],1
+['x-files'],1
+['millennium'],1
+['spleen'],1
+['taxidermy'],1
+['dubai'],1
+['jordan'],1
+['sinking ship'],1
+['columbia broadcasting system (cbs)'],1
+['whistleblower'],1
+['insider'],1
+['evil genius'],1
+['cyber thriller'],1
+['cyber terrorist'],1
+['chinese military'],1
+['evil alien'],1
+['post world war ii'],1
+['artillery'],1
+['plowing'],1
+['gentle giant'],1
+['fair'],1
+['apoplectic stroke'],1
+['story teller'],1
+['leech'],1
+['exploding ship'],1
+['cybercrime'],1
+['spacecraft officer'],1
+['bayonet'],1
+['laserpointer'],1
+['nixe'],1
+['snowmobile'],1
+['air traffic control'],1
+['officer involved shooting'],1
+['dulles international airport'],1
+['trapped underwater\xa0'],1
+['thalassophobia'],1
+['tepes'],1
+['falling star'],1
+['stock exchange'],1
+['malaysia'],1
+['construction worker'],1
+['flu'],1
+['cold'],1
+['future sport'],1
+['rollerskating'],1
+['roller-skating'],1
+['tribunal'],1
+['rock sta'],1
+['werewolf child'],1
+['lab experiment'],1
+['commando mission'],1
+['severed ear'],1
+['dilemma'],1
+['monsoon'],1
+['fratricide'],1
+['disobey'],1
+['water monster'],1
+['hellgate'],1
+['westford massachusetts'],1
+['chancellor'],1
+['fascist'],1
+['mystery killer'],1
+['statistics'],1
+['oakland california'],1
+['lasagne'],1
+['living with parents'],1
+['hotel mom'],1
+['lexington massachusetts'],1
+['catholic guilt'],1
+['astrophysicist'],1
+['time capsule'],1
+['kongo'],1
+['beanstalk'],1
+['daddys home'],1
+['school play'],1
+['custody'],1
+['freeze frame'],1
+['personification of satan'],1
+['jesuit'],1
+['enviromental'],1
+['feminist'],1
+['carousel '],1
+['milf'],1
+['quitting a job'],1
+['scat'],1
+['witch burning'],1
+['danger of life'],1
+['sexual discrimination'],1
+['mental health'],1
+['firewall'],1
+['vengeful spirit'],1
+['bullfighting'],1
+['day of the dead'],1
+['u.s. ambassador'],1
+['alien teenager'],1
+['hansel and gretel'],1
+['imperial seal'],1
+['jesuit priest'],1
+['vengeful'],1
+['pity'],1
+['water pollution'],1
+['firecracker'],1
+['prison camp'],1
+['dinner party'],1
+['watching tv'],1
+['pool table'],1
+['islamabad'],1
+['helicopter crash'],1
+['ex special forces'],1
+['suicide bombing'],1
+['water torture'],1
+['al qaeda'],1
+['chrysler building'],1
+['terrorist group'],1
+['osama bin laden'],1
+['inspired by a true story'],1
+['mislaid trust'],1
+['engagement party'],1
+['attempted jailbreak'],1
+['overhead camera shot'],1
+['dance hall'],1
+['condominium'],1
+['moonshine'],1
+['guadalcanal'],1
+['philosophic conflict'],1
+['corporate take over'],1
+['apple tree'],1
+['fable'],1
+['kindness'],1
+['city country contrast'],1
+['ferrari'],1
+['tv news anchor'],1
+['laughter'],1
+['noodle salad'],1
+['obnoxious'],1
+['rude'],1
+['mercifulness'],1
+['covert agency'],1
+['honesty'],1
+['cojote'],1
+['scroll'],1
+['man change'],1
+['counterfeit'],1
+['ninjutsu'],1
+['burning man'],1
+['lahore'],1
+['rich people'],1
+['valuable painting'],1
+['missing painting'],1
+['insurance agent'],1
+['glider'],1
+['famous painting'],1
+['claude monet'],1
+['martinique'],1
+['partition'],1
+['housemaid'],1
+['cable guy'],1
+['trunk'],1
+['purse'],1
+['righting the wronged'],1
+['railway car'],1
+['teuflisch'],1
+['sale of soul'],1
+['help'],1
+['rumpelstilzchen'],1
+['borg'],1
+['vice'],1
+['bullet time'],1
+['jack the ripper'],1
+['amazon river'],1
+['killer snake'],1
+['film crew'],1
+['anaconda'],1
+['mouth guard'],1
+['x rayed skeleton'],1
+['kicked in the groin'],1
+['bullet dodging'],1
+['tomahawk'],1
+['secret headquarters'],1
+['english subtitles in original'],1
+['disarming someone'],1
+['studio tour'],1
+['taj mahal'],1
+['search for witnesses'],1
+['security guard killed'],1
+['killed in an elevator'],1
+['doubt'],1
+['claim'],1
+['preisgeld'],1
+['midwife'],1
+['last day on job'],1
+['extension ladder'],1
+['religious delusions'],1
+['joan of arc'],1
+['charles vii.'],1
+['orléans'],1
+['wrack'],1
+['bathhouse'],1
+['red cap'],1
+['stalinism'],1
+['fear of unknown'],1
+['fbi profiler'],1
+['heart transplant'],1
+['houseboat'],1
+['military crime'],1
+['lager'],1
+['alien parasites'],1
+['intellectual'],1
+['lost child'],1
+['puritan'],1
+['nuclear scientist'],1
+['callgirl'],1
+['persian gulf'],1
+['woodchipper'],1
+['robot cop'],1
+['imperial russia'],1
+['pirate radio'],1
+['man punching a woman'],1
+['car jump'],1
+['backhand slap'],1
+['reproduction'],1
+['neue frau'],1
+['yellow bikini'],1
+['scheming'],1
+['skinny dipping'],1
+['irish mob'],1
+['casters'],1
+['online gaming'],1
+['wrongful conviction'],1
+['orpheus and eurydice'],1
+['la traviata'],1
+['cancan dance'],1
+['reference to pizarro'],1
+['powhatan'],1
+['indians vs. settlers'],1
+['based on folk tale'],1
+['indian chief'],1
+['animate tree'],1
+['cross cultural relationship'],1
+['pug dog'],1
+['jamestown virginia'],1
+['gold rush'],1
+['save the day'],1
+['pavilion'],1
+['urn'],1
+['lost baggage'],1
+['epistaxis'],1
+['songwriter'],1
+['amputee'],1
+['park bench'],1
+['wounded soldier'],1
+['land claim'],1
+['speed date'],1
+['red curtain'],1
+['launch code'],1
+['nerve gas'],1
+['flight attendant'],1
+['sioux'],1
+['potion'],1
+['movie actress'],1
+['female yakuza'],1
+['workplace'],1
+['sonar'],1
+['chain of command'],1
+['ship hijacking'],1
+['post cold war'],1
+['wealth differences'],1
+['hotel clerk'],1
+['maid uniform'],1
+['public relations'],1
+['teenage prostitute'],1
+['mischievous children'],1
+['somali'],1
+['hugging'],1
+['male nanny'],1
+['body guard'],1
+['art dealer'],1
+['war on freedom'],1
+['landscape architect'],1
+['book comes to life'],1
+['self healing'],1
+['archive footage'],1
+['chechnya'],1
+['ethiopia'],1
+['bad power'],1
+['back from the dead'],1
+['bodybuilder'],1
+['demon hunter'],1
+['shadowhunter'],1
+['downworlder'],1
+['biplane'],1
+['observer'],1
+['humanitarian'],1
+['derelict ship'],1
+['distress signal'],1
+['mujahid'],1
+['japanese food'],1
+['sponsorship'],1
+['reference to google'],1
+['allied forces'],1
+['italian army'],1
+['greek history'],1
+['italian soldier'],1
+['mandolin'],1
+['greek island'],1
+['ghost rider'],1
+['crook couple'],1
+['dragonheart'],1
+['teacher student sex'],1
+['cheating fiancée'],1
+['deadbeat dad'],1
+['gainesville florida'],1
+['seven deadly sins'],1
+['resident evil'],1
+['transamerica pyramid'],1
+['laid off'],1
+['doorman'],1
+['ride'],1
+['bird hatching'],1
+['burlesque'],1
+['lasersight'],1
+['detox'],1
+['youngster'],1
+['trenches'],1
+['lighthouse keeper   '],1
+['verdun'],1
+['brittany'],1
+['burlesque dancer'],1
+['thunderbirds'],1
+['tudors'],1
+['soaked clothes'],1
+['oil rig\xa0'],1
+['locker'],1
+['turbulence'],1
+['air marshal'],1
+['25th century'],1
+['human cloning'],1
+['infertility'],1
+['exploding body'],1
+['reaper'],1
+['broken wrist'],1
+['sword duel'],1
+['toulouse lautrec'],1
+['bohemian'],1
+['moulin rouge'],1
+['exploding train'],1
+['foreign language adaptation'],1
+['train explosion'],1
+['russian revolution'],1
+['tzar'],1
+['mistress'],1
+['crystal machine'],1
+['rocket fired grenade'],1
+['phantom zone'],1
+['newlywed'],1
+['blood type'],1
+['organ transplant'],1
+['tax collector'],1
+['burnt face'],1
+['palace intrigue'],1
+['religious war'],1
+['shaved head'],1
+['ex kgb'],1
+['sterility'],1
+['swahili'],1
+['lion attack'],1
+['kenya'],1
+['merry go round'],1
+['cellular phone trace'],1
+['hit with a car door'],1
+['preparation'],1
+['audi'],1
+['queen elizabeth i'],1
+['soccer ball'],1
+['singing narrator'],1
+['argentine president'],1
+['perónism'],1
+['dancehall hostess'],1
+['deification'],1
+['furnace'],1
+['penal colony'],1
+['neighborhood watch'],1
+['creepy neighbor'],1
+['gory violence'],1
+['anxiety'],1
+['breaking mirror'],1
+['steam room'],1
+['driving range'],1
+['psychotic fan'],1
+['baseball fan'],1
+['baseball pitcher'],1
+['san francisco giants'],1
+['hydrogen bomb'],1
+['mother love'],1
+['ramp'],1
+['garbage can'],1
+['trade'],1
+['merger'],1
+['nba'],1
+['flint michigan'],1
+['siamese'],1
+['conjoined'],1
+['piggy bank'],1
+['la roque'],1
+['wild bill hickok'],1
+['moskow'],1
+['awful leader'],1
+['alien friendship'],1
+['winner'],1
+['noodle'],1
+['monkey warrior'],1
+['master'],1
+['security leak'],1
+['chase on the roof'],1
+['disillusionment'],1
+['guantánamo'],1
+['armadillo'],1
+['construction site'],1
+['terrarium'],1
+['cactus'],1
+['chameleon'],1
+['rango'],1
+['snail'],1
+['fur trapper'],1
+['taking resposibility'],1
+['haitian gang'],1
+['zurich'],1
+['prehistoric egg'],1
+['capuchin monkey'],1
+['pirate ship'],1
+['gold coin'],1
+['wooden eye'],1
+['police department'],1
+['stronger villain'],1
+['lemur'],1
+['nesting grounds'],1
+['trampled to death'],1
+['minefield'],1
+['waltzing matilda'],1
+['stampede'],1
+['muggle'],1
+['griffon'],1
+['sunken treasure'],1
+['liquor'],1
+['noah'],1
+['intelligence officer'],1
+['evil brother'],1
+['bruce banner'],1
+['angry'],1
+['nile'],1
+['berkeley'],1
+['house on fire'],1
+['death of superhero'],1
+['red square'],1
+['doomsday clock'],1
+['myth'],1
+['egyptian'],1
+['egyptian mythology'],1
+['warp engine'],1
+['super soldier'],1
+['warp speed'],1
+['ramses'],1
+['war trauma'],1
+['gettysburg'],1
+['war strategy'],1
+['commercial agreement'],1
+['comeuppance'],1
+['bearer bonds'],1
+['cell'],1
+['repression'],1
+['tyrant'],1
+['ironclad ship'],1
+['misinformation'],1
+['wolf pack'],1
+['forks washington'],1
+['dhampir'],1
+['chief of police'],1
+['vampire vs vampire'],1
+['grudge'],1
+['bloodsucker'],1
+['cross breed'],1
+['imprinting'],1
+['super strength'],1
+['weevil'],1
+['self surgery'],1
+['frigate'],1
+['naturalist'],1
+['bilbao spain'],1
+['downfall'],1
+['tortuga'],1
+['curator'],1
+['bankruptcy'],1
+['chancel'],1
+['colosseum'],1
+['energy company'],1
+['yoda'],1
+['mechanical hand'],1
+['good becoming evil'],1
+['spaceport'],1
+['kendo'],1
+['childbirth'],1
+['human vs alien'],1
+['navajo'],1
+['class conflict'],1
+['origins of life'],1
+['genetic mutation'],1
+['cave drawing'],1
+['god complex'],1
+['archeological dig'],1
+['flame'],1
+['injured animal'],1
+['galier'],1
+['pacific war'],1
+['symbologist'],1
+['dutch eastindian company'],1
+['naval warfare'],1
+['meth lab'],1
+['kato'],1
+['test flight'],1
+['flying boat'],1
+['goon'],1
+['part'],1
+['second'],1
+['fabergé egg'],1
+['huntsman'],1
+['south carolina'],1
+['media tycoon'],1
+['san andreas california'],1
+['san andreas'],1
+['invisible woman'],1
+['volcanic ash'],1
+['county fair'],1
+['seismograph'],1
+['lifeboat'],1
+['absorbing power'],1
+['elasticity'],1
+['medusa'],1
+['fake id'],1
+['tracking device'],1
+['laptop'],1
+['suicide by gunshot'],1
+['scandinavia'],1
+['oxygen'],1
+['kraken'],1
+['mythological beast'],1
+['detective inspector'],1
+['silver surfer'],1
+['amazon rainforest'],1
+['albino'],1
+['iconography'],1
+['cryptologist'],1
+['freemason'],1
+['mona lisa'],1
+['heresy'],1
+['opus dei'],1
+['seoul south korea'],1
+['pharmaceutical lab'],1
+['roof chase'],1
+['manila philippines'],1
+['earth in peril'],1
+['the flemish cap'],1
+['city hall'],1
+['marina'],1
+['rescue boat'],1
+['meteorologist'],1
+['jamaican'],1
+['third world'],1
+['gulfstream'],1
+['meteorology'],1
+['polar zone'],1
+['temperature drop'],1
+['hail'],1
+['credit card'],1
+['lieutenant general'],1
+['alberta canada'],1
+['false passport'],1
+['riches to rags'],1
+['sandman'],1
+"[""hundred years' war""]",1
+['muscle car'],1
+['civilization'],1
+['peace offering'],1
+['scot'],1
+['refrigerator'],1
+['word domination'],1
+['regent'],1
+['terrorist bombing'],1
+['multiple perspectives'],1
+['toy story'],1
+['ark'],1
+['day care'],1
+['barbie'],1
+['protector'],1
+['autocracy'],1
+['neon light'],1
+['electricity'],1
+['transforming robot'],1
+['scary'],1
+['mayan'],1
+['solar'],1
+['futuristic city'],1
+['baustelle'],1
+['political thriller'],1
+['shogun'],1
+['ronin'],1
+['literary adaptation'],1
+['eternal youth'],1
+['unicorn'],1
+['exoskeleton'],1
+"[""noah's ark""]",1
+['shared universe'],1
+['destruction  of mankind'],1
+['automaton'],1
+['agent coulson'],1
+['counter terrorism'],1
+['exploring'],1
+['floating in the air'],1
+['world domination'],1
+['beaver'],1
+['tarzan'],1
+['extremis'],1
+['iron patriot'],1
+['war machine'],1
+['apparition'],1
+['sherwood forest'],1
+['scientific experiment'],1
+['changing history'],1
+['tonto'],1
+['comanche'],1
+['lex luthor'],1
+['bruce wayne'],1
+['clark kent'],1
+['healing gift'],1
+['mandarin'],1
+['healing power'],1
+['blonde woman'],1
+['narcism'],1
+['sand'],1
+['egomania'],1
+['mars civilization'],1
+['edgar rice burroughs'],1
+['cat burglar'],1
+['rich woman - poor man'],1
+['steerage'],1
+['salvage'],1
+['mind reading'],1
+['macao'],1
+['istanbul turkey'],1
+['uss missouri'],1
+['mighty mo'],1
+['uss john paul jones'],1
+['permission to marry'],1
+['navy lieutenant'],1
+['jet fighter pilot'],1
+['joint chiefs of staff'],1
+['communications expert'],1
+['buoy'],1
+['lost communication'],1
+['jds myoko'],1
+['naval combat'],1
+['battleship'],1
+['armada'],1
+['naval'],1
+['futuristic car'],1
+['dead brother'],1
+['jack frost'],1
+['ares'],1
+['air'],1
+['avatar'],1
+['fleet'],1
+['beehive'],1
+['vienna opera'],1
+['old mansion'],1
+['hidden room'],1
+['lost love'],1
+['dyr'],1
+['domination'],1
+['girl dog relationship'],1
+['dog cat friendship'],1
+['cat vs dog'],1
+['heimdall'],1
+['odin'],1
+['cern'],1
+['anti matter'],1
+['dark future'],1
+['world'],1
+['cheering'],1
+['arcade'],1
+['sparta greece'],1
+['motion capture'],1
+['festival hall'],1
+['human weakness'],1
+['nordic mythology'],1
+['space centre'],1
+['space based weapon'],1
+"[""homer's iliad""]",1
+['helen of troy'],1
+['bronze age'],1
+['hard drive'],1
+['trojan'],1
+['trojan horse'],1
+['trojan war'],1
+['gags'],1
+['george washington'],1
+['new school'],1
+['rubin'],1
+['decipherment'],1
+['peak oil'],1
+['hostile takeover'],1
+['rave'],1
+['nest'],1
+['ancient'],1
+['climbing a tree'],1
+['buried treasure'],1
+['underground lake'],1
+['toyko'],1
+['zero gravity'],1
+['astrophysics'],1
+['well'],1
+['ignorance'],1
+['plato'],1
+['trestle'],1
+['chute'],1
+['social reject'],1
+['interrupted wedding'],1
+['q*bert'],1
+['glitch'],1
+['first person shooter'],1
+['precocious child'],1
+['cuban missile crisis'],1
+['merlin'],1
+['apprendista'],1
+['morgana'],1
+['reindeer'],1
+['snowman'],1
+['yin yang'],1
+['ying yang'],1
+['amelia earhart'],1
+['fighting crime'],1
+['haunted by the past'],1
+['helplessness'],1
+['lost civilisation'],1
+['aristotle'],1
+['pin-up'],1
+['knife held to throat'],1
+['fiction'],1
+['muscles'],1
+['fictional language'],1
+['mad hatter'],1
+['capsized ship'],1
+['vortex'],1
+['prizefighting'],1
+['robot fighting'],1
+['underage girlfriend'],1
+['executive case'],1
+['crime solving'],1
+['amateur detective'],1
+['center of the earth'],1
+['magnetic field'],1
+['vegan'],1
+"[""character's point of view camera shot""]",1
+['animated flashback'],1
+['evil plot'],1
+['dredd'],1
+['returning money'],1
+['half naked man'],1
+['pendant'],1
+['financial problem'],1
+['enchantress'],1
+['snow kingdom'],1
+['woman fights man'],1
+['prescription drug abuse'],1
+['expert marksman'],1
+['2000 ad'],1
+['suburbian idyll'],1
+['glamour'],1
+['christmas holiday'],1
+['evil circus'],1
+['bird cage'],1
+['deformed'],1
+['fictional city'],1
+['mine explosion'],1
+['sponsor'],1
+['roasted pig'],1
+['knife throwing'],1
+['liposuction'],1
+['tgv'],1
+['headquarter'],1
+['sci-fi thriller'],1
+['vanishing figure'],1
+['self exile'],1
+['split screen'],1
+['cut arm'],1
+['resignation'],1
+['amphetamine'],1
+['screening room'],1
+['restroom'],1
+['heavy weight'],1
+['male'],1
+['card dealer'],1
+['airplane hijack'],1
+['aerial combat'],1
+['air force one'],1
+['rail car'],1
+['survival skills'],1
+['storm chaser'],1
+['nuclear'],1
+['editing'],1
+['core melt'],1
+['río 1'],1
+['rio 1'],1
+['samba'],1
+['canary'],1
+['the saint'],1
+['gas'],1
+['magician'],1
+['salt lake city utah'],1
+['safe house'],1
+['cape town south africa'],1
+['soccer stadium'],1
+['drifting'],1
+['car garage'],1
+['geisha'],1
+['projectionist'],1
+['stalingrad'],1
+['caste system'],1
+['labor strike'],1
+['pretending to be rich'],1
+['secret hideout'],1
+['room exchange'],1
+['caper comedy'],1
+['empty safe'],1
+['ponzi scheme'],1
+['parade'],1
+['dalmatian'],1
+['pelz'],1
+['society for the prevention of cruelty to animals'],1
+['eating and drinking'],1
+['hiding in a garbage container'],1
+['collision course'],1
+['yogi'],1
+['ruby'],1
+['pin'],1
+['car dealership'],1
+['bullfrog'],1
+['ostrich'],1
+['wild horse'],1
+['eyebrow'],1
+['indian war'],1
+['sandwich'],1
+['moving out'],1
+['family guy'],1
+['overleven'],1
+['newsletter'],1
+['geronimo'],1
+['target'],1
+['disintegration'],1
+['nanobots'],1
+['messenger'],1
+['transylvania'],1
+['new life'],1
+['racoon'],1
+['room key'],1
+['costume designer'],1
+['sliding down a pole'],1
+['singing photograph'],1
+['sequins'],1
+['search for meaning'],1
+['stairway'],1
+['coastline'],1
+['driving a car'],1
+['sidewalk cafe'],1
+['wire'],1
+['bureaucrat'],1
+['fighter jet'],1
+['trapped underground'],1
+['kubakrise'],1
+['bulldogg'],1
+['paradise'],1
+['misdirection'],1
+['los angeles international airport (lax)'],1
+['pink panther'],1
+['clouseau'],1
+['cartoon skunk'],1
+['bullet ballet'],1
+['spoiled son'],1
+['learning to drive'],1
+['soft boiled egg'],1
+['shot in the chin'],1
+['homework'],1
+['nothing goes right'],1
+['imaginary kingdom'],1
+['miraculous event'],1
+['arch villain'],1
+['basketball hoop'],1
+['criminal gang'],1
+['face transplant'],1
+['overboard'],1
+['supervisor'],1
+['astronomer'],1
+['raincoat'],1
+['desk'],1
+['spring'],1
+['scarred face'],1
+['thompson sub machine gun'],1
+['frost on a window'],1
+['cauterizing a wound'],1
+['cartoon reality crossover'],1
+['sylvester the cat'],1
+['cartoon chicken'],1
+['speedy gonzales'],1
+['tweety bird'],1
+['basketball court'],1
+['referee'],1
+['basketball game'],1
+['cherub'],1
+['spook'],1
+['\xa0strange noise'],1
+['paranormal activity'],1
+['insomniac'],1
+['spiral staircase'],1
+['audio recording'],1
+['slime'],1
+['liberty half dollar'],1
+['macau china'],1
+['chinese mafia'],1
+"[""pandora's box""]",1
+['igloo'],1
+['satanist'],1
+['miniature people'],1
+"[""children's perspectives""]",1
+['snowball fight'],1
+['falling down a hill'],1
+['hit with a rock'],1
+['swallowed whole'],1
+['wolf costume'],1
+['asian woman'],1
+['stigmata'],1
+['airport lounge'],1
+['llama'],1
+['berater'],1
+['festival'],1
+['army captain'],1
+['black slave'],1
+['dual role'],1
+['django'],1
+['millenium'],1
+['sierra leone'],1
+['overthrow olympus'],1
+['sagen'],1
+['whale oil'],1
+['reference to moby dick'],1
+['whaling ship'],1
+['extreme sports'],1
+['sledgehammer'],1
+['primate'],1
+['space pirate'],1
+['pirate gang'],1
+['hercules'],1
+['falling down stairs'],1
+['cat lady'],1
+['masked superhero'],1
+['superheroine'],1
+['century'],1
+['buenos aires'],1
+['knocked out'],1
+['beretta'],1
+['tommy gun'],1
+['railgun'],1
+['x-ray vision'],1
+['zip line'],1
+['cajun'],1
+['ford mustang'],1
+['lock pick'],1
+['car thief'],1
+['anniversary'],1
+['cellist'],1
+['charlatan'],1
+['frog prince'],1
+['big dreams'],1
+['new york city twin towers'],1
+['fire truck'],1
+['saladin'],1
+['knight templars'],1
+['swordsman'],1
+['humanoid robot'],1
+['muhammad'],1
+['power plant'],1
+['morality tale'],1
+['military school'],1
+['blacklight'],1
+['barbarian horde'],1
+['2nd century'],1
+['successor'],1
+['ceo'],1
+['subway tunnel'],1
+['motorcycle crash'],1
+['key west'],1
+['mushroom cloud'],1
+['truth serum'],1
+['hit with a telephone'],1
+['woman with glasses'],1
+['top secret'],1
+['dillinger'],1
+['catch phrase'],1
+['savior'],1
+['shape shifter'],1
+['morphing'],1
+['montenegro'],1
+['free running'],1
+['future noir'],1
+['nantucket'],1
+['weapon of mass destruction'],1
+['baghdad'],1
+['missing girl'],1
+['method acting'],1
+['blackface'],1
+['war filmmaking'],1
+['shackles'],1
+['land mine'],1
+['southeast asia'],1
+['cricket'],1
+['state police'],1
+['runaway train'],1
+['mother child relationship'],1
+['flea market'],1
+['stay permit'],1
+['cannon'],1
+['giant cockroach'],1
+['lightning bolt'],1
+['poseidon \xa0'],1
+['alamo'],1
+['magical creature'],1
+['bible quote'],1
+['scandinavian'],1
+['simon says'],1
+['dump truck'],1
+['kronos'],1
+['olympus'],1
+['golden fleece'],1
+['hermes'],1
+['radio telescope'],1
+['eccentric man'],1
+['observatory'],1
+['ham radio'],1
+['radio wave'],1
+['pixels'],1
+['hacky sack'],1
+['hairstyle'],1
+['piano wire'],1
+['german officer'],1
+['vengeance'],1
+['clue'],1
+['federal reserve bank'],1
+['hidden truth'],1
+['spinosaurus'],1
+['iraqi\xa0'],1
+['political candidate'],1
+['blue footed booby'],1
+['cruise liner'],1
+['resort hotel'],1
+['cab driver'],1
+['stowaway'],1
+['campaign finance'],1
+['campaign manager'],1
+['moustache'],1
+['congressman'],1
+['mind uploading'],1
+['\xa0north carolinam'],1
+['delta force'],1
+['warlord'],1
+['child rape'],1
+['forced prostitution'],1
+['bracelet'],1
+['snoopy'],1
+['charlie brown'],1
+['melting ice'],1
+['badger'],1
+['elephant seal'],1
+['floating ice'],1
+['quantum computer'],1
+['computer scientist'],1
+['extremist'],1
+['william blake'],1
+['angkor wat'],1
+['planetary configuration'],1
+['guide'],1
+['end of trilogy'],1
+['clownfish'],1
+['short term memory loss'],1
+['fish tank'],1
+['harbor'],1
+['lost shoe'],1
+['deriva'],1
+['glaciale'],1
+['era'],1
+['land bridge'],1
+['woman between two men'],1
+['everyman'],1
+['hyperspace'],1
+['puke'],1
+['sea turtle'],1
+['honey pot'],1
+['fine art'],1
+['confidence game'],1
+['aerialist'],1
+['cirque du soleil'],1
+['sex party'],1
+['pants'],1
+['tulips'],1
+['reprimand'],1
+['romania'],1
+['artial arts'],1
+['trailer'],1
+['jungle girl'],1
+['train wreck'],1
+['injustice'],1
+['elite'],1
+['iraq war veteran'],1
+['weasel'],1
+['declaration of love'],1
+['montreal'],1
+['dog fight'],1
+['challenger'],1
+['restaurant owner'],1
+['marine biologist'],1
+['kerouac'],1
+['denver colorado'],1
+['suicide thoughts'],1
+['gender roles'],1
+['courtly life'],1
+['wmd'],1
+['texting'],1
+['squad'],1
+['jet'],1
+['waterloo'],1
+['red dress'],1
+['osteopath'],1
+['interrupted vacation'],1
+['forced'],1
+['low tide'],1
+['chinese civil war'],1
+['muscleman'],1
+['mining accident'],1
+['reeducation camp'],1
+['chucky'],1
+['car wash'],1
+['jeans'],1
+['baboon'],1
+['contraband'],1
+['head wound'],1
+['decadence'],1
+['cultural revolution'],1
+['manchuria'],1
+['private club'],1
+['suv'],1
+['shoplifting'],1
+['bitterness'],1
+['tampa'],1
+['crime epic'],1
+['teleprompter'],1
+['ladder'],1
+['eaten by animal'],1
+['handicap'],1
+['sexual favor'],1
+['star spangled banner'],1
+['biblical interpretation'],1
+"[""halley's comet""]",1
+['co-parenting'],1
+['cancún'],1
+['poor people'],1
+['scary little people'],1
+['teeth'],1
+['sucked into jet engine'],1
+['reference to macgyver'],1
+['don juan'],1
+['feel good'],1
+['mental disorders'],1
+['bleak comedy'],1
+['carriage'],1
+['combover'],1
+['inflatable doll'],1
+['female stripper'],1
+['comb over'],1
+['film festivals'],1
+['streaking'],1
+['animal killing'],1
+['truck driver'],1
+['bloody fight'],1
+['violent death'],1
+['head bashed in'],1
+['beaten to death'],1
+['bone marrow transplant'],1
+['banana boat'],1
+['spanish'],1
+['cb radio'],1
+['singularity'],1
+['magnet beam'],1
+['transhumanism'],1
+['feminism'],1
+['corps'],1
+['flask'],1
+['presidential debate'],1
+['campaign speech'],1
+['endorsement'],1
+['presidential campaign'],1
+['altar'],1
+['jam'],1
+['mouth to mouth resuscitation'],1
+['intellectual disability'],1
+['morning prayer'],1
+['hunger strike'],1
+['demonstration'],1
+['virility'],1
+['nature documentary'],1
+['publicist'],1
+['tween girl'],1
+['aerobics'],1
+['troubadour'],1
+['speed of light'],1
+['frisbee'],1
+['screwball comedy'],1
+['pottery'],1
+['money transfer'],1
+['gallipoli campaign'],1
+['missing son'],1
+['missing in action'],1
+['post world war i'],1
+['dirty tricks'],1
+['airplane accident'],1
+['omen'],1
+['staring contest'],1
+['troubled production'],1
+['piranha'],1
+['in-laws'],1
+['working mum'],1
+['little dog'],1
+['borderline personality disorder'],1
+['hippie lifestyle'],1
+['paranoid fantasy'],1
+['murderer duo'],1
+['badge'],1
+['tv writer'],1
+['formosa cafe hollywood'],1
+['heart specialist'],1
+['tv production'],1
+['female bartender'],1
+['nurse uniform'],1
+['used car dealer'],1
+['mental disease'],1
+['unfinished film'],1
+['collapse'],1
+['hatter'],1
+['twinkie'],1
+['black cop'],1
+['reference to skittles'],1
+['bust'],1
+['loose cannon'],1
+['hangar'],1
+['droid'],1
+['jedi training'],1
+['jedi master'],1
+['wookie'],1
+['deserted by husband'],1
+['lawn mower'],1
+['ridicule'],1
+['fear of clowns'],1
+['bitten on the arm'],1
+['disposing of a dead body'],1
+['zombification'],1
+['body count'],1
+['eaten alive'],1
+['overflowing with imagination'],1
+['meaning of life'],1
+['unprotected sex'],1
+['peace conference'],1
+['civil rights activist'],1
+['inhumanity'],1
+['female stalker'],1
+['mosque'],1
+['1920s'],1
+['magistrate'],1
+['kidney transplant '],1
+['bed'],1
+['peace contract'],1
+['east berlin'],1
+['snake charmer'],1
+['eastern block'],1
+['starlet'],1
+['buddha'],1
+['mashup'],1
+['parson'],1
+['regency period'],1
+['rura penthe'],1
+['winnebago'],1
+['crime spree'],1
+['giant crocodile'],1
+['retrofuturism'],1
+['matrix'],1
+['reading'],1
+['sound barrier'],1
+['space race'],1
+['caso'],1
+['slevin'],1
+['crocodile attack'],1
+['severed toe'],1
+['loudspeaker'],1
+['tooth'],1
+['remote'],1
+['maine'],1
+['paleontologist'],1
+['deputy'],1
+['holiday inn'],1
+['wrigley field'],1
+['saturday night live'],1
+['golddigger'],1
+['year 2002'],1
+['bolivia'],1
+['habor'],1
+['cryptographic device'],1
+['multiple character'],1
+['meant for each other'],1
+['wedding day'],1
+['sicilian'],1
+"[""man of one's dreams""]",1
+['basement garage'],1
+['lorry'],1
+['lake placid new york'],1
+['ram'],1
+['gas rationing'],1
+['st. paul minnesota'],1
+['dog tags'],1
+['catskills'],1
+['loan'],1
+['community service'],1
+['big brother'],1
+['campsite'],1
+['gang of smugglers'],1
+['monastery'],1
+['time magazine'],1
+['fictional awards show'],1
+['battering'],1
+['cavern'],1
+['flashback within a flashback'],1
+['hung upside down'],1
+['climbing up a wall'],1
+['pelican'],1
+['stork'],1
+['ornithology'],1
+['violent man'],1
+['highlands'],1
+['georgian'],1
+"[""driver's test""]",1
+['pizza delivery'],1
+['kickass'],1
+['spellcasting'],1
+['salem'],1
+['lincoln assassination'],1
+['wizard of oz'],1
+['western u.s.'],1
+['reality vs fantasy'],1
+['ressentiment'],1
+['treasury agent'],1
+['tough cop'],1
+['al capone'],1
+['miniaturization'],1
+['bad dream'],1
+['information leak'],1
+['newspaper columnist'],1
+['southern belle'],1
+['moral courage'],1
+['tax evasion'],1
+['the holocaust'],1
+['high school sweetheart'],1
+['hmong'],1
+['savant'],1
+['egocentrism'],1
+['pharmaceutical industry'],1
+['nairobi'],1
+['diplomat'],1
+['untouchable'],1
+['jury tampering'],1
+['cityscape'],1
+['oakland'],1
+['clubhouse'],1
+['creek'],1
+['bomb explosion'],1
+['playing chess'],1
+['kennel'],1
+['photo'],1
+['asian lead'],1
+['asian man'],1
+['friends with benefit'],1
+['rule of law'],1
+['fling'],1
+['open relationship'],1
+['casual meeting'],1
+['tierversuch'],1
+['praline'],1
+['sexual frustration'],1
+['cutting face while shaving'],1
+['rooftop chase'],1
+['eternal'],1
+['body snatching'],1
+['host body'],1
+['painting toenails'],1
+['commoner'],1
+['classism'],1
+['brigands'],1
+['step siblings'],1
+"[""reference to pandora's box""]",1
+['seed'],1
+['driving through a wall'],1
+['radio call in show'],1
+['lollipop'],1
+['rich man'],1
+['roach'],1
+['children education'],1
+['matt scudder'],1
+['speculative'],1
+['tv studio'],1
+['stock fraud'],1
+['falling elevator'],1
+['drawn'],1
+['emotional abuse'],1
+['beef'],1
+['medical student'],1
+['confetti'],1
+['soul transference'],1
+['accidental love'],1
+['pendulum'],1
+['life imitates art'],1
+['hard times'],1
+['newspaper office'],1
+['newspaper review'],1
+['edgar allan poe'],1
+['deadline'],1
+['coffee grower'],1
+['videoconferencing'],1
+['pedicab'],1
+['caterer'],1
+['illustrator'],1
+['two guns belt'],1
+['wristwatch'],1
+['weight lifting'],1
+['conference'],1
+['nonviolent resistance'],1
+['independence movement'],1
+['bank loan'],1
+['savagery'],1
+['hideout'],1
+['territory'],1
+['pan'],1
+['estafa'],1
+['motor-bike accident'],1
+['bob dylan'],1
+['platoon'],1
+['truck hijacking'],1
+['book burning'],1
+['husband wife relationship'],1
+['coat'],1
+['battle of the bands'],1
+['flashback sequence'],1
+['santa cruz california'],1
+['condition'],1
+['schizophrenic'],1
+['substance'],1
+['phasing'],1
+['government agent'],1
+['plutonium'],1
+['raf'],1
+['snowed in'],1
+['glass'],1
+['tabloid'],1
+['step sister'],1
+['workplace humor'],1
+['lakota'],1
+['buffalo'],1
+['dakota'],1
+['loveless marriage'],1
+['infiltration'],1
+['math genius'],1
+['ramanujam'],1
+['loincloth'],1
+['exzess'],1
+['ghouls'],1
+['steam'],1
+['energy'],1
+['kugel'],1
+['lyricist'],1
+['piano duet'],1
+"[""gilbert and sullivan's princess ida""]",1
+['year 2079'],1
+['cardiopulmonery resuscitation'],1
+['weatherman'],1
+['indochina'],1
+['esther'],1
+['ultraviolence'],1
+['public sex'],1
+['tourette syndrome'],1
+['milliionaire'],1
+['collision in space'],1
+['\xa0gilbert and sullivan'],1
+['mortal danger'],1
+['capitalist'],1
+['older brother younger sister'],1
+['lost and found'],1
+['taliban'],1
+['hang gliding'],1
+['generations conflict'],1
+['boa constrictor'],1
+['revenge drama'],1
+['dead boy'],1
+['contests and competitions'],1
+['nacktrevue'],1
+['bigfoot'],1
+['sattire'],1
+['dancehall girl'],1
+['scientific study'],1
+['heart trouble'],1
+['visit'],1
+['semiautomatic pistol'],1
+['x-ray'],1
+['parolee'],1
+['park avenue'],1
+['autumn'],1
+['jewelry store'],1
+['senility'],1
+['come back'],1
+['business partner'],1
+['chief executive officer'],1
+['variety'],1
+['off season'],1
+['misfit partners'],1
+['bombay india'],1
+['penthouse apartment'],1
+['high school rivalry'],1
+['chest'],1
+['black stereotype'],1
+['renovation'],1
+['kicked in the face'],1
+['death of family'],1
+['trapdoor'],1
+['judo'],1
+['pilot hero'],1
+['recreation'],1
+['the rapture'],1
+['psychotic epileptic disorder'],1
+['malnutrition'],1
+['agnostic'],1
+['archdiocese'],1
+['negligent homicide'],1
+['prosecutor'],1
+['umbrella'],1
+['new girl at school'],1
+['shooting party'],1
+['getting home'],1
+['boulder'],1
+['popular girl'],1
+['aspen'],1
+['steve jobs'],1
+['apple computer'],1
+['entrance examination'],1
+['keks'],1
+['hikers'],1
+['climber'],1
+['school friend'],1
+['narcissism'],1
+['seminar'],1
+['broken nose'],1
+['pianosa'],1
+['leprosy'],1
+['youth center'],1
+['harlem'],1
+['choreographer'],1
+['xanax'],1
+['girl power'],1
+['smart blonde'],1
+['black female judge'],1
+['knoxville'],1
+['gonzo journalist'],1
+['moving in'],1
+['tortured to death'],1
+['backwards'],1
+['wood chopping'],1
+['jazz music'],1
+['kansas city'],1
+['cardiologist'],1
+['pickup'],1
+['harvard law school'],1
+['fiji'],1
+['british sailor'],1
+['japanese mythology'],1
+['yokai'],1
+['bath house'],1
+['chewing gum'],1
+['ultimate fighting championship'],1
+['inventions and discoveries'],1
+['sweaty face'],1
+['wedding chapel'],1
+['grapefruit'],1
+['cadillac convertible'],1
+['driving school'],1
+['demeanor course'],1
+['kazakhstan'],1
+['bunk bed'],1
+['wish fulfillment'],1
+['walking on piano keys'],1
+['yankee stadium bronx new york city'],1
+['unplugged electronic works'],1
+['quarter'],1
+['job promotion'],1
+['duet'],1
+['toy maker'],1
+['pinball machine'],1
+['jail cell'],1
+['police convention'],1
+['corvette stingray'],1
+['gibberish'],1
+['nightclub entertainer'],1
+['mexican american border'],1
+['recreational vehicle'],1
+['child swearing'],1
+['philadelphia eagles'],1
+['bipolar'],1
+['institutionalization'],1
+['hallucinogen'],1
+['gathering'],1
+['south park colorado'],1
+['u.s. canada war'],1
+['visions of hell'],1
+['cartoon sex'],1
+['school excursion'],1
+['friends who hate each other'],1
+['saddam hussein'],1
+['swear word'],1
+['mount rushmore national memorial'],1
+['kampfjet'],1
+['episodic'],1
+['expatriate'],1
+['writ'],1
+['anne frank'],1
+['womanhood'],1
+['occult torture'],1
+['expectant grandmother'],1
+['nepal'],1
+['based on adaptation'],1
+['cat house'],1
+['busty'],1
+['madame'],1
+['corset'],1
+['british spy'],1
+['fox news'],1
+['sonogram'],1
+['nemesis'],1
+['student protest'],1
+['reference to huckleberry finn'],1
+['medical illustrator'],1
+['unmarried couple'],1
+['bedtime story'],1
+['biracial'],1
+['reference to bob dylan'],1
+['dead father'],1
+['sable'],1
+['pretended suicide'],1
+['ptsd'],1
+['whistle'],1
+['gigantic hand'],1
+['view askew'],1
+['monkey actor'],1
+['reference to prince valiant'],1
+['character is subject of comic'],1
+['self mocking'],1
+['sweet sixteen'],1
+['director cameo'],1
+['snorkel'],1
+['social decay'],1
+['commuter train'],1
+['locked door'],1
+['pizza hut'],1
+['coffee shop manager'],1
+['learning'],1
+['new baby'],1
+['pro bono'],1
+['calcutta'],1
+['animal experimentation'],1
+['subliminal\xa0'],1
+['record deal'],1
+['pawns'],1
+['manslaughter'],1
+['rust belt'],1
+['bare knuckle fighting'],1
+['arsonist'],1
+['oil company'],1
+['nitroglycerin'],1
+['latin america'],1
+['nicaragua'],1
+['getaway driver'],1
+['monolog'],1
+['mountie'],1
+['robocop'],1
+['issues'],1
+['enviroment'],1
+['lousiana bayou'],1
+['revenge motive'],1
+['methamphetamine'],1
+['mediterranean'],1
+['contact'],1
+['exchange'],1
+['mass destruction'],1
+['sms'],1
+['bruce frederick joseph springsteen'],1
+['lost of friend'],1
+['lye'],1
+['everglades'],1
+['beer pong'],1
+['mayoral campaign'],1
+['police protection'],1
+['world politics'],1
+['cardinal'],1
+['damage'],1
+['american  way of life'],1
+['tolerance'],1
+['fan club'],1
+['bustier'],1
+['tejano'],1
+['diabolical ego'],1
+['air conditioner'],1
+['grieving parents'],1
+['london underground'],1
+['cabinet officer'],1
+['corrupt policeman'],1
+['traffic policeman'],1
+['bishop'],1
+['rebellious teenager'],1
+['lap dance'],1
+['drinking blood'],1
+['turning into a vampire'],1
+['taking a risk'],1
+['smartphone'],1
+['cellphone video'],1
+['narcissistic personality disorder'],1
+['gymnastics'],1
+['social status'],1
+['baroness'],1
+['airport security'],1
+['night creatures'],1
+['homage'],1
+['love story'],1
+['interracial couple'],1
+['investigative journalism'],1
+['mother ship'],1
+['pinata'],1
+['wild child'],1
+['wild girl'],1
+['trust fund'],1
+['trustee'],1
+['dying mother'],1
+['boating accident'],1
+['rhode island'],1
+['potted plant'],1
+['chihuahua'],1
+['all girl'],1
+['tourism'],1
+['high-tension current'],1
+['animal in cast credits'],1
+['shooting range'],1
+['playboy mansion'],1
+['cement truck'],1
+['horse track'],1
+['obsessive quest'],1
+['reference to annabel lee'],1
+['digging'],1
+['violin player'],1
+['cotton'],1
+['mango'],1
+['shake'],1
+['gong'],1
+['vulture'],1
+['selma'],1
+['protest march'],1
+['black american'],1
+['herion'],1
+['dead end job'],1
+['push ups'],1
+['sorority party'],1
+['white male pretending to be black'],1
+['television broadcast'],1
+['fraternity initiation'],1
+['music rehearsal'],1
+['abolitionist'],1
+['sold into slavery'],1
+['elevator shaft'],1
+['singing false'],1
+['splits'],1
+['older woman seduces younger guy'],1
+['board'],1
+['serbia'],1
+['literary agent'],1
+['expiration'],1
+['solar energy'],1
+['flatulence'],1
+['stew'],1
+['greenpeace'],1
+['garden gnome'],1
+['blood brother'],1
+['ghost train'],1
+['tale'],1
+['cider'],1
+['sahara'],1
+['boxing day'],1
+['separation from family'],1
+['swept away'],1
+['dvd'],1
+['stocks'],1
+['social class'],1
+['mountain cabin'],1
+['chinese history'],1
+['broken arrow'],1
+['chinese painting'],1
+['chinese tradition'],1
+['arrow in back'],1
+['casualty of war'],1
+['white dove'],1
+['wall of fire'],1
+['spear throwing'],1
+['elderly man'],1
+['perpetual winter'],1
+['reavers'],1
+['retro'],1
+['clothing'],1
+['lonely hearts ad'],1
+['complication'],1
+['ancient india'],1
+['medieval india'],1
+['paris france'],1
+['applause'],1
+['death of king'],1
+['bride and groom'],1
+['subculture'],1
+['extra credit assignment'],1
+['schoolteacher'],1
+['exotic dancer'],1
+['good deed'],1
+['end is here'],1
+['crisis line'],1
+['blood ritual'],1
+['the doors'],1
+['child pornography'],1
+['rite'],1
+['shot in the knee'],1
+['hit with a chair'],1
+['alien space craft'],1
+['fear of dying'],1
+['rubber boat'],1
+['magnifying glass'],1
+['toothbrush'],1
+['private plane'],1
+['junior high school'],1
+['burn injury'],1
+['red sox'],1
+['substitute teacher'],1
+['sexappeal'],1
+['go-go dancer'],1
+['motorcyclist'],1
+['stau'],1
+['kaserne'],1
+['grasshopper'],1
+['h. g. wells'],1
+['telephone call \xa0'],1
+['home movie'],1
+['hiv positive'],1
+['rock opera'],1
+['chinese woman'],1
+['work ethic'],1
+['lock'],1
+['tambourine'],1
+['the shadow'],1
+['radio series'],1
+['exploding planet'],1
+['kung fu master'],1
+['sports marketing firm'],1
+['spanish civil war'],1
+['firing range'],1
+['police psychologist'],1
+['judo throw'],1
+['shooting practice'],1
+['dog biscuit'],1
+['rookie cop'],1
+['martyrdom'],1
+['saint'],1
+['hit with tire iron'],1
+['job entrant'],1
+['lost weekend'],1
+['eugenics'],1
+['biotechnology'],1
+['formalin'],1
+['clergy'],1
+['toad'],1
+['seminary'],1
+['roman catholic'],1
+['fashion journal'],1
+['rapist'],1
+['elephant trainer'],1
+['falsifying'],1
+['cabriolet'],1
+['mekka'],1
+['nation of islam'],1
+['moviemaking'],1
+['medical test'],1
+['boiler room'],1
+['alien dna'],1
+['cocoon'],1
+['good cop bad cop'],1
+['blackjack'],1
+['knife in thigh'],1
+['man with glasses'],1
+['bandage'],1
+['mural painting'],1
+['desert scientist'],1
+['mine clearer'],1
+['cave painting'],1
+['royal geographic society'],1
+['violinist'],1
+['japanese american'],1
+['forty something'],1
+['illiteracy'],1
+['charismatic leader'],1
+['religious cult'],1
+['pipeworks'],1
+['shape shifting alien'],1
+['norwegian'],1
+['seasickness'],1
+['squall'],1
+['discipline'],1
+['discontentedness and displeasedness'],1
+['peter pan syndrome'],1
+['missing body'],1
+['picture puzzle'],1
+['passion for collection'],1
+['slap'],1
+['beförderung'],1
+['marry rich'],1
+['boxing school'],1
+['veterinary'],1
+['right hand man'],1
+['environmental disaster'],1
+['volunteer'],1
+['boston garden'],1
+['incest overtones'],1
+['head of state'],1
+['girlfriend from china'],1
+['big city'],1
+['strugatsky'],1
+['tail'],1
+['baseball card'],1
+['locked in trunk of car'],1
+['formula 1'],1
+['sea lion'],1
+['iguana'],1
+['liana'],1
+['ex priest'],1
+['disc'],1
+['fitness-training'],1
+['giving birth'],1
+['open air cinema'],1
+['infestation'],1
+['alien possession'],1
+['slave trade'],1
+['literature competition'],1
+['pie machine'],1
+['chicken farm'],1
+['bar exam'],1
+['withdrawal'],1
+['urteil'],1
+['pulitzer prize'],1
+['seclusion'],1
+['manuscript'],1
+['figaro'],1
+['dance class'],1
+['jackass'],1
+['storm drain'],1
+['bus accident'],1
+['film studio'],1
+['iran hostage crisis'],1
+['extraction'],1
+['crane'],1
+['canadian'],1
+['risk'],1
+['dance club'],1
+['tall ship'],1
+['warning'],1
+['death of boyfriend'],1
+['graveyard'],1
+['tank car'],1
+['chemical plant'],1
+['mysterious events'],1
+['mothman'],1
+['car wreck'],1
+['tumor'],1
+['columbia university'],1
+['bagpipes'],1
+['budget cutting'],1
+['fighting movie'],1
+['physics teacher'],1
+['prize money'],1
+['cleopatra'],1
+['chefin'],1
+['insurance risk manager'],1
+['chance encounter'],1
+['klutz'],1
+['female boss'],1
+['gadfly'],1
+['surrogate daughter'],1
+['guild'],1
+['shrinking'],1
+['pen'],1
+['skull mask'],1
+['gardner'],1
+['enforcer'],1
+['laguna beach california'],1
+['shot in the throat'],1
+['improvised explosive device'],1
+['crisis of conscience'],1
+['eye gouging'],1
+['white water rafting'],1
+['rafting'],1
+['talking robot'],1
+['islington england'],1
+['destruction of earth'],1
+['bathrobe'],1
+['based on radio show'],1
+['police arrest'],1
+['connecticut'],1
+['people change'],1
+['experiment gone wrong'],1
+['pomp'],1
+['armed robbery'],1
+['jewel heist'],1
+['tony blair'],1
+['cautery'],1
+['lasso'],1
+['chess'],1
+['crystal skull'],1
+['masked hero'],1
+['jade'],1
+['broadway musical'],1
+['funny nazi'],1
+['criminal profile'],1
+['retirement party'],1
+['porcupine'],1
+['beforecreditsstinger'],1
+['construction'],1
+['multiple dimensions'],1
+['evil dictator'],1
+['contortionist'],1
+['fat man'],1
+['technical toy'],1
+['toy shop'],1
+['mass grave'],1
+['bosnia and herzegovina'],1
+['marital infidelity'],1
+['public toilet'],1
+['do over'],1
+['kennedy assassination'],1
+['beauty standards'],1
+['buddy film'],1
+['kompliment'],1
+['oberflächlichkeit'],1
+['safety'],1
+['silhouette'],1
+['mercedes'],1
+['black and white and color'],1
+['indianapolis'],1
+['french and indian war'],1
+['prototype'],1
+['jury'],1
+['γη'],1
+['mission control'],1
+['havanna'],1
+['proof'],1
+['timothy'],1
+['incredibile'],1
+['dodgeball'],1
+['passage of time'],1
+['first kiss'],1
+['client'],1
+['schloss schönbrunn'],1
+['czechoslovakia'],1
+['big wheel'],1
+['tangier morocco'],1
+['renegade'],1
+['yucatec maya language'],1
+['ancient civilization'],1
+['maya'],1
+['jaguar'],1
+['mohawk'],1
+['seal'],1
+['human cannonball'],1
+['electric guitar'],1
+['courtroom drama'],1
+['kkk'],1
+['synthetic drug'],1
+['brain capacity'],1
+['tough girl'],1
+['video phone'],1
+['hoverboard'],1
+['high school dance'],1
+['almanac'],1
+['inferiority complex'],1
+['naked scene'],1
+['birdwatching'],1
+['escaped prisoner'],1
+['framed for a crime'],1
+['diamond heist'],1
+['jousting'],1
+['eminem'],1
+['rhyme battle'],1
+['smart kid'],1
+['female athlete'],1
+['home front'],1
+['valak'],1
+['inferiority'],1
+['brooklyn dodgers'],1
+['recipe'],1
+['autonomous shadow'],1
+['vampire sex'],1
+['correspondence'],1
+['bestiality'],1
+['religious conflict'],1
+['rough sex'],1
+['locomotive'],1
+['railroad robber'],1
+['riesen-ipod'],1
+['young entrepreneur'],1
+['entrepreneur'],1
+['deposition'],1
+['social network'],1
+['creator'],1
+['malcolm x'],1
+['dungeon'],1
+['eating brains'],1
+['wallace & gromit'],1
+['old town'],1
+['verona italy'],1
+['italian stereotype'],1
+['boyfriend girlfriend'],1
+['mistake'],1
+['love of animals'],1
+['shoe seller'],1
+['job-hopping'],1
+['giant vegetable'],1
+['el paso'],1
+['pest control'],1
+['doping'],1
+['silicon valley'],1
+['ascot'],1
+['state prison'],1
+['sha-ka-ree'],1
+['bottle'],1
+['hemingway'],1
+['wedding ceremony'],1
+['mexican cartel'],1
+['man eating plant'],1
+['mafia accountant'],1
+['flesh eating plant'],1
+['plant food'],1
+['skid row'],1
+['killer plant'],1
+['police surveillance'],1
+['bus station'],1
+['southwestern u.s.'],1
+['stretch limousine'],1
+['mounted animal head'],1
+['loan officer'],1
+['speaker phone'],1
+['video wall'],1
+['polar night'],1
+['blood lust'],1
+['what if'],1
+['novelist'],1
+['forever'],1
+['obituary'],1
+['sculpture'],1
+['michael jackson'],1
+['pond'],1
+['head coach'],1
+['immoderateness'],1
+['lust and impulsiveness'],1
+['reunited friends'],1
+['divorced woman'],1
+['dead wish'],1
+['fitness-studio'],1
+['pleite'],1
+['defection'],1
+['coaction'],1
+['judgment'],1
+['boy next door'],1
+['superglue'],1
+['mistaken for a special education student'],1
+['tantra'],1
+['public urination'],1
+['nude man murdered'],1
+['jazz age'],1
+['prison matron'],1
+['prawn'],1
+['internment camp'],1
+['body transformation'],1
+['alien technology'],1
+['interracial adoption'],1
+['marriage counselling'],1
+['renewing wedding vows'],1
+['grandson'],1
+['family gathering'],1
+['pioneer village'],1
+['life changing'],1
+['spiritual journey'],1
+['mullet'],1
+['channel surfing'],1
+['omaha'],1
+['famous'],1
+['sibling rivalry'],1
+['mailbox'],1
+['determination'],1
+['reference to sprite'],1
+['segregation'],1
+['inept assistant'],1
+['dead animal'],1
+['civil registry office'],1
+['credit'],1
+['villa'],1
+['monaco'],1
+['crane the bird'],1
+['hoover dam'],1
+['underage soldier'],1
+['admiration'],1
+['swimsuit'],1
+['mountain lake'],1
+['mysterious woman'],1
+['gum'],1
+['opium'],1
+['betrayal by friend'],1
+['friendship bracelet'],1
+['minidisc'],1
+['puerto rico'],1
+['goat'],1
+['space carrier'],1
+['new world'],1
+['musical number'],1
+['household'],1
+['yard sale'],1
+['music tour'],1
+['child driving a car'],1
+['belching'],1
+['mine car'],1
+['thuggee'],1
+['compton california'],1
+['los angeles riots'],1
+['intimidation by police'],1
+['reference to rodney king'],1
+['police harassment'],1
+['microfilm'],1
+['genie'],1
+['murder of a police officer'],1
+['truck stop'],1
+['dead'],1
+['body possession'],1
+['filmdreh'],1
+['girl scouts'],1
+['winery'],1
+['swimwear'],1
+['diver'],1
+['legal'],1
+['visual effect'],1
+['hemophagia'],1
+['one woman army'],1
+['escape artist'],1
+['appeal'],1
+['county jail'],1
+['englishwoman'],1
+['frustration'],1
+['disappointment'],1
+['death of parent'],1
+['harrassment'],1
+['james brown'],1
+['modesty'],1
+['professional reputation'],1
+['prescription medication'],1
+['rag doll'],1
+['end of world'],1
+['probation assistant '],1
+['back to school'],1
+['stamina'],1
+['antigen'],1
+['strength'],1
+['biological warfare'],1
+['landmark'],1
+['sexual freedom'],1
+['forklift'],1
+['town meeting'],1
+['barbershop'],1
+['pick up'],1
+['floppy disk'],1
+['chain gang'],1
+['replacement'],1
+['conscientious objector'],1
+['exploding bus'],1
+"[""new year's day""]",1
+['molotow cocktail'],1
+['light sensitivity'],1
+['gravity'],1
+['rooftop fight'],1
+['lab technician'],1
+['plano texas'],1
+['airline pilot'],1
+['grand canyon'],1
+['queen victoria'],1
+['suspicious death'],1
+['sin eater'],1
+['fundraiser'],1
+['freighter'],1
+['parking garage'],1
+['stich'],1
+['british monarchy'],1
+['prince albert'],1
+['fab four'],1
+['trashed house'],1
+['changeling'],1
+['fortress'],1
+['land developer'],1
+['wimbledon'],1
+['tennis player'],1
+['jewel robbery'],1
+['professional thief'],1
+['imperialism'],1
+['wall safe'],1
+['aerial shot'],1
+['altering history'],1
+['guerrilla warfare'],1
+['art student'],1
+['conquest'],1
+['transience'],1
+['business trip'],1
+['erased memory'],1
+['bank vault'],1
+['bush whacker'],1
+['exile'],1
+['cannes'],1
+['military dress uniform'],1
+['lowrider'],1
+['youth gang'],1
+['east l.a.'],1
+['winegrower'],1
+['wine cellar'],1
+['chinese food'],1
+['tightrope'],1
+['flare'],1
+['prisoner on the run'],1
+['bike messenger'],1
+['cyclist'],1
+['parent-child bond'],1
+['ghetto riot'],1
+['little league'],1
+['imposture'],1
+['liaison'],1
+['loyal'],1
+['motherhood'],1
+['rich vs poor'],1
+['cops and robbers\xa0'],1
+['power of goodness'],1
+['race against the clock'],1
+['playing cards'],1
+['shaving cream'],1
+['marriage counselor'],1
+['wooden boats'],1
+['internet dating'],1
+['computer dating'],1
+['homerun'],1
+['paperboy'],1
+['warsaw ghetto'],1
+['polish resistance'],1
+['blessed hope'],1
+['wise men'],1
+['bicycle courier'],1
+['radioactive'],1
+['medical drama'],1
+['nfl'],1
+['sports injury'],1
+['brain damage'],1
+['concussion'],1
+['elf'],1
+['bus hijacking'],1
+['ex military'],1
+['tv duel'],1
+['newspaper clipping'],1
+['estranged wife'],1
+['fbi director'],1
+['sexchat'],1
+['wax'],1
+['wax museum'],1
+['bull riding'],1
+['penalty kick'],1
+['code red'],1
+['baseball stadium'],1
+['hotel lobby'],1
+['weightlessness'],1
+['marcus square'],1
+['substance abuse'],1
+['relapse'],1
+['flying upside down'],1
+['national transportation safety board'],1
+['perjury'],1
+['jesus freak'],1
+['movies'],1
+['denial'],1
+['syphillis'],1
+['wedding night'],1
+['coffee plantation'],1
+['private life'],1
+['long distance relationship'],1
+['napalm'],1
+['green beret'],1
+['renaissance painting'],1
+['childhood'],1
+['ferris wheel'],1
+['straw hat'],1
+['aurora borealis'],1
+['amateur radio'],1
+['phenomenon'],1
+['spider general'],1
+['arachnophobia'],1
+['invasive species'],1
+['spider queen'],1
+['creature feature'],1
+['exterminator'],1
+['hires root beer'],1
+['jack of spades'],1
+['wind chime'],1
+['floating on inner tube'],1
+['culvert'],1
+['bronko nagurski'],1
+['low men'],1
+['library card'],1
+['black market'],1
+['acting'],1
+['military base'],1
+['dance instructor'],1
+['computer games'],1
+['newcastle united'],1
+['state of emergency'],1
+['witness to a crime'],1
+['snake attack'],1
+['first class'],1
+['dance company'],1
+['nike'],1
+['flash mob'],1
+['furry'],1
+['failed business'],1
+['unlikely heroes'],1
+['超级妈妈'],1
+['big爆任务'],1
+['卧底肥妈'],1
+['绝地奶霸'],1
+['platoon leader'],1
+['court martial'],1
+['broken trachea'],1
+['jabba the hutt'],1
+['ewoks'],1
+['female prisoner'],1
+['building'],1
+['ambulance man'],1
+['divorce lawyer'],1
+['prairie'],1
+['cartographer'],1
+['helicopter pilot'],1
+['birth mother'],1
+['clergyman'],1
+['out of control'],1
+['missing woman'],1
+['materialism'],1
+['ringer'],1
+['ordensbruder'],1
+['psionic power'],1
+['nude protest'],1
+['teenage sex'],1
+['law student'],1
+['postal worker'],1
