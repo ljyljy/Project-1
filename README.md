@@ -1,23 +1,9 @@
-﻿The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
+﻿# What factors can make a financial success? And how to recommand a movie with keyword?
 
-Data related to the movie industry. Start with just the United States, (possibly extend to China and India).
-
-Main question we'll be asking of that data:
-
-What factors can make a financial success?
-
-
-(For all revenue changed to profit)
-
-(debug the warning only left one)
-
-(add enough comment for all the code)
-
-(use 2 function to simplifiy the code)
-
-(Not the same order of jupyter notebook file. Here is a logical order)
 
 1. correlation between each factors for heatmap
+
+![fig1. correlation](Output/png/correlation_heap.png)
 
 Conclusion: runtime and rating of the movie have no relationship with revenue
 
@@ -26,9 +12,13 @@ Conclusion: runtime and rating of the movie have no relationship with revenue
 
 a. Analysis most successful season in the year (Month)
 
+![fig2](Output/png/month_vs_revernueAndRate.png)
+
 Conclusion: In decade average of revenue is not increased with time going but total number is
 
 b. Analysis releasing time periods, adjusted for inflation (70s, 80s, 90s) (not necessary for presentation)
+
+![fig3](Output/png/years_vs_revernueAndRate.png)
 
 Conclusion: Summer and winter win
 
@@ -37,9 +27,15 @@ Conclusion: Summer and winter win
 
 Conclusion: help the companies to choose the director and actors based on genres
 
+![fig4](Output/png/genres_vs_revernueAndRate.png)
+
 a. Most appearances
 
 b. Revenue and rating
+
+![fig5](Output/png/Actor's_revenue_in_genres.png)
+
+![fig6](Output/png/Director's_revenue_in_genres.png)
 
 c. genres related for famous actors and directors (done for actors and deleted stan lee)
 
@@ -49,6 +45,7 @@ c. genres related for famous actors and directors (done for actors and deleted s
 Conclusion: Top 6 is animation, adventure, fantasy, family, science fiction and action. And a gap exists then
 
 a. Classify highest rated movies by genre
+
 
 b. Average and total revenue by genres
 
@@ -66,9 +63,16 @@ Conclusion: help the companies to choose the keywords based on genres
 
 a. Most-used keywords
 
+![fig7](Output/png/keyword_wordcloud.png)
+
 b. keywords compared with rating and profit
 
+![fig8](Output/png/keyword_wordcloud.png)
 
 Possible source for such data
+
+Recommandation of keyword:
+
+![fig8](Output/png/123.png)
 
 TMDB 5000 dataset from kaggle
